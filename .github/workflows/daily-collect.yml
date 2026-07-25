@@ -38,6 +38,9 @@ jobs:
           TARGET_DATE: ${{ github.event.inputs.target_date }}
         run: python collect.py
 
+      - name: 사건 기사 선별
+        run: python filter.py
+        
       - name: 결과 커밋
         run: |
           git config user.name  "github-actions[bot]"
