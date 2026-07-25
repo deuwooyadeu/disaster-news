@@ -40,6 +40,9 @@ jobs:
 
       - name: 사건 기사 선별
         run: python filter.py
+
+      - name: 같은 사건끼리 묶기
+        run: python cluster.py
         
       - name: 결과 커밋
         run: |
