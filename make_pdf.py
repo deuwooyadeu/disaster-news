@@ -102,6 +102,7 @@ MUTED = colors.HexColor("#6b6b6b")
 RULE = colors.HexColor("#d4d4d4")
 ACCENT = colors.HexColor("#8c2f24")
 BAND = colors.HexColor("#f2f0ed")
+LINK = colors.HexColor("#2f5d8a")
 
 CATEGORY_COLOR = {
     "자연재난": colors.HexColor("#2f5d50"),
@@ -264,6 +265,16 @@ def event_block(ev: dict, st: dict) -> KeepTogether:
         val = ev.get(key)
         if val:
             facts.append(f'<font name="{HEAD_FONT}" size="{pt(8.2)}">{label}</font>   {val}')
+
+    # 사실 확인용 대표 기사 링크. PDF에서 눌러 바로 열 수 있다.
+    src = ev.get("source")
+    if src and src.get("url"):
+        name = src.get("outlet") or "기사 원문"
+        facts.append(
+            f'<font name="{HEAD_FONT}" size="{pt(8.2)}">관련 기사</font>   '
+            f'<link href="{src["url"]}" color="{LINK.hexval()}">{name}</link>'
+        )
+
     meta = Paragraph("<br/>".join(facts), st["meta"])
 
     body = Paragraph(ev["summary"], st["body"])
@@ -332,8 +343,17 @@ def build(data: dict, out_path: Path) -> None:
 
     if data.get("minor_events"):
         story.append(Paragraph("그 밖에 확인된 사건", st["section"]))
-        rows = [[Paragraph(f'<font name="{HEAD_FONT}" size="{pt(8.6)}">{m["title"]}</font>', st["body"]),
-                 Paragraph(m["detail"], st["meta"])] for m in data["minor_events"]]
+        rows = []
+        for m in data["minor_events"]:
+            detail = m["detail"]
+            s = m.get("source")
+            if s and s.get("url"):
+                detail += (f'  <link href="{s["url"]}" color="{LINK.hexval()}">'
+                           f'[{s.get("outlet") or "기사"}]</link>')
+            rows.append([
+                Paragraph(f'<font name="{HEAD_FONT}" size="{pt(8.6)}">{m["title"]}</font>', st["body"]),
+                Paragraph(detail, st["meta"]),
+            ])
         tbl = Table(rows, colWidths=[62 * mm, (A4[0] - 2 * MARGIN_X) - 62 * mm])
         tbl.setStyle(TableStyle([
             ("VALIGN", (0, 0), (-1, -1), "TOP"),
