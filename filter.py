@@ -140,7 +140,8 @@ REGIONS = [
     "서귀포",
 ]
 # 위 목록에 없는 지자체도 잡기 위한 보조 패턴 (예: 부천시, 강서구, 울주군)
-REGION_GENERIC = re.compile(r"[가-힣]{2,3}(?:시|군|구)(?=[\s,.·에서의]|$)")
+# 앞뒤가 한글이면 제외한다. '낚시도구', '가재도구' 같은 오탐을 막기 위함.
+REGION_GENERIC = re.compile(r"(?<![가-힣])[가-힣]{2}(?:시|군|구)(?![가-힣])")
 REGION_RE = re.compile("|".join(REGIONS))
 
 CASUALTY_PATTERNS = [
