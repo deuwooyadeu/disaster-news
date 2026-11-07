@@ -1,0 +1,5200 @@
+{
+ "target_date": "2026-11-07",
+ "timezone": "Asia/Seoul",
+ "generated_at": "2026-11-08T05:40:47.672233+09:00",
+ "source_article_count": 916,
+ "filtered_article_count": 345,
+ "dropped_by_reason": {
+  "제외 주제": 149,
+  "사건성 부족": 301,
+  "해외 사건": 60,
+  "스포츠/연예 섹션": 61
+ },
+ "truncated_keywords": [],
+ "articles": [
+  {
+   "title": "서울 도봉구 한 건물 옥상에 설치한 텐트에서 불…인명피해는 없어",
+   "description": "소방 당국의 조사 결과 불은 건물 주민이 설치한 창고 목적용 텐트에서 발생했다. 불은 약 30분 만에 꺼졌지만, 354만 원이 넘는 재산 피해가 발생했다. 다행히 이 불로 인한 인명피해는 없었다. 소방 당국은 정확한 화재...",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649549?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790001.html",
+   "pubDate": "2026-11-07T00:19:00+09:00",
+   "matched_keywords": [
+    "창고화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "도봉구",
+    "서울"
+   ]
+  },
+  {
+   "title": "삼척시 하장면 단독주택서 불…주택 1동 전소·인명피해 없어",
+   "description": "6일 강원소방본부에 따르면 이날 오전 11시 32분께 삼척시 하장면 갈전리 하장휴게소 인근 1층짜리 목조 단독주택에서 화재가 발생했다. 소방 당국은 인력과 장비를 투입해 약 53분 만인 낮 12시 25분께 불을 완전히 껐다....",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744893",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744893",
+   "pubDate": "2026-11-07T00:58:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강원",
+    "삼척",
+    "삼척시"
+   ]
+  },
+  {
+   "title": "강릉 왕산면 주택에서 불...3명 긴급 대피",
+   "description": "어젯밤 10시 35분쯤 강원도 강릉시 왕산면에 있는 주택에서 불이 나 1시간 만에 꺼졌습니다. 화재 당시 3명이 급히 대피해 다친 사람은 없었습니다. 불은 인근 야산으로 옮겨붙었지만, 산불로 확산하지는 않았습니다.",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429483?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611070121182568",
+   "pubDate": "2026-11-07T01:21:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강릉",
+    "강릉시",
+    "강원"
+   ]
+  },
+  {
+   "title": "춘천 펜션서 불…투숙객 2명 경상·19명 대피",
+   "description": "태웠으며, 차량 2대는 일부를 태운 뒤 2시간 20여분 만인 오전 3시 34분께 꺼졌다. 불이 나자 펜션 주인 부부와 투숙객 등 19명이 대피했으며, 이 과정에서 투숙객 2명이 다쳐 치료받고 있다. 소방당국은 정확한 화재...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427602?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107009400062?input=1195m",
+   "pubDate": "2026-11-07T06:59:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2,
+    "evacuated": 19
+   }
+  },
+  {
+   "title": "강원 춘천 펜션 불…투숙객 2명 다쳐",
+   "description": "불은 펜션 1동과 차량 3대를 태우고 출동한 소방대원들에 의해 2시간 20분여만에 꺼졌습니다. 이 불로... 소방당국은 정확한 피해 규모와 화재 원인을 조사하고 있습니다. [사진 출처 : 강원소방본부 제공]",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289276?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706625&ref=A",
+   "pubDate": "2026-11-07T09:02:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강원",
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "제주 추자도 등대 인근서 어선 '좌초'…승선원 10명 무사",
+   "description": "7일 제주해양경찰서에 따르면 이날 오전 1시59분께 제주시 추자면 상추자항 입구 등대 인근 해상에서... 제주해양경찰서 관계자는 \"항·포구 주변의 경우 순간적인 부주의가 좌초나 충돌 등 큰 사고로 이어질 수 있다\"며...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307575?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858782",
+   "pubDate": "2026-11-07T09:23:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주",
+    "제주시"
+   ]
+  },
+  {
+   "title": "담양 메타세쿼이아 가로수길서 차량 화재…60대 운전자 숨져",
+   "description": "소방대가 도착했을 당시 차량은 이미 대부분 불에 탄 상태였습니다. 경찰은 주변 CCTV 영상과 차량 감식 등을 통해 정확한 사고 경위와 화재 원인을 조사할 계획입니다. #전남_담양 #메타세쿼이아 #가로수 #교통사고_사망",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923734?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261107092506Qyy",
+   "pubDate": "2026-11-07T09:25:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "교통사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "담양",
+    "전남"
+   ]
+  },
+  {
+   "title": "제주 상추자항 인근서 어선 좌초…승선원 10명 전원 구조",
+   "description": "제주시 추자면(추자도) 해상에서 10명이 탄 어선이 좌초됐으나 모두 구조됐다. 7일 제주해양경찰서에 따르면... 이 사고로 다친 사람은 없었다. 선체가 일부 손상되기는 했으나 침수 피해는 발생하지 않았다. 해경은...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275665?sid=102",
+   "originallink": "https://www.news1.kr/local/jeju/6346317",
+   "pubDate": "2026-11-07T09:45:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주",
+    "제주시"
+   ]
+  },
+  {
+   "title": "경남 통영 조선소, 60대 노동자 갑작스러운 사망…사인 미궁 속으로",
+   "description": "선박 건조를 위한 발판을 제거하던 60대 노동자 A씨가 쓰러졌다는 신고가 접수됐다. A씨는 곧바로 병원으로 옮겨졌으나 심정지 상태로 결국 목숨을 잃었다. A씨는 현장에서 동료 7명과 함께 작업을 진행 중이었다. 사고...",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=884531",
+   "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=884531",
+   "pubDate": "2026-11-07T09:54:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "추락사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경남",
+    "통영"
+   ]
+  },
+  {
+   "title": "성남 중원구 도로서 승용차 화재…차량 소실·인명피해 없어",
+   "description": "갓길에 차량을 정차했다. 운전자는 운전석 아래에 8년 전 설치한 블랙박스 보조배터리가 있었다고 진술했다. 신고를 접수한 소방 당국은 오전 6시 7분께 현장에 출동해 오전 6시 23분께 화재를 완전히 진압했다. 다행히...",
+   "link": "https://www.newspim.com/news/view/20261107000020",
+   "originallink": "https://www.newspim.com/news/view/20261107000020",
+   "pubDate": "2026-11-07T10:54:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "동해",
+    "성남",
+    "중원구"
+   ]
+  },
+  {
+   "title": "부산 남구 용호동 교차로서 승용차·오토바이 충돌…30대 라이더 중상",
+   "description": "현장 음주 측정 결과 B 씨는 술을 마시지 않은 것으로 확인됐다. 경찰은 A 씨의 음주 운전 여부를 파악하기 위해 채혈 측정을 진행했으며, 차량 블랙박스 영상과 도로 CCTV를 확보해 정확한 사고 경위를 조사하고 있다.",
+   "link": "https://www.betanews.net/article/view/beta202611070002",
+   "originallink": "https://www.betanews.net/article/view/beta202611070002",
+   "pubDate": "2026-11-07T11:36:00+09:00",
+   "matched_keywords": [
+    "음주운전사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "춘천 펜션서 화재…투숙객 2명 부상",
+   "description": "불은 펜션 한 동과 차량 3대를 태웠으며, 화재 발생 2시간 20여분 만인 오전 3시 34분쯤 진화됐습니다. 이 불로 펜션 주인 부부와 투숙객등 19명이 대피했으며, 그 중 투숙객 60대 여성이 손목을 다치고 70대 여성은 가슴...",
+   "link": "https://n.news.naver.com/mnews/article/057/0001977111?sid=102",
+   "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229544",
+   "pubDate": "2026-11-07T11:59:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2,
+    "evacuated": 19
+   }
+  },
+  {
+   "title": "강릉 왕산면 주택 화재로 건물 전소…인근 산림으로 불 번져",
+   "description": "불은 주택 주변 임야로까지 번졌으나 산불로 확대되지는 않았다. 소방·산림당국은 화재 진압을 위해 인력 66명과 장비 24대를 투입했으며 오후 11시 34분께 큰불을 잡았다. 당국은 잔불 정리와 현장 수습을 마치는 대로...",
+   "link": "https://idsn.co.kr/news/view/1065581524931427",
+   "originallink": "https://idsn.co.kr/news/view/1065581524931427",
+   "pubDate": "2026-11-07T12:06:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강릉"
+   ]
+  },
+  {
+   "title": "춘천 펜션서 심야 화재…건물·차량 불타고 투숙객 2명 부상",
+   "description": "불은 펜션 건물과 주차된 차량으로 번지면서 건물 1동과 차량 1대가 전소되고 차량 2대가 일부 소실되는 피해를 냈다. 화재 당시 펜션 주인 부부와 투숙객 등 19명이 건물 밖으로 대피했으나 이 과정에서 투숙객 2명이...",
+   "link": "https://idsn.co.kr/news/view/1065581590137243",
+   "originallink": "https://idsn.co.kr/news/view/1065581590137243",
+   "pubDate": "2026-11-07T12:20:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "군산항 정박 선박 3척 화재…인명피해 없어",
+   "description": "이 화재로 선박 2척이 전소됐으며, 인명피해는 발생하지 않았다. 소방서 추산 재산 피해는 1760만원으로 집계됐다. 해경과 소방 당국은 정확한 화재 원인을 조사하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275728?sid=102",
+   "originallink": "https://www.news1.kr/local/jeonbuk/6346366",
+   "pubDate": "2026-11-07T12:30:00+09:00",
+   "matched_keywords": [
+    "선박화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "군산"
+   ]
+  },
+  {
+   "title": "부산 용호동 교차로서 오토바이·승용차 충돌…2명 부상",
+   "description": "경찰은 A 씨의 음주 운전 여부를 확인 중이다. B 씨는 음주 상태가 아니었던 것으로 확인됐다. 경찰 관계자는 \"차량 블랙박스와 폐쇄회로(CC)TV 등을 토대로 정확한 사고 경위를 조사하고 있다\"고 말했다.",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275729?sid=102",
+   "originallink": "https://www.news1.kr/local/busan-gyeongnam/6346365",
+   "pubDate": "2026-11-07T12:31:00+09:00",
+   "matched_keywords": [
+    "음주운전사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "부산"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "담양서 가로수 들이받은 승용차 화재…1명 숨져",
+   "description": "경찰은 주변 CCTV 영상을 확보하고 차량 감식을 의뢰해 정확한 사고 경위와 화재 원인을 조사할 계획입니다. [화면제공 전남광주소방본부] #전남_담양 #메타세쿼이아 #가로수 #교통사고_사망",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923767?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202611071256561Wg",
+   "pubDate": "2026-11-07T12:57:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "교통사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "광주",
+    "담양",
+    "전남"
+   ],
+   "casualty_hints": {
+    "dead": 1
+   }
+  },
+  {
+   "title": "군산항 정박 선박 화재로 3척 불타…인명피해 없어",
+   "description": "등 추가 피해에 대비해 사고 선박 주변에 오일펜스를 설치했습니다. 해경과 소방은 정확한 화재 경위와 원인을 조사할 계획입니다. [화면제공 군산해양경찰서 전북소방본부] #군산항 #정박 #선박화재 #군산해경 #전북소방",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923787?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202611071345127Dc",
+   "pubDate": "2026-11-07T13:46:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "제주 추자도 해상서 46t 어선 좌초…승선원 10명 무사",
+   "description": "사고 선박은 자체 동력으로 항구에 입항했으며, 승선원 10명 모두 건강에 이상이 없는 것으로 확인됐다. 다만 입항 후 선체를 점검하는 과정에서 선미 부분 약 5m에 걸친 손상이 발견됐다. A호는 이날 오전 1시 45분께...",
+   "link": "https://idsn.co.kr/news/view/1065588416701008",
+   "originallink": "https://idsn.co.kr/news/view/1065588416701008",
+   "pubDate": "2026-11-07T13:50:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "해상사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "춘천 펜션서 화재…투숙객 2명 경상",
+   "description": "이 불로 펜션 건물과 차량 1대가 전소됐고, 차량 2대는 일부를 태운 뒤 2시간 20여분 만인 오전 3시 34분에... 투숙객 2명이 다쳐 치료받았다. 경찰과 소방 당국은 목격자 등을 상대로 정확한 화재 원인을 조사하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649603?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790056.html",
+   "pubDate": "2026-11-07T13:53:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "옥천로컬푸드직매장, 이용객 응급상황 대비 심폐소생술 및 AED 안전 교육...",
+   "description": "옥천로컬푸드직매장이 매장 이용객에게 발생할 수 있는 응급상황에 신속히 대응하기 위해 심폐소생술 및 자동심장충격기 사용 교육을 진행했다. 이번 교육은 연간...",
+   "link": "http://www.breaknews.com/1249090",
+   "originallink": "http://www.breaknews.com/1249090",
+   "pubDate": "2026-11-07T14:00:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 5,
+   "regions": [
+    "옥천"
+   ]
+  },
+  {
+   "title": "제주 추자도 어선 좌초…3시간 만 구조",
+   "description": "선박은 출항 중 등대 인근 암초를 미처 발견하지 못해 암초에 걸렸고, 사고 직후 배가 오른쪽으로 10도가량 기울었지만, 승선원 모두 구명조끼를 착용하고 있었으며 다친 사람은 없었습니다. 해경은 민간 구조 어선 2척과...",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923801?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107142254Sfl",
+   "pubDate": "2026-11-07T14:23:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "해상사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "서울 마곡동 온수관 파열로 행인 1명 중태…2도 화상",
+   "description": "▲ 서울 강서구 온수관 파열 어제(6일) 저녁 서울 강서구 마곡동에서 온수관 파열과 도로 땅꺼짐이 발생한 가운데 행인 1명이 온몸에 화상을 입어 중상인 것으로 파악됐습니다. 소방은 오늘 새벽 1시쯤 사고 현장을 지나던...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401350?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835192&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T14:42:00+09:00",
+   "matched_keywords": [
+    "땅꺼짐"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강서구",
+    "서울"
+   ]
+  },
+  {
+   "title": "서울 마곡동 열수송관 파손에 2명 부상…9000세대 온수·난방 중단",
+   "description": "사고 당시 현장을 지나던 40대 남성 A씨가 지반이 내려앉으면서 발생한 땅꺼짐에 추락했다. A씨는 전신에 화상을 입고 병원으로 옮겨졌으며 위중한 상태인 것으로 전해졌다. 현장을 수습하던 서울에너지공사 직원 1명도...",
+   "link": "https://n.news.naver.com/mnews/article/031/0001073088?sid=102",
+   "originallink": "http://www.inews24.com/view/2023694",
+   "pubDate": "2026-11-07T15:13:00+09:00",
+   "matched_keywords": [
+    "땅꺼짐"
+   ],
+   "event_score": 5,
+   "regions": [
+    "서울"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "천안 4층짜리 다세대주택서 불…4명 중·경상",
+   "description": "모두 생명에는 지장이 없는 것으로 전해졌다. 또 주민 11명이 대피하거나 소방 당국에 의해 구조됐다. 불은 주택 1세대를 모두 태운 뒤 약 20분 만에 꺼졌다. 소방 당국은 자세한 화재 원인과 피해 규모를 조사 중이다.",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275967?sid=102",
+   "originallink": "https://www.news1.kr/local/daejeon-chungnam/6346429",
+   "pubDate": "2026-11-07T15:43:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "천안"
+   ],
+   "casualty_hints": {
+    "evacuated": 11
+   }
+  },
+  {
+   "title": "군산항 정박 선박 3척 화재…1시간 53분 만에 완진, 인명피해 없어",
+   "description": "［뉴시안= 이상선 기자] 전북 군산항 1부두에 정박 중이던 16톤급 선박에서 불이 나 인근 선박 2척으로 번졌다. 해경과 소방당국은 화재 발생 1시간 53분 만에 불을 모두 껐으며, 인명피해는 발생하지 않았다. 7일...",
+   "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100814",
+   "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100814",
+   "pubDate": "2026-11-07T15:46:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "경주서 도로변 변압기 교체 중 화재…작업자 3명 중경상",
+   "description": "터지면서 화재가 발생해 작업자 1명은 중상, 나머지 2명은 경상을 입었다. 불은 한전 측 자체 진화로 10여분 만에 꺼졌다. 이 불로 변압기 1대가 훼손됐으며 일대 일부 상가에서 정전이 발생했다. 경찰은 한전 관계자 등을...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428046?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107039400053?input=1195m",
+   "pubDate": "2026-11-07T15:56:00+09:00",
+   "matched_keywords": [
+    "상가화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경주"
+   ],
+   "casualty_hints": {
+    "injured": 1
+   }
+  },
+  {
+   "title": "경주서 변압기 교체 중 폭발 추정 화재…작업자 3명 부상",
+   "description": "7일 오전 10시 3분쯤 경북 경주시 사정동의 한 상가 앞에서 변압기 교체 작업 중 폭발로 추정되는 화재가 발생해 작업자 3명이 다쳤다. 한전 관계자의 신고를 받고 출동한 소방대가 현장에 도착했을 때 불은 자체...",
+   "link": "https://www.newspim.com/news/view/20261107000084",
+   "originallink": "https://www.newspim.com/news/view/20261107000084",
+   "pubDate": "2026-11-07T15:58:00+09:00",
+   "matched_keywords": [
+    "상가화재",
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주",
+    "경주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "경주 사정동 도로 변압기 폭발… 작업자 3명 부상",
+   "description": "7일 경주 사정동 변압기 폭발 사고 현장. 경북소방본부 제공 7일 오전 10시 3분쯤 경북 경주시 사정동의 한 도로에서 변압기가 폭발해 작업자 3명이 다쳤다.경북소방본부에 따르면, 이날 변압기 교체 작업을 하던...",
+   "link": "https://www.yeongnam.com/web/view.php?key=20261107026009285",
+   "originallink": "https://www.yeongnam.com/web/view.php?key=20261107026009285",
+   "pubDate": "2026-11-07T16:04:00+09:00",
+   "matched_keywords": [
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주",
+    "경주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "충남 천안 다세대 주택 화재...4명 중경상",
+   "description": "다세대 주택에서 불이 나 20여 분 만에 꺼졌습니다. 이 불로 60대 1명이 크게 다쳤고 3명이 연기를 마셔 병원으로 옮겨졌습니다. 또 인근 주민 11명이 구조되거나 대피했습니다. 소방 당국은 화재 원인과 피해 규모를...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429652?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611071608408835",
+   "pubDate": "2026-11-07T16:08:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "천안",
+    "충남"
+   ]
+  },
+  {
+   "title": "경주서 도로변 변압기 교체 중 폭발사고… 작업자 3명 부상",
+   "description": "경주시와 소방 당국에 따르면 7일 오전 10시 3분쯤 경북 경주시 사정동의 한 도로변에서 교체작업을 하던 변압기에서 폭발사고가 났다. 이 사고로 50대 남성 1명이 얼굴 전체와 손등 등에 화상을, 함께 작업 중이던...",
+   "link": "https://www.hidomin.com/news/articleView.html?idxno=728299",
+   "originallink": "https://www.hidomin.com/news/articleView.html?idxno=728299",
+   "pubDate": "2026-11-07T16:12:00+09:00",
+   "matched_keywords": [
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주",
+    "경주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "천안 다세대주택서 불…60대女 등 4명 연기흡입 중·경상",
+   "description": "흡입해 중·경상을 입고 인근 병원으로 이송돼 치료 중이다. 생명에는 지장이 없는 것으로 파악됐다. 불은 주택 1세대를 모두 태우고 약 20여분만인 낮 12시8분께 꺼졌다. 소방당국은 정확한 화재 원인을 조사 중이다．",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307919?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858954",
+   "pubDate": "2026-11-07T16:15:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "천안"
+   ]
+  },
+  {
+   "title": "경북 경주서 변압기 교체 중 폭발…3명 부상",
+   "description": "변압기 폭발로 인한 화재는 40분 만에 완전히 꺼졌으며, 변압기 1대 일부가 불에 탔고 인근 상가에 한때 정전이 발생했습니다. 경찰과 소방당국은 정확한 사고 경위와 원인을 조사 중입니다. [사진 출처 : 경북소방본부...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289325?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706685&ref=A",
+   "pubDate": "2026-11-07T16:29:00+09:00",
+   "matched_keywords": [
+    "상가화재",
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "강원 주택·공장·펜션·국유림 화재…부상자에 재산피해도",
+   "description": "인제에서는 국유림 산불도 발생했다. 춘천 펜션 화재로 투숙객 2명이 경상을 입었다. 7일 소방본부에... 오전 6시35분께에는 인제군 서화면 서화리 민통선 인근 국유림에서도 산불이 발생했다. 불은 오전 9시2분께...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307940?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858961",
+   "pubDate": "2026-11-07T16:35:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재",
+    "공장화재",
+    "창고화재",
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강원",
+    "인제",
+    "인제군",
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "제주서 차와 부딪힌 승용차, 식당 덮쳐…3명 부상",
+   "description": "남성과 식당에 있던 40대와 50대 여성 손님 등 3명이 다쳐 병원으로 옮겨졌습니다. 경찰은 운전자 등을 상대로 정확한 사고 경위를 조사하고 있습니다. [화면제공 제주소방본부] #제주시 #교차로 #교통사고 #충돌사고 #부상",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923825?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107165004Avw",
+   "pubDate": "2026-11-07T16:50:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주",
+    "제주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "안성 공장 증축현장서 50대 노동자 추락사…중대재해법 조사",
+   "description": "중대재해처벌법은 사업주나 경영책임자 등이 안전·보건 확보 의무를 위반해 노동자가 사망하는 등 중대산업재해가 발생하면 이들을 처벌하도록 규정하고 있다. 구체적으로 ▲사망자가 1명 이상 발생한 경우 ▲동일한...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308012?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858974",
+   "pubDate": "2026-11-07T17:10:00+09:00",
+   "matched_keywords": [
+    "산업재해",
+    "중대재해"
+   ],
+   "event_score": 5,
+   "regions": [
+    "안성"
+   ]
+  },
+  {
+   "title": "설악산서 50대 등산객 20m 추락…홍천선 벌목 작업자 중상",
+   "description": "11월 첫 토요일인 7일 강원 설악산에서 50대 여성 등산객이 약 20m를 굴러떨어지는 사고가 났다. 홍천에서는 벌목 작업자가 나무에 다리가 깔려 중상을 입었다. 강원도소방본부에 따르면 이날 오전 10시 4분쯤 속초시...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276162?sid=102",
+   "originallink": "https://www.news1.kr/local/kangwon/6346468",
+   "pubDate": "2026-11-07T17:25:00+09:00",
+   "matched_keywords": [
+    "등산사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강원",
+    "속초",
+    "속초시",
+    "홍천"
+   ]
+  },
+  {
+   "title": "춘천 펜션 화재로 투숙객 2명 경상…설악산서 등산객 굴러떨어지기도",
+   "description": "불은 인근 임야로 번졌으나 산불로 확산하지는 않았다. 화재 당시 주택 안에는 3명이 있었으나 대피해 인명 피해는 없었다. 불은 7일 오전 0시 19분쯤 완전히 꺼졌다. 당국은 정확한 화재 원인과 피해 규모를 조사하고...",
+   "link": "https://n.news.naver.com/mnews/article/654/0000209874?sid=102",
+   "originallink": "https://www.kado.net/news/articleView.html?idxno=2083197",
+   "pubDate": "2026-11-07T17:27:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재",
+    "차량화재",
+    "교통사고",
+    "등산사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "경기 안성시 공장 증축공사 현장서 50대 추락해 숨져",
+   "description": "작업대와 부딪혀 5미터 높이에서 추락한 것으로 조사됐습니다. 고용노동부는 곧바로 작업 중지 조치를 하고 사고 조사에 착수했으며, 경찰도 중대재해처벌법 위반 여부 등을 수사할 계획입니다. [사진 출처 : 연합뉴스]",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289337?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706703&ref=A",
+   "pubDate": "2026-11-07T17:36:00+09:00",
+   "matched_keywords": [
+    "중대재해"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성",
+    "안성시"
+   ]
+  },
+  {
+   "title": "경기 안성 공사현장서 용접하던 50대 노동자 추락사…중재법 조사 착수",
+   "description": "철골 위 작업 중 이동하던 고소작업대와 충돌 약 5m아래로 추락…노동부 작업중지 조치 중대재해처벌법·산업안전보건법 위반 여부 조사 경기 안성시의 한 공장 증축공사 현장에서 용접작업을 하던 50대 노동자가 약 5m...",
+   "link": "https://www.kgnews.co.kr/news/article.html?no=918519",
+   "originallink": "https://www.kgnews.co.kr/news/article.html?no=918519",
+   "pubDate": "2026-11-07T17:40:00+09:00",
+   "matched_keywords": [
+    "산업재해",
+    "중대재해",
+    "추락사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성"
+   ]
+  },
+  {
+   "title": "경북 경주서 변압기 화재...작업자 3명 중·경상",
+   "description": "또 변압기 한 대가 불탔고, 주변 상가 일부에 전기 공급이 일시적으로 끊어졌습니다. 경찰과 소방 당국은 고장 난 변압기를 교체하던 중 화재가 일어난 것으로 보고 정확한 원인을 조사하고 있습니다.",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429676?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611071747348746",
+   "pubDate": "2026-11-07T17:47:00+09:00",
+   "matched_keywords": [
+    "상가화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주"
+   ]
+  },
+  {
+   "title": "문경 가은읍 창고서 야간 화재…150㎡ 건물 1동 전소",
+   "description": "문경소방서에 따르면 지난 6일 오후 9시 59분께 가은읍 왕능리의 한 창고에서 화재가 발생했다. 인근 모텔 주변에서 연기와 함께 터지는 소리가 난다는 신고를 받고 출동한 소방대는 오후 10시 2분께 현장에 도착해...",
+   "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089927",
+   "originallink": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089927",
+   "pubDate": "2026-11-07T17:54:00+09:00",
+   "matched_keywords": [
+    "창고화재",
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "문경"
+   ]
+  },
+  {
+   "title": "경주서 고장 난 변압기 교체 중 폭발…작업자 3명 중경상",
+   "description": "불은 한전 측 자체 진화로 10여 분 만에 꺼졌습니다. 이번 화재로 변압기 1대가 훼손됐고 일대 일부 상가에서는 정전이 발생했습니다. 경찰은 한전 관계자 등을 상대로 정확한 사고 경위를 조사하고 있습니다.",
+   "link": "https://n.news.naver.com/mnews/article/057/0001977149?sid=102",
+   "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229597",
+   "pubDate": "2026-11-07T17:57:00+09:00",
+   "matched_keywords": [
+    "상가화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경주"
+   ]
+  },
+  {
+   "title": "경주 사정동서 변압기 교체 중 폭발…작업자 3명 중·경상",
+   "description": "또 변압기 한 대가 불탔고, 주변 상가 일부에 전기 공급이 일시적으로 끊어졌다. 경찰과 소방 당국은 고장 난 변압기를 교체하던 중 화재가 일어난 것으로 보고 정확한 원인을 조사하고 있다.",
+   "link": "https://www.kbsm.net/news/view.php?idx=540713",
+   "originallink": "https://www.kbsm.net/news/view.php?idx=540713",
+   "pubDate": "2026-11-07T18:04:00+09:00",
+   "matched_keywords": [
+    "상가화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경주"
+   ]
+  },
+  {
+   "title": "안성 공사현장 고소작업대서 추락한 50대 근로자 사망",
+   "description": "7일 오전 10시 24분께 경기도 안성시 원곡면의 한 반도체 장비 업체 공사현장에서 50대 근로자가 사망하는 사고가 났다. 근로자 A씨는 철골구조물 제작 작업에 투입돼 고소작업대에 올라가 용접작업을 하던 중 약 4ｍ...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428276?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107047000061?input=1195m",
+   "pubDate": "2026-11-07T18:05:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성",
+    "안성시"
+   ]
+  },
+  {
+   "title": "안성 공사현장 고소작업대서 추락한 50대 작업자 사망",
+   "description": "7일 오전 10시 24분께 경기도 안성시 원곡면의 한 반도체 장비 업체 공사현장에서 50대 근로자가 사망하는 사고가 났다. 근로자 A씨는 철골구조물 제작 작업에 투입돼 고소작업대에 올라가 용접작업을 하던 중 약 4ｍ...",
+   "link": "https://n.news.naver.com/mnews/article/029/0003057618?sid=102",
+   "originallink": "https://www.dt.co.kr/article/12093661?ref=naver",
+   "pubDate": "2026-11-07T18:08:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성",
+    "안성시"
+   ]
+  },
+  {
+   "title": "진천 중부고속도로서 차량 5대 연쇄 추돌…3명 중·경상",
+   "description": "7일 오후 4시26분께 충북 진천군 중부고속도로 남이 방향 가산교 인근에서 70대 A씨가 몰던 1t 화물차가 앞서가던 승용차를 들이받았다. 사고 충격으로 승용차가 앞으로 밀리면서 SUV 등 앞서가던 차량 3대가 잇따라 앞...",
+   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000080494",
+   "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000080494",
+   "pubDate": "2026-11-07T18:25:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "진천",
+    "진천군",
+    "충북"
+   ]
+  },
+  {
+   "title": "진천 중부고속도로서 차량 5대 연쇄 추돌…3명 부상",
+   "description": "경찰 등에 따르면 70대 A 씨가 몰던 1t 화물차가 앞서가던 승용차를 들이받은 뒤, 사고 충격으로 SUV 등 차량 3대가 연이어 추돌했다. 이 사고로 A 씨가 발을 크게 다쳐 병원으로 옮겨졌으며, 다른 차량 탑승자 2명도...",
+   "link": "https://n.news.naver.com/mnews/article/656/0000191732?sid=102",
+   "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2312027",
+   "pubDate": "2026-11-07T18:28:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "진천"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "제주 상추자항 앞바다서 어선 좌초…인명 피해 없어",
+   "description": "이 사고로 선박 일부가 손상됐지만, 인명 피해는 없었다. 해경은 그물 작업을 하기 위해 불빛을 밝히는 과정에서 암초를 못해 사고가 난 것으로 보고 정확한 사고 원인을 조사하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649628?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790118.html",
+   "pubDate": "2026-11-07T18:32:00+09:00",
+   "matched_keywords": [
+    "선박사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "“산 자의 죄책감에 매몰” 정선희, 슬픔 극복하게 한 ‘인생책’",
+   "description": "김영철도 해당 책을 읽으며 1991년 교통사고로 세상을 떠난 형과 자식을 떠나보낸 어머니를 떠올렸다고 했다. 김영철은 “형이 교통사고로 하늘나라에 갔는데, 철저하게 엄마의 입장에서 이 책을 읽어봤다”고 언급했다....",
+   "link": "https://n.news.naver.com/mnews/article/025/0003563513?sid=102",
+   "originallink": "https://www.joongang.co.kr/article/25476615",
+   "pubDate": "2026-11-07T18:38:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "매몰사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "정선"
+   ]
+  },
+  {
+   "title": "안성 공사현장 작업 중 추락한 50대 사망",
+   "description": "오늘(7일) 오전 10시 25분쯤 경기도 안성시 원곡면의 한 반도체 장비 업체 공사 현장에서 50대 근로자가 사망하는 사고가 발생했습니다. 근로자 A 씨는 철골구조물 제작 작업에 투입돼 용접작업을 하던 중 약 4ｍ 높이에서...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401375?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835407&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T18:49:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성",
+    "안성시"
+   ]
+  },
+  {
+   "title": "안성 반도체 장비 공장 증축 현장서 50대 노동자 추락사",
+   "description": "경찰은 안전장비 착용 여부, 안전수칙 위반 여부 등 구체적인 사고 경위를 조사하고 있다. 고용노동부는 작업 중지 조치를 내린 것으로 알려졌으며, 중대재해처벌법 위반 여부를 조사할 방침이다.",
+   "link": "https://www.kyeongin.com/article/1774272",
+   "originallink": "https://www.kyeongin.com/article/1774272",
+   "pubDate": "2026-11-07T19:42:00+09:00",
+   "matched_keywords": [
+    "중대재해",
+    "추락사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "안성"
+   ]
+  },
+  {
+   "title": "진천 중부고속도로서 5중 연쇄 추돌사고, 3명 부상",
+   "description": "7일 오후 4시 26분쯤 중부고속도로 남이 방향 가산교(충북 진천군 진천읍) 인근에서 A 씨(70대)가 몰던 1톤 화물차가 앞서 달리던 승용차를 들이받았다. 이 사고로 5중 연쇄 추돌사고가 발생했고, 3명이 부상을 입고 인근...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276232?sid=102",
+   "originallink": "https://www.news1.kr/local/sejong-chungbuk/6346524",
+   "pubDate": "2026-11-07T19:45:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "진천",
+    "진천군",
+    "충북"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "강남구, 구룡마을 화재 이재민 97명 숙식·구호물품 지원",
+   "description": "임시대피소 운영에 이어 숙박·식사와 구호물품을 제공하고, 서울시·서울주택도시공사(SH)와 함께 후속 주거 대책을 추진하고 있다. 구는 화재 발생 직후 개포중학교와 구룡중학교에 임시대피소를 설치하고 식사와...",
+   "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325150",
+   "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325150",
+   "pubDate": "2026-11-07T19:54:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "차량화재",
+    "감염병",
+    "이재민"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강남구",
+    "서울",
+    "서울시"
+   ]
+  },
+  {
+   "title": "경기 안성 공사장에서 50대 노동자 추락해 사망",
+   "description": "용접작업을 하던 중 약 4m 아래로 떨어진 것으로 조사됐습니다. 남성은 헬기를 통해 병원으로 이송됐지만 끝내 숨졌습니다. 경찰은 이 남성과 함께 일하던 노동자 등을 상대로 정확한 사고 경위를 조사하고 있습니다.",
+   "link": "https://n.news.naver.com/mnews/article/214/0001534135?sid=102",
+   "originallink": "https://imnews.imbc.com/news/2026/society/article/6863936_36918.html",
+   "pubDate": "2026-11-07T20:12:00+09:00",
+   "matched_keywords": [
+    "공사장사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성"
+   ]
+  },
+  {
+   "title": "경주 도심 변압기 교체작업 중 폭발화재…작업자 3명 중경상",
+   "description": "경북 경주 도심에서 변압기 교체작업 중 폭발화재 사고가 발생해 3명이 중경상을 입고 병원으로 이송됐다. 7일 경북소방본부에 따르면 이날 오전 10시 33분쯤 경주시 사정동 인근 A상가 앞 변압기가 터졌다는 신고가...",
+   "link": "https://n.news.naver.com/mnews/article/079/0004207484?sid=102",
+   "originallink": "https://www.nocutnews.co.kr/news/6603588?utm_source=naver&utm_medium=article&utm_campaign=20261107202714",
+   "pubDate": "2026-11-07T20:28:00+09:00",
+   "matched_keywords": [
+    "상가화재",
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주",
+    "경주시"
+   ]
+  },
+  {
+   "title": "천안 다세대주택 화재…4명 중·경상",
+   "description": "등 4명이 연기를 마시는 등 중·경상을 입어 병원으로 옮겨졌고, 주민 11명이 대피하거나 구조됐습니다. 불은 주택 한 세대를 태우고 20분 만에 꺼졌으며, 소방당국은 정확한 화재 원인과 피해규모를 조사하고 있습니다.",
+   "link": "https://tjmbc.co.kr/NewsArticle/872046",
+   "originallink": "https://tjmbc.co.kr/NewsArticle/872046",
+   "pubDate": "2026-11-07T20:35:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "천안"
+   ],
+   "casualty_hints": {
+    "evacuated": 11
+   }
+  },
+  {
+   "title": "인천 강화풍물시장 교차로서 연쇄 추돌...1명 사망",
+   "description": "7일 오전 11시22분께 인천 강화군 강화읍 풍물시장 인근 사거리에서 우회전하던 1t 트럭이 앞서가던 오토바이와 버스를 들이받는 사고가 났다. 이 사고로 오토바이가 넘어지며 인근에 주차해 놓은 차량과 부딪혔고, 1t...",
+   "link": "https://n.news.naver.com/mnews/article/666/0000131034?sid=102",
+   "originallink": "https://www.kyeonggi.com/article/20261107580123",
+   "pubDate": "2026-11-07T20:46:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강화군",
+    "인천"
+   ],
+   "casualty_hints": {
+    "dead": 1
+   }
+  },
+  {
+   "title": "춘천 펜션서 화재..투숙객 19명 긴급 대피",
+   "description": "불은 펜션 건물 한 동과 차량 3대를 태운 뒤, 2시간 20여 분 만에 꺼졌습니다. 불이 나자 펜션 주인 부부와... 호소해 병원으로 옮겨져 치료를 받았습니다. 소방당국은 정확한 피해 규모와 화재 원인을 조사하고 있습니다.",
+   "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=350754",
+   "originallink": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=350754",
+   "pubDate": "2026-11-07T20:55:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천"
+   ]
+  },
+  {
+   "title": "안성 공사장서 용접하던 50대 근로자 추락해 숨져",
+   "description": "경기 안성의 한 공사장에서 용접 작업을 하던 50대 근로자가 약 4m 높이에서 추락해 숨졌다. 사진=연합뉴스... 철골구조물 제작 작업에 투입된 A씨는 고소작업대에 올라 용접하던 중 사고를 당한 것으로 파악됐다. A씨는...",
+   "link": "https://n.news.naver.com/mnews/article/022/0004173285?sid=102",
+   "originallink": "https://www.segye.com/newsView/20261107506227?OutUrl=naver",
+   "pubDate": "2026-11-07T21:13:00+09:00",
+   "matched_keywords": [
+    "공사장사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경기",
+    "안성"
+   ]
+  },
+  {
+   "title": "경주 변압기 교체 작업 중 폭발...3명 다쳐",
+   "description": "오늘(7일) 오전 10시쯤 경주시 사정동의 한 도로에서 신호등 변압기 교체 작업 중 폭발 사고가 발생해 50대 A씨 등 작업자 3명이 다쳤습니다. 이 사고로 신호등이 고장나면서 경찰이 일대 교통을 통제하기도 했습니다....",
+   "link": "https://www.tbc.co.kr/news/view?pno=20261107151643AE08141&id=213050",
+   "originallink": "https://www.tbc.co.kr/news/view?pno=20261107151643AE08141&id=213050",
+   "pubDate": "2026-11-07T21:32:00+09:00",
+   "matched_keywords": [
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경주",
+    "경주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "경주서 변압기 폭발…한전 작업자 3명 다쳐",
+   "description": "측 작업자 1명이 중상을, 나머지 2명은 경상을 입고 병원으로 옮겨졌습니다. 변압기 폭발로 인한 화재는 한전 자체 진화로 40분 만에 꺼졌고, 변압기 1대 일부가 불에 탔으며 인근 상가에 한때 정전이 발생했습니다.",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289395?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706780&ref=A",
+   "pubDate": "2026-11-07T21:33:00+09:00",
+   "matched_keywords": [
+    "상가화재",
+    "폭발사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경주"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "제주서 어선 좌초, 군산항 정박 선박에 불",
+   "description": "교통사고도 이어졌습니다. 제주시 건입동에서는 SUV 차량이 승용차와 충돌한 뒤 인근 식당을 들이받습니다. SUV 운전자와 식당에 있던 여성 2명 등 모두 3명이 경상을 입어 병원으로 이송됐습니다. 부산 용호동...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429719?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611072202387649",
+   "pubDate": "2026-11-07T22:02:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "선박사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "군산",
+    "부산",
+    "제주",
+    "제주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "춘천 펜션 화재 2명 부상…홍천 벌목 사고",
+   "description": "이 불로 펜션 1동과 차량 3대가 탔고, 60대와 70대 여성 투숙객 2명이 다쳐 병원으로 옮겨졌습니다. 또, 오전 10시 홍천에서는 벌목 작업하던 50대가 나무에 깔려 다리 등을 다쳤습니다.",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289421?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706815&ref=A",
+   "pubDate": "2026-11-07T22:06:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "춘천",
+    "홍천"
+   ],
+   "casualty_hints": {
+    "injured": 2
+   }
+  },
+  {
+   "title": "인천 강화 풍물시장 인근서 연쇄 추돌 사고…70대 운전자 숨져",
+   "description": "오늘(7일) 오전 11시 22분쯤 인천시 강화군 강화읍 풍물시장 인근 사거리에서 우회전하던 1t 트럭이 앞서가던 오토바이와 버스를 들이받는 사고가 발생했습니다. 이 사고로 오토바이가 넘어지며 인근에 정차된 차량과...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401409?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835483&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T22:40:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "음주운전사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "강화군",
+    "인천",
+    "인천시"
+   ]
+  },
+  {
+   "title": "경주서 변압기 폭발로 작업자 3명 화상…80대 해녀는 심정지",
+   "description": "경북 경주에서 도심 변압기 폭발사고로 작업자 3명이 화상을 입고, 해상에서는 미역 작업을 하던 80대 해녀가 심정지 상태로 구조되는 등 안전사고가 잇따랐다. 7일 오전 10시 3분쯤 경주 도심인 사정동의 한 도로에서...",
+   "link": "https://n.news.naver.com/mnews/article/079/0004207496?sid=102",
+   "originallink": "https://www.nocutnews.co.kr/news/6603604?utm_source=naver&utm_medium=article&utm_campaign=20261107225615",
+   "pubDate": "2026-11-07T22:57:00+09:00",
+   "matched_keywords": [
+    "폭발사고",
+    "해상사고"
+   ],
+   "event_score": 5,
+   "regions": [
+    "경북",
+    "경주"
+   ]
+  },
+  {
+   "title": "새만금전주고속도로서 1톤 화물차에 불…운전자 등 2명 화상",
+   "description": "달리던 1톤 화물차에서 불이 났습니다. 이 불로 운전자 등 2명이 손 등에 화상을 입었고, 적재함 등 차량 일부가 탔습니다 경찰과 소방 당국은 정확한 화재 원인을 조시하고 있습니다. [사진 출처 : 전북소방]",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289429?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706827&ref=A",
+   "pubDate": "2026-11-07T22:58:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 5,
+   "regions": [
+    "전북",
+    "전주"
+   ]
+  },
+  {
+   "title": "울산화력발전소 붕괴 사고 1년...조사 결과는 '인재'",
+   "description": "노동자 7명이 숨지는 등 사상자 9명이 발생한 울산화력발전소 붕괴 사고가 난 지 1년이 됐습니다. 정부 합동 조사 결과, 무게를 수백 톤이나 덜 계산하고 기둥 두께도 제대로 확인하지 않은 전형적인 '인재'로...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429748?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611072313214160",
+   "pubDate": "2026-11-07T23:13:00+09:00",
+   "matched_keywords": [
+    "붕괴사고",
+    "중대재해"
+   ],
+   "event_score": 5,
+   "regions": [
+    "울산"
+   ],
+   "casualty_hints": {
+    "dead": 7
+   }
+  },
+  {
+   "title": "강원 강릉 주택서 불‥거주자 3명 대피",
+   "description": "강릉시 왕산면의 한 주택에서 불이 나 약 2시간 만에 꺼졌습니다. 이 불로 다친 사람은 없었지만 집 안에 있던 3명이 대피하고 주택 1채가 모두 탔습니다. 소방당국은 정확한 화재 원인과 피해 규모를 조사하고 있습니다.",
+   "link": "https://n.news.naver.com/mnews/article/214/0001534061?sid=102",
+   "originallink": "https://imnews.imbc.com/news/2026/society/article/6863840_36918.html",
+   "pubDate": "2026-11-07T00:40:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강릉",
+    "강릉시",
+    "강원"
+   ],
+   "casualty_hints": {
+    "evacuated": 3
+   }
+  },
+  {
+   "title": "26살 환경미화원 사망‥또 '청소차 발판' 사고",
+   "description": "◀ 앵커 ▶ 청소차량 뒤 발판에 올라서서 이동하던 환경미화노동자가 화물차 추돌사고로 숨졌습니다. 발판 위에서 이동하는 건 물론이고 발판을 설치하는 것 자체가 불법이지만 열악한 노동 조건 때문에 비슷한 사고가...",
+   "link": "https://n.news.naver.com/mnews/article/214/0001534084?sid=102",
+   "originallink": "https://imnews.imbc.com/replay/2026/nw2500/article/6863847_36989.html",
+   "pubDate": "2026-11-07T00:50:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "우크라 발전소 때리는 러…혹한기 앞두고 정전 피해 잇달아(종합)",
+   "description": "최근 러시아의 우크라이나 에너지 시설 집중 공격으로 우크라이나 전역에서 정전 사태가 계속되고 있다. 지난 3일에는 오데사 등 우크라이나 9개 지역의 발전시설과 변전소가 대규모 공격을 받아 정전에 이어 단수...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427546?sid=104",
+   "originallink": "https://www.yna.co.kr/view/AKR20261106172151109?input=1195m",
+   "pubDate": "2026-11-07T00:52:00+09:00",
+   "matched_keywords": [
+    "정전사태",
+    "단수사태"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "걸프 해역서 유조선 피격, 선원 1명 사망…미사일 공격 의심",
+   "description": "이어 다른 선원들의 부상은 없었고, 선원들이 폭발로 발생한 선내 화재를 진압했으며, 해양 오염이 발생했다는 보고도 없었다고 덧붙였다. 해당 선박은 바레인의 칼리파 빈 살만 항구로 이동했으며 사고 원인에 대한...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275522?sid=104",
+   "originallink": "https://www.news1.kr/world/middleeast-africa/6346261",
+   "pubDate": "2026-11-07T01:11:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 4,
+   "regions": [],
+   "casualty_hints": {
+    "dead": 1
+   }
+  },
+  {
+   "title": "역삼 방화-은평 前연인 살해… 고립된 고령층, 원한-갈등이 범죄로",
+   "description": "⟪역삼 방화-은평 前연인 살해… 늘어나는 고령층 강력범죄 지난달 이명수(77)의 서울 강남구 특허법인 방화로 26명이 다친 데 이어 이달 서울 은평구에서 60대 남성이 전 연인을 살해하는 등 특정인을 향한 원한과...",
+   "link": "https://n.news.naver.com/mnews/article/020/0003760731?sid=102",
+   "originallink": "https://www.donga.com/news/Society/article/all/20261106/134982243/2",
+   "pubDate": "2026-11-07T01:43:00+09:00",
+   "matched_keywords": [
+    "방화"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강남구",
+    "고령",
+    "서울"
+   ]
+  },
+  {
+   "title": "[현장] \"언제 죽을지 모르는 현장\"… HD현대삼호서 또 무너진 청년의 꿈",
+   "description": "최민수 전남조선하청지회장이 HD현대삼호에서 반복되는 사망사고를 규탄하며 현장의 위험을 호소했다. 선박 내부에서 용접작업에 투입된 28세 하청노동자가 숨진 지 사흘 만이다. 최근 3년간 HD현대삼호에서 노동자 4명이...",
+   "link": "https://www.newscj.com/news/articleView.html?idxno=3446682",
+   "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446682",
+   "pubDate": "2026-11-07T03:26:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "중대재해",
+    "질식사고",
+    "사망사고",
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": [
+    "전남"
+   ]
+  },
+  {
+   "title": "가로수 들이받은 승용차 화재...60대 운전자 사망",
+   "description": "퇴근 시간 무렵, 고층 아파트에서 화재가 발생해 자칫 큰 피해로 이어질 뻔했습니다. 사건·사고 소식, 김웅래 기자입니다. [기자] 찌그러진 승용차가 불에 탄 채 나무 앞에 멈춰 서 있습니다. 어제 오후 5시 40분쯤...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429507?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611070430454152",
+   "pubDate": "2026-11-07T04:30:00+09:00",
+   "matched_keywords": [
+    "아파트화재"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "의왕시, 공무원 응급처치 역량 강화…시민 생명 보호 나서",
+   "description": "응급처지 교육 실습 모습/ 사진=의왕시 의왕시가 공직자들의 응급상황 대응 능력을 높이기 위해 심폐소생술 등 응급처치 교육을 실시하고 시민과 동료 직원의 생명을 보호하기 위한 현장 대응 역량 강화에 나섰다. 시는...",
+   "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=251422",
+   "originallink": "https://www.safetynews.co.kr/news/articleView.html?idxno=251422",
+   "pubDate": "2026-11-07T06:58:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": [
+    "의왕시"
+   ]
+  },
+  {
+   "title": "'치안 1번지'는 수장 공백…경기남부청 67일째 직무대리 체제",
+   "description": "최근 5년간 검거된 외국인 피의자의 약 30%, 2025년 기준 외국인 운전자 교통사고의 32.9%(사망사고의 35.1%)가 경기남부 지역에 쏠려 있다. 올해 1∼9월 접수된 112신고 역시 246만1천842건에 달하며, 전국 가정폭력·스토킹 등...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427605?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261106144800061?input=1195m",
+   "pubDate": "2026-11-07T07:00:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "사망사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "경기"
+   ]
+  },
+  {
+   "title": "볼리비아서 숨진 진쓰레블, 마지막 영상 공개",
+   "description": "볼리비아에서 자전거를 타고 이동하다 교통사고로 세상을 떠난 여행 유튜버 진쓰레블(본명 조진우)의 마지막 여정이 영상으로 공개된다. 생전 직접 편집해 예약 업로드한 영상이 팬들에게 마지막 선물로 남게 된 가운데...",
+   "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=94708",
+   "originallink": "https://www.mediafine.co.kr/news/articleView.html?idxno=94708",
+   "pubDate": "2026-11-07T07:36:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "[단독]구룡마을 화재 열흘···이재민 30가구 마을로 돌아갔다",
+   "description": "긴급임시사용주택은 화재나 홍수 등 재난이 발생했을 때 자치구에서 이재민에게 제공하는 공공임대주택으로, 소액의 임대료만 내면 6개월간 보증금 없이 거주할 수 있다. SH는 구룡마을 화재 피해 가구에 임대료의 60%를...",
+   "link": "https://n.news.naver.com/mnews/article/032/0003481217?sid=102",
+   "originallink": "https://www.khan.co.kr/article/202611070900031",
+   "pubDate": "2026-11-07T09:00:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "대형화재",
+    "방화",
+    "이재민"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "출항 10여 분 만에 암초 걸려 어선 좌초.. 승선원은 무사",
+   "description": "제주 추자도에서 어선이 출항 10여 분 만에 암초에 좌초되는 사고가 발생했습니다. 제주해양경찰서에 따르면 오늘(7일) 새벽 2시쯤 상추자항 입구 등대 인근 해상에서 추자선적 근해자망 46톤 급 A 호가 좌초됐다는 신고가...",
+   "link": "https://n.news.naver.com/mnews/article/661/0000086269?sid=102",
+   "originallink": "https://www.jibs.co.kr/news/articles/articlesDetail/67359?feed=na",
+   "pubDate": "2026-11-07T09:21:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "뺑소니에 숨진 33세 유튜버…예약된 '마지막 영상' 있었다",
+   "description": "남미 볼리비아에서 자전거 여행 중 교통사고로 숨진 한국인 유튜버 진쓰레블(본명 조진우·33)의 마지막 영상이 공개될 예정이다. 지난 6일 유튜브 채널 '진쓰레블'에는 자신을 고인의 친형이라고 밝힌 A씨의 글이...",
+   "link": "https://n.news.naver.com/mnews/article/215/0001271985?sid=103",
+   "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611070014&t=NN",
+   "pubDate": "2026-11-07T09:23:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "용감한 형사들5, 폭우 속 여성 시신 사건과 신생아 택배 사건 전말 공개",
+   "description": "당시 하천은 범람 직전까지 불어난 상태였고, 현장에서는 혈흔이나 족적 등 뚜렷한 단서를 찾기 어려운 상황이었다. 피해자는 빨간색 티셔츠만 착용한 상태였으며, 부패가 상당히 진행돼 신원 확인도 쉽지 않았다. 부검...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270545",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270545",
+   "pubDate": "2026-11-07T09:30:00+09:00",
+   "matched_keywords": [
+    "하천범람"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "전남광주소방, 제주 암모니아 사고 계기 시민 대피 3대 요령 안내",
+   "description": "누출이 의심되면 젖은 수건이나 마스크로 코와 입을 가리되 이것이 완전한 차단 수단이 아닌 만큼 오염지역을 최우선으로 벗어나야 한다. 야외에서는 무작정 뛰면 가스 확산 경로로 들어갈 수 있어 바람 방향과 직각인...",
+   "link": "https://www.namdonews.com/news/articleView.html?idxno=928430",
+   "originallink": "https://www.namdonews.com/news/articleView.html?idxno=928430",
+   "pubDate": "2026-11-07T09:34:00+09:00",
+   "matched_keywords": [
+    "가스누출",
+    "유해화학물질",
+    "암모니아누출",
+    "긴급재난문자"
+   ],
+   "event_score": 4,
+   "regions": [
+    "광주",
+    "전남",
+    "제주"
+   ]
+  },
+  {
+   "title": "대전시, 과적 화물차 합동단속 추진",
+   "description": "대전시가 화물차 과적으로 인한 도로 파손과 교통사고를 예방하기 위해 3주간 과적차량 집중단속에 나서고 관할 경찰서와 합동단속도 함께 벌이고 있다. 6일 대전시에 따르면, 이번 합동단속은 최근 소·중형 화물차...",
+   "link": "https://www.thepublic.kr/news/articleView.html?idxno=325415",
+   "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325415",
+   "pubDate": "2026-11-07T09:36:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "대전",
+    "대전시"
+   ]
+  },
+  {
+   "title": "새벽 쓰레기 수거하던 20대 환경미화원, 뒤따르던 '화물차'에 치여 숨져",
+   "description": "6일 충북 청주청원경찰서에 따르면 전날 오전 5시 20분쯤 청주시 청원구 사천동의 한 도로에서 60대 운전자가 몰던 화물차가 앞서가던 쓰레기 수거차량을 들이받았다.사고는 수거차량이 3차로에서 1차로로 차선을 바꾼 뒤...",
+   "link": "https://www.insight.co.kr/news/581030",
+   "originallink": "https://www.insight.co.kr/news/581030",
+   "pubDate": "2026-11-07T09:42:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "사천",
+    "청원구",
+    "청주",
+    "청주시",
+    "충북"
+   ]
+  },
+  {
+   "title": "‘용감한 형사들5’ 신생아 시신 택배 사건",
+   "description": "범람할 정도로 불어난 하천 주변에서는 혈흔이나 족적을 찾기 어려웠다. 피해자는 빨간색 티셔츠만 입은 상태였고, 시신의 부패도 상당히 진행돼 신원 확인이 쉽지 않았다. 부검 결과 피해자의 몸에서는 사망 이후 생긴...",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611070077",
+   "originallink": "https://www.bntnews.co.kr/article/view/bnt202611070077",
+   "pubDate": "2026-11-07T09:50:00+09:00",
+   "matched_keywords": [
+    "하천범람"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "추자도서 출항하던 어선 좌초…승선원 10명 전원 무사",
+   "description": "제주 추자도 해상에서 출항하던 46톤급 어선이 암초에 걸려 좌초됐으나 해경의 구조 작업으로 승선원 10명... 김영습 제주해경 경비구조과장은 \"항·포구 주변에서는 순간적인 부주의가 좌초나 충돌 등 큰 사고로 이어질...",
+   "link": "https://www.newsjeju.net/news/articleView.html?idxno=428073",
+   "originallink": "https://www.newsjeju.net/news/articleView.html?idxno=428073",
+   "pubDate": "2026-11-07T10:06:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "고속도로에 경비행기 추락, 탑승자 2명 사망…사고 직후 불길 휩싸여",
+   "description": "현지 매체에 따르면 사고 항공기는 슐레스비히플렌스부르크 지역의 항공 스포츠 클럽인 '에어로 클럽 크롭(Aero Club Kropp)' 소속이다. 클럽 회장은 탑승자 가운데 한 명은 클럽 회원이고 다른 한 명은 그의 동승자라고...",
+   "link": "https://n.news.naver.com/mnews/article/076/0004464199?sid=102",
+   "originallink": "https://www.sportschosun.com/life/2026-11-07/202611070100048630004918",
+   "pubDate": "2026-11-07T10:42:00+09:00",
+   "matched_keywords": [
+    "항공사고",
+    "사망사고"
+   ],
+   "event_score": 4,
+   "regions": [],
+   "casualty_hints": {
+    "dead": 2
+   }
+  },
+  {
+   "title": "서울 마곡동 온수관 복구 완료...열 공급 재개",
+   "description": "비슷한 시각 전북 군산 오식도동에서는 21층짜리 아파트 16층 세대에서 불이 나 30분 만에 꺼졌습니다. 소방이 현장을 수색한 결과, 이 불로 다친 사람은 없었습니다. 경찰과 소방은 정확한 화재 원인과 피해 규모를...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429570?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0103_202611071057271660",
+   "pubDate": "2026-11-07T10:57:00+09:00",
+   "matched_keywords": [
+    "아파트화재",
+    "차량화재"
+   ],
+   "event_score": 4,
+   "regions": [
+    "군산",
+    "서울",
+    "전북"
+   ]
+  },
+  {
+   "title": "정용채 경북도의원 \"산불 보상 사각지대 해소·행복재단 특별감사 나서...",
+   "description": "도정질문 산불 피해 지원 확대·행복재단 연구원 사망 진상 규명 촉구 소규모학교 학생 수 산정기준 개선도 요구 정용채(민주당) 경북도의원은 6일 열린 제367회 정례회 본회의 도정질문에서 경북 북부지역 산불 피해 보상...",
+   "link": "https://www.etoday.co.kr/news/view/2645291",
+   "originallink": "https://www.etoday.co.kr/news/view/2645291",
+   "pubDate": "2026-11-07T11:02:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "산업재해"
+   ],
+   "event_score": 4,
+   "regions": [
+    "경북"
+   ]
+  },
+  {
+   "title": "노동장관 “노동자 사망사고에도, 비용 우선하는 사업주에 무거운 책임...",
+   "description": "김영훈 고용노동부 장관은 7일 “노동자 사망사고가 발생했음에도 불구하고 여전히 안전보다 비용 절감을... 지난 3일에는 대불산단 HD현대삼호에서 선박 탱크 내부에서 용접 작업을 하던 A씨(28)가 쓰러진 채 발견됐다....",
+   "link": "https://n.news.naver.com/mnews/article/016/0002720206?sid=102",
+   "originallink": "https://biz.heraldcorp.com/article/10929156?ref=naver",
+   "pubDate": "2026-11-07T11:42:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "산업재해",
+    "중대재해",
+    "사망사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "독감 다시 확산…7~12세 의심환자 1000명당 60.9명, 사망 신고도 5배 증가",
+   "description": "초등학생 연령대에서 의심환자가 집중적으로 발생하는 가운데 독감 관련 입원환자와 사망 신고도 지난해 같은 기간보다 크게 늘어나면서 방역당국이 예방접종과 호흡기 감염병 예방수칙 준수를 당부하고 나섰다....",
+   "link": "https://www.hinews.co.kr/view.php?ud=202611071153511323cd8b879b3c_48",
+   "originallink": "https://www.hinews.co.kr/view.php?ud=202611071153511323cd8b879b3c_48",
+   "pubDate": "2026-11-07T11:56:00+09:00",
+   "matched_keywords": [
+    "감염병"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "청양군, 2026년 어린이 안전골든벨 퀴즈대회 개최",
+   "description": "또한 청양소방서에서는 제세동기 등을 활용한 심폐소생술 실습 등 생활안전 체험 프로그램을 진행해 위기 상황 대처 능력을 키웠다. 김홍열 군수는 \"사고는 방심하는 순간 찾아오는 만큼 우리 어린이들 모두 항상...",
+   "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919366",
+   "originallink": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919366",
+   "pubDate": "2026-11-07T12:02:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": [
+    "청양군"
+   ]
+  },
+  {
+   "title": "제천 장락동 이웃 간 담장 갈등... 주민 약물 과다복용 신고로 병원 이...",
+   "description": "제보자는 갈등의 발단에 대해 인접 건물 사이에 설치된 기존 담장이 노후화돼 붕괴 우려가 제기됐고 이를 해결하는 과정에서 담장 철거와 재설치 비용 및 경계 문제 등을 놓고 의견 충돌이 있었다고 주장했다. 특히...",
+   "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919379",
+   "originallink": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919379",
+   "pubDate": "2026-11-07T12:12:00+09:00",
+   "matched_keywords": [
+    "건물붕괴"
+   ],
+   "event_score": 4,
+   "regions": [
+    "제천"
+   ]
+  },
+  {
+   "title": "부산해경, 경비함정 14척 투입…불꽃축제 해상 안전관리 '총력'",
+   "description": "폭죽 발사 바지선과 경계선에 무단 접근하는 선박을 통제하고, 관람구역 내 선박 간 충돌과 해상 추락사고 예방에 집중할 방침이다. 육상에서는 요트계류장과 유람선 선착장 등에 안전관리 인력 50여 명을 배치한다. 관람...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745022",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745022",
+   "pubDate": "2026-11-07T13:06:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "해상사고",
+    "추락사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "남가주서 스카이다이버 2명 공중 충돌 추정…병원 이송 후 모두 사망",
+   "description": "KTLA에 따르면 사고는 오늘(6일) 오전 11시 47분쯤 리버사이드 카운티 시리얼 스트리트 20000번지대 인근 비행장에서 발생했다. 항공 관련 긴급상황 신고를 받고 출동한 경찰은 스카이다이버 2명이 지상에 쓰러진 채...",
+   "link": "https://www.radiokorea.com/news/article.php?uid=509043",
+   "originallink": "https://www.radiokorea.com/news/article.php?uid=509043",
+   "pubDate": "2026-11-07T13:20:00+09:00",
+   "matched_keywords": [
+    "항공사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "전북 군산 아파트서 화재…30분 만에 진화",
+   "description": "오식도동의 한 아파트 16층에서 불이 나 30분 만에 진화됐다. 이 불로 1세대가 모두 불탔지만, 다행히 인명피해는 없었다. 경찰과 소방 당국은 베란다에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649599?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790052.html",
+   "pubDate": "2026-11-07T13:52:00+09:00",
+   "matched_keywords": [
+    "아파트화재"
+   ],
+   "event_score": 4,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "조용호 오산시장, 이광재 국회 예결위원장 만나 지역 주요 현안 관련 32...",
+   "description": "세부적으로 서부로는 지난해 7월 가장교차로 일원 붕괴사고 이후 일부 구간의 통행 제한이 이어지면서 시민들의 불편이 지속되고 있다. 경부선철도 횡단도로 개설사업 역시 경부선 철도로 단절된 도로망을 잇는 주요한...",
+   "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336191",
+   "originallink": "https://www.incheonilbo.com/news/articleView.html?idxno=1336191",
+   "pubDate": "2026-11-07T13:56:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "오산"
+   ]
+  },
+  {
+   "title": "충남경찰, 암행순찰차 단속 1만 1천494건 적발…",
+   "description": "속도위반 8,642건 최다,신호위반 1,901건·안전띠 미착용 547건 교통사고 사망자 전년 대비 14명 감소,고위험 구간 단속 강화 충남경찰청과 충남자치경찰위원회가 도내...",
+   "link": "http://www.breaknews.com/1249114",
+   "originallink": "http://www.breaknews.com/1249114",
+   "pubDate": "2026-11-07T13:58:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "충남"
+   ]
+  },
+  {
+   "title": "[패트롤] 과천시-군포시-부천시-안양시-의왕시",
+   "description": "특히 AI 기반 실종자 수색, 고령자 스마트 안심 서비스, 스마트 스쿨존 등 시민 체감형 서비스가 참석자 사이에서 큰 관심을 끌어모았다. 최대호 시장은 이어 4일 열린 'U4SSC 10주년 기념행사'에서 스마트도시 국제표준...",
+   "link": "https://www.ekn.kr/web/view.php?key=20261107023376677",
+   "originallink": "https://www.ekn.kr/web/view.php?key=20261107023376677",
+   "pubDate": "2026-11-07T14:38:00+09:00",
+   "matched_keywords": [
+    "실종자수색"
+   ],
+   "event_score": 4,
+   "regions": [
+    "고령",
+    "과천",
+    "과천시",
+    "군포",
+    "군포시",
+    "부천",
+    "부천시",
+    "안양시",
+    "의왕시"
+   ]
+  },
+  {
+   "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
+   "description": "통계적 보정을 거쳐 두 집단의 특성을 비교한 결과, 메트포르민 처방군에서 감염 후 180일 이내 롱코비드 또는 사망이 발생한 비율은 4.0%였다. 반면 비교군에서는 8.5%로 나타나 절대위험은 4.5%포인트 낮았다. 연령과...",
+   "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
+   "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
+   "pubDate": "2026-11-07T15:06:00+09:00",
+   "matched_keywords": [
+    "집단감염"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "김영철 “큰 형 내 치킨 사오려다 사망” 슬픈 가족사",
+   "description": "개그맨 김영철이 교통사고로 세상을 떠난 큰형을 떠올리며 어머니가 감당했을 슬픔을 헤아렸다. 지난 6일 유튜브 채널 '김영철 오리지널'에는 '성공한 개그맨들이 남몰래 읽는 인생 책 털기 (ft. 자기계발 끝판왕)' 영상이...",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611070103",
+   "originallink": "https://www.bntnews.co.kr/article/view/bnt202611070103",
+   "pubDate": "2026-11-07T15:26:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "‘크래시2’ T.C.I 수사실 팀 스틸 공개…새 엔진 박지성, 16일 첫 출격",
+   "description": "제작진은 스틸을 공개하며 광역수사대로 판을 키워 돌아온 T.C.I의 막강한 팀플레이를 소개했다.시즌2에서는 버스가 폭발하거나 전복하는 사고는 물론 새로운 기술이 악용되는 교묘한 범죄까지 예고됐다. 빌런의 수법이...",
+   "link": "https://www.wikitree.co.kr/articles/1172679",
+   "originallink": "https://www.wikitree.co.kr/articles/1172679",
+   "pubDate": "2026-11-07T15:40:00+09:00",
+   "matched_keywords": [
+    "폭발사고",
+    "버스사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "크래시"
+   ]
+  },
+  {
+   "title": "장흥 오리 농장서 고병원성 조류인플루엔자 확진",
+   "description": "전남광주 장흥 지역에서 고병원성 조류인플루엔자가 확진됐습니다. 방역 당국은 추가 확산을 막기 위해 살처분과 역학 조사에 나섰습니다. 취재기자 연결해 알아보겠습니다. 김종호 기자! 자세한 소식 전해주시죠. [기자]...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429649?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611071558245509",
+   "pubDate": "2026-11-07T15:58:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 4,
+   "regions": [
+    "광주",
+    "장흥",
+    "전남"
+   ]
+  },
+  {
+   "title": "[단독] 온수관 파열 '구멍'에 행인 빠져...전신 60% 중화상",
+   "description": "발에 화상을 입은 사례 외에 중상자가 더 있었군요? [기자] 사고가 난 건 오늘 새벽 1시쯤입니다. 어제저녁 8시 20분쯤 온수관이 파열돼 긴급 복구 작업이 한창이던 서울 마곡동 현장이었는데요. 44살 남성 A 씨가 온수관...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429664?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0103_202611071642431694",
+   "pubDate": "2026-11-07T16:42:00+09:00",
+   "matched_keywords": [
+    "중상자"
+   ],
+   "event_score": 4,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "여주시, 조류인플루엔자 확산 방지 비상 대응…예찰강화",
+   "description": "여주시 조류인플루엔자(AI) 이동통제 초소. /사진제공=여주시 여주시가 고병원성 조류인플루엔자(AI) 추가 확산을 막기 위해 발생농장에 대한 출입통제와 살처분 등 긴급 방역조치에 들어갔다고 7일 밝혔다. 시는 관내...",
+   "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336199",
+   "originallink": "https://www.incheonilbo.com/news/articleView.html?idxno=1336199",
+   "pubDate": "2026-11-07T17:40:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 4,
+   "regions": [
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "경주 감포 앞바다서 80대 해녀 심정지 사고…병원 이송",
+   "description": "함께 작업하던 동료들이 사고자를 발견해 자체 구조했으며, 신고를 받고 출동한 소방당국은 현장에서 전문 심폐소생술 등 응급처치를 실시한 뒤 낮 12시께 병원으로 이송했다. 소방당국은 정확한 사고 경위 등을...",
+   "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089925",
+   "originallink": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089925",
+   "pubDate": "2026-11-07T17:54:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": [
+    "경주"
+   ]
+  },
+  {
+   "title": "열 수송관 파열…길 가던 시민 싱크홀 빠져 전신 60% 중상",
+   "description": "서울 강서구 마곡동의 한 아파트 인근 도로에서 열 수송관이 파열되어 지나가던 시민이 구멍에 빠져 중상을 입는 사고가 발생했습니다. 7일 소방 당국과 강서구청에 따르면, 6일 오후 8시 18분쯤 발생한 온수관 파열...",
+   "link": "https://n.news.naver.com/mnews/article/660/0000120821?sid=102",
+   "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070037",
+   "pubDate": "2026-11-07T18:00:00+09:00",
+   "matched_keywords": [
+    "싱크홀",
+    "싱크홀사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강서구",
+    "서울"
+   ]
+  },
+  {
+   "title": "변압기 교체하다 '쾅'…작업자 3명 화상, 황리단길도 정전",
+   "description": "7일 오전 10시 3분쯤 경북 경주시 사정동의 한 도로변에서 교체 작업을 하던 변압기에서 폭발 사고가 났다. 하청업체 소속 작업자 1명과 한국전력공사 관계자 2명 등 3명이 부상을 입었다. 50대 남성은 얼굴 전체와 손등에...",
+   "link": "https://n.news.naver.com/mnews/article/088/0001038972?sid=102",
+   "originallink": "https://www.imaeil.com/page/view/2026110717591859342",
+   "pubDate": "2026-11-07T18:01:00+09:00",
+   "matched_keywords": [
+    "폭발사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "경북",
+    "경주",
+    "경주시"
+   ],
+   "casualty_hints": {
+    "injured": 3
+   }
+  },
+  {
+   "title": "서울 중랑구서 31주 임신부, 구급차 안에서 출산",
+   "description": "[사진제공=.국제D/B] 서울시 소방재난본부는 8월 구급차에서 태어난 임신 31주 신생아가 심폐소생술을 받고 신생아중환자실 치료를 마친 뒤 최근 건강하게 퇴원했다고 7일 밝혔다. 8월 1일 오후 9시 40분경 A씨(33·여)는...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745134",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745134",
+   "pubDate": "2026-11-07T18:20:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": [
+    "서울",
+    "서울시"
+   ]
+  },
+  {
+   "title": "댓글에 ‘대댓글’로 답한다… 조용호 오산시장의 SNS 소통",
+   "description": "지난해 옹벽 붕괴로 무너진 서부로 재건설을 비롯해 최근 불거진 화성 덕절리 물류센터 문제 등이 그 사례다. 물류센터 인근 지역의 주민들이 댓글을 통해 물류센터 건립을 강력하게 반대하며 피해를 호소하고 있는데...",
+   "link": "https://www.kyeongin.com/article/1774271",
+   "originallink": "https://www.kyeongin.com/article/1774271",
+   "pubDate": "2026-11-07T18:44:00+09:00",
+   "matched_keywords": [
+    "옹벽붕괴"
+   ],
+   "event_score": 4,
+   "regions": [
+    "오산",
+    "화성"
+   ]
+  },
+  {
+   "title": "강화버스터미널 인근 차량 6대 충돌… 70대 운전자 사망",
+   "description": "인천 강화군 강화버스터미널 인근 도로에서 1톤 포터트럭이 버스 후미를 들이받는 등 차량 6대가 잇따라 충돌하는 교통사고가 발생해 70대 트럭 운전자가 숨졌다. 오늘(7일) 오전 11시쯤 강화버스터미널 인근에서 1톤...",
+   "link": "https://news.ifm.kr/news/articleView.html?idxno=483744",
+   "originallink": "https://news.ifm.kr/news/articleView.html?idxno=483744",
+   "pubDate": "2026-11-07T18:44:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "버스사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강화군",
+    "인천"
+   ]
+  },
+  {
+   "title": "3톤 폭탄에 변전소 파괴…우크라 난방·전력 비상",
+   "description": "러시아군이 보유한 폭탄 가운데 가장 강력한, 자그마치 3톤짜리 초대형 폭탄까지 동원됐습니다. 보도에... 곳곳에서 화재 진압과 긴급 복구 작업이 진행되는 가운데, 우크라이나는 러시아가 추가 공격을 준비하고 있다고...",
+   "link": "https://n.news.naver.com/mnews/article/449/0000366748?sid=104",
+   "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558886",
+   "pubDate": "2026-11-07T19:00:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "[TOP주간이슈] 차예련 법적 대응 시사-진쓰레블 사망-뉴진스 계약서 관...",
+   "description": "유튜버 진쓰레블 사망 유튜버 진쓰레블(본명 조진우)이 볼리비아에서 자전거 여행을 하던 중 교통사고로 세상을 떠났다. 5일 故 조진우(진쓰레블)의 친형은 진쓰레블 공식 채널에 \"갑작스럽고 안타까운 소식을 전하게...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270754",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270754",
+   "pubDate": "2026-11-07T19:02:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "안성 공사장서 용접하던 50대 참변…고소작업대에 부딪혀 5m 추락",
+   "description": "한편 중대재해처벌법은 사업주나 경영책임자 등이 안전·보건 확보 의무를 위반해 중대산업재해가 발생한 경우 처벌하도록 규정하고 있다. 중대산업재해에는 노동자 1명 이상이 사망하거나 동일한 사고로 6개월 이상...",
+   "link": "https://n.news.naver.com/mnews/article/666/0000131031?sid=102",
+   "originallink": "https://www.kyeonggi.com/article/20261107580113",
+   "pubDate": "2026-11-07T19:03:00+09:00",
+   "matched_keywords": [
+    "산업재해",
+    "중대재해",
+    "추락사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "안성"
+   ]
+  },
+  {
+   "title": "마곡 온수관 파열로 8천여 세대 추위에 떨어…지나던 행인 빠져 '화상 중...",
+   "description": "어제 저녁 서울 마곡동의 도로 아래에 매설된 온수관이 터져 땅꺼짐이 발생했습니다. 인근을 지나가던 행인 한 명이 구멍에 빠져 화상을 입기도 했는데요. 현재는 복구가 됐지만, 주변 아파트 등 8900여 세대의 열 공급이...",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649643?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790096.html",
+   "pubDate": "2026-11-07T19:20:00+09:00",
+   "matched_keywords": [
+    "땅꺼짐"
+   ],
+   "event_score": 4,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "추자도서 출항하던 어선 좌초···승선원 10명 무사",
+   "description": "제주 추자도에서 출항하던 어선이 암초에 걸리는 사고가 발생했으나 승선원 모두 무사히 구조됐다. 7일 제주해양경찰서에 따르면 이날 새벽 1시 59분경 추자도 상추자항 입구 등대 인근 해상에서 근해자망 어선 A호(46t)...",
+   "link": "https://www.jejumaeil.net/news/articleView.html?idxno=406450",
+   "originallink": "https://www.jejumaeil.net/news/articleView.html?idxno=406450",
+   "pubDate": "2026-11-07T19:22:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "제주"
+   ]
+  },
+  {
+   "title": "강화풍물시장 교차로 연쇄 추돌 사고…70대 운전자 숨져",
+   "description": "7일 오전 11시 22분께 인천시 강화군 강화읍 풍물시장 인근 사거리에서 우회전하던 1t 트럭이 앞서가던 오토바이와 군내버스를 들이받았다. 이 사고로 오토바이가 넘어지며 인근에 주차된 차량과 부딪혔고, 1t 트럭은...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428311?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107049500065?input=1195m",
+   "pubDate": "2026-11-07T19:27:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강화군",
+    "인천",
+    "인천시"
+   ]
+  },
+  {
+   "title": "도로 건너려다 땅속으로 추락…44세 남성 전신 60% 중화상",
+   "description": "서울 강서구 마곡동의 온수관 파열 현장에서 길을 건너던 40대 남성이 갑자기 땅속으로 추락해 전신에 심각한 화상을 입는 사고가 발생했다. 7일 YTN 보도에 따르면 이날 오전 1시께 서울 마곡동 온수관 파열 복구 현장...",
+   "link": "https://n.news.naver.com/mnews/article/666/0000131032?sid=102",
+   "originallink": "https://www.kyeonggi.com/article/20261107580118",
+   "pubDate": "2026-11-07T19:32:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강서구",
+    "서울"
+   ]
+  },
+  {
+   "title": "중앙대광명병원 박은혜 교수, 베체트병 심혈관 수술 후 경과 연구로 APL...",
+   "description": "다만 항생제 사용 기간이나 비율만으로 실제 수술 후 감염 발생률이 더 높았다고 단정할 수는 없다. 반면 사망 및 재입원 위험에서는 두 집단 간 통계적으로 유의한 차이가 확인되지 않았다. 박은혜 교수는 \"이번...",
+   "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212963",
+   "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212963",
+   "pubDate": "2026-11-07T19:36:00+09:00",
+   "matched_keywords": [
+    "집단감염"
+   ],
+   "event_score": 4,
+   "regions": [
+    "광명"
+   ]
+  },
+  {
+   "title": "진천 중부고속도로서 차량 4대 연쇄 추돌…3명 병원 치료",
+   "description": "이 사고로 화물차 운전자가 발을 다쳐 병원으로 옮겨졌고, 다른 차량에 탑승해 있던 2명도 허리 부위 통증을 호소해 병원으로 옮겨졌습니다. 사고 수습을 위해 일부 차로가 통제되면서 일대 구간에 한때 정체가...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401384?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835430&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T19:44:00+09:00",
+   "matched_keywords": [
+    "화물차사고",
+    "음주운전사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "진천"
+   ]
+  },
+  {
+   "title": "‘용감한 형사들5’ 주문 안 한 택배 열었더니…신생아 시신, 발송인은...",
+   "description": "하천이 범람할 정도로 불어나 혈흔이나 족적을 찾기 어려웠고, 피해자는 빨간색 티셔츠 차림이었다. 부검에서는 사망 이후 생긴 것으로 추정되는 절창 42개가 확인됐으며, 허벅지와 종아리의 일부 절창은 일정한 간격으로...",
+   "link": "https://www.wikitree.co.kr/articles/1172710",
+   "originallink": "https://www.wikitree.co.kr/articles/1172710",
+   "pubDate": "2026-11-07T20:14:00+09:00",
+   "matched_keywords": [
+    "하천범람"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "강화도 풍물시장 인근서 연쇄 추돌…1명 사망·3명 경상",
+   "description": "이 사고로 1t 트럭 운전자 70대 A씨가 숨졌고, 오토바이 운전자와 버스기사, 버스 승객 등 3명이 경상을 입었다. A씨는 음주나 무면허 상태는 아니었던 것으로 확인됐다. 경찰은 주변 폐쇄회로(CC)TV, 블랙박스 영상 등을...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308115?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003859029",
+   "pubDate": "2026-11-07T20:28:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 4,
+   "regions": [],
+   "casualty_hints": {
+    "dead": 1,
+    "injured": 3
+   }
+  },
+  {
+   "title": "강화 풍물시장 사거리서 1t 트럭 연쇄 추돌…70대 운전자 숨져",
+   "description": "인천 강화군 풍물시장 인근 사거리에서 1t 트럭이 오토바이와 버스 등을 잇따라 들이받는 사고가 나 70대 트럭 운전자가 숨졌다. 7일 연합뉴스에 따르면, 이날 오전 11시22분쯤 강화읍 풍물시장 인근 사거리에서...",
+   "link": "https://n.news.naver.com/mnews/article/032/0003481260?sid=102",
+   "originallink": "https://www.khan.co.kr/article/202611072045001",
+   "pubDate": "2026-11-07T20:45:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "강화군",
+    "인천"
+   ]
+  },
+  {
+   "title": "'극한직업' 피자설기 창원 떡집부터 청주 프리미엄 달걀 양계장까지",
+   "description": "2년 전 대형 화재로 농장이 전소되어 파산 직전에 몰렸으나, 단골 회원들의 변함없는 성원 속에 재기한 감동적인 사연도 공개된다. 남녀노소의 입맛을 사로잡은 퓨전 떡 제조 현장과 정성으로 건강한 먹거리를 일구는...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745162",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745162",
+   "pubDate": "2026-11-07T20:52:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 4,
+   "regions": [
+    "창원",
+    "청주"
+   ]
+  },
+  {
+   "title": "노동부 장관, 대불산단 잇단 사망 사고에 \"면밀히 점검\" 지시",
+   "description": "김영훈 고용노동부 장관이 영암 산단의 반복적 산업재해를 언급하며 면밀한 점검을 지시했습니다. 김영훈 장관은 7일 전국 49개 고용노동 관서장을 소집해 \"동일 유형의 중대재해가 반복 발생한 기업에 대해서는...",
+   "link": "https://n.news.naver.com/mnews/article/660/0000120827?sid=102",
+   "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070043",
+   "pubDate": "2026-11-07T21:10:00+09:00",
+   "matched_keywords": [
+    "산업재해",
+    "중대재해",
+    "사망사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "영암"
+   ]
+  },
+  {
+   "title": "정용채 경북도의원, 산불 피해 보상·산하기관 관리 부실 지적",
+   "description": "경상북도의회 정용채 의원(더불어민주당)이 경북 북부지역 산불 피해 보상과 도 산하기관의 직장 내 괴롭힘... 먼저 산불특별법 통과에도 피해 현장에는 보상 사각지대가 여전하다며 이철우 도지사가 직접 범도민...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745157",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745157",
+   "pubDate": "2026-11-07T21:30:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 4,
+   "regions": [
+    "경북"
+   ]
+  },
+  {
+   "title": "아버지에게 배운 심폐소생술로…심정지 소방서장 살린 아들",
+   "description": "소방관 아버지에게 심폐소생술을 배운 아들이 심정지로 쓰러진 아버지의 생명을 구했다. 아들의 신속한 응급처치에 이어 119구급대와 의료진의 치료가 이뤄지면서 아버지는 3주 만에 업무에 복귀했다. 7일...",
+   "link": "https://n.news.naver.com/mnews/article/005/0001883616?sid=102",
+   "originallink": "https://www.kmib.co.kr/article/20261107500129",
+   "pubDate": "2026-11-07T21:44:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "“귀갓길 이런 날벼락이”…온수관 파열 현장서 40대 행인 중화상",
+   "description": "이 사고로 현장을 지나던 보행자 A씨가 온수관 파열로 인해 도로에 생긴 구멍(싱크홀)에 빠져 전신의 60%에 달하는 2~3도 화상을 입었다. A씨는 현재 위중한 상태로 병원 중환자실에서 치료를 받고 있다. 현장을 확인하던...",
+   "link": "https://n.news.naver.com/mnews/article/009/0005760418?sid=102",
+   "originallink": "https://www.mk.co.kr/article/12201538",
+   "pubDate": "2026-11-07T21:51:00+09:00",
+   "matched_keywords": [
+    "싱크홀",
+    "싱크홀사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "[단독] 귀갓길에 날벼락...온수관 파열 구멍에 빠져 중화상",
+   "description": "[피해자 가족 : 횡단보도랑 인도를 중첩해서 싱크홀이 생겼는데… 집에 들어가는 길에 거기에 좀 빠지게 된 게 아닌가….] A 씨는 섭씨 100도가 넘는 뜨거운 물에 온몸 60%가 넘게 2·3도 화상을 입었습니다. 곧바로 화상 전문...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429715?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0103_202611072154253875",
+   "pubDate": "2026-11-07T21:54:00+09:00",
+   "matched_keywords": [
+    "싱크홀",
+    "싱크홀사고"
+   ],
+   "event_score": 4,
+   "regions": []
+  },
+  {
+   "title": "조사 핑계로 1년 '올스톱'...발전소 해체 안전망 여전히 '공백'",
+   "description": "울산화력발전소 붕괴 사고 뒤 정부와 국회, 지자체는 잇따라 재발 방지 대책 마련을 약속했지만 지난 1년간 진척된 건 아무것도 없습니다. 국토교통부 사고조사위원회의 조사 결과 발표 일정이 3월에서 6월, 10월로 거듭...",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429749?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611072314228240",
+   "pubDate": "2026-11-07T23:14:00+09:00",
+   "matched_keywords": [
+    "붕괴사고",
+    "교통사고"
+   ],
+   "event_score": 4,
+   "regions": [
+    "울산"
+   ]
+  },
+  {
+   "title": "반전의 무대…남녀가 중요한가",
+   "description": "폭설이 내린 이탈리아 시골 마을, 이웃사촌인 네 주부가 남편들이 단체로 사고사한 것으로 착각해 시신 발견 전 남편으로 변장해 생명보험에 가입하려 좌충우돌한다. 장진 특유의 엇박자 유머가 빛나는 코믹 소동극인데...",
+   "link": "https://n.news.naver.com/mnews/article/353/0000057128?sid=103",
+   "originallink": "https://www.joongang.co.kr/article/25476477",
+   "pubDate": "2026-11-07T00:02:00+09:00",
+   "matched_keywords": [
+    "폭설"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "수거차 ‘발판’이 버젓이…올라탔던 20대 환경미화원, 새벽 참변",
+   "description": "충북 청주에서 쓰레기 수거 차량 뒤쪽 발판에 올라타 이동하던 20대 환경미화원이 화물차 추돌사고로 숨졌다. 정부가 안전사고 위험을 이유로 발판에 올라타 이동하는 작업 방식을 금지했지만, 현장에서는 여전히 이...",
+   "link": "https://n.news.naver.com/mnews/article/025/0003563443?sid=102",
+   "originallink": "https://www.joongang.co.kr/article/25476492",
+   "pubDate": "2026-11-07T00:22:00+09:00",
+   "matched_keywords": [
+    "화물차사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "청주",
+    "충북"
+   ]
+  },
+  {
+   "title": "'아↘하↗'부터 '하-아?'까지··· 신의 웃음과 먼작귀의 괴성을 넘나드...",
+   "description": "‘붕괴: 스타레일’에서 ‘에이언즈’는 이념을 구현하는 '신'에 가까운 '우주적 존재'다. 작중에서는 이들이... 물론, 그 중에서도 환락의 '아하'처럼 일반적인 사고 방식으로는 이해하기 어려운 에이언즈는 존재한다....",
+   "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=227316",
+   "originallink": "https://www.gamechosun.co.kr/webzine/article/view.php?no=227316",
+   "pubDate": "2026-11-07T01:40:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "11월6일 모닝뉴스 헤드라인",
+   "description": "오늘 새벽 2시쯤 LA한인타운 올림픽 블러바드와 크렌셔 블러바드 교차로에서 음주운전 차량이 가로등을 들이받고 전복되는 사고가 발생했다. 이 사고로 가로등이 크게 기울어지면서 긴급 복구팀이 출동했다....",
+   "link": "https://www.radiokorea.com/news/article.php?uid=508927",
+   "originallink": "https://www.radiokorea.com/news/article.php?uid=508927",
+   "pubDate": "2026-11-07T01:56:00+09:00",
+   "matched_keywords": [
+    "차량전복",
+    "음주운전사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "구급차서 태어난 31주 아기, '50일의 기적' 일어났다… \"소방관들에 감...",
+   "description": "임신 31주 만에 119구급차 안에서 태어난 아기가 구급대원들의 심폐소생술과 병원 치료 끝에 건강하게 집으로 돌아갔다. 6일 서울시 소방재난본부에 따르면 8월 1일 오후 9시 40분쯤 임신 31주째인 33세 여성에게 갑자기...",
+   "link": "https://n.news.naver.com/mnews/article/469/0000964164?sid=102",
+   "originallink": "https://www.hankookilbo.com/news/article/A2026110611170004668?did=NA",
+   "pubDate": "2026-11-07T04:30:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울",
+    "서울시"
+   ]
+  },
+  {
+   "title": "\"소방관 아빠가 가르쳐준대로\"…아들이 CPR, 심정지 아빠 살렸다",
+   "description": "아들과 달리기하다 심정지로 쓰러진 현직 소방관이 아들의 심폐소생술(CPR) 덕분에 무사히 회복한 사연이 뒤늦게 알려졌다. 6일 연합뉴스와 전북특별자치도소방본부에 따르면 이종욱(58) 김제소방서장은 지난달 11일...",
+   "link": "https://n.news.naver.com/mnews/article/014/0005600731?sid=102",
+   "originallink": "https://www.fnnews.com/news/202611061346275849",
+   "pubDate": "2026-11-07T05:01:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": [
+    "전북"
+   ]
+  },
+  {
+   "title": "AI 시대에 자막·더빙 회사?... 세계 1위 찍은 반전 성공기",
+   "description": "유니콘이면 꽤 무게감이 있는데, 하향 곡선으로 붕괴하면 다시 반등한다는게 가능한 말일까요. 현실은... 이후 할리우드 파업과 보안 사고가 터졌습니다. 이현무 대표는 “내가 봐도, 무너질 확률이 90% 이상이었다”고...",
+   "link": "https://n.news.naver.com/mnews/article/023/0004008316?sid=101",
+   "originallink": "https://www.chosun.com/economy/industry-company/2026/11/07/NJ6H4F5KOFABBGORKLPTC3CXNQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "pubDate": "2026-11-07T06:01:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "\"이상하다 못느꼈는데\"…심근경색 꼭 찝어낸 AI[빠정예진]",
+   "description": "응급실 도착 후 심장마비 증상을 보여 신속하게 심폐소생술을 실시해 목숨을 구할 수 있었다. 순천향대학교서울병원이 건강검진에 도입한 심전도 데이터를 인공지능(AI)이 분석해 심장질환 위험도를 수치화 해 주는...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307474?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261106_0003858344",
+   "pubDate": "2026-11-07T06:01:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울",
+    "순천"
+   ]
+  },
+  {
+   "title": "\"암ㆍ치매 진단 핵심인데 10년째 인력 가뭄, 필수의료 핵의학 무너진다...",
+   "description": "암, 뇌신경질환, 심혈관질환 등 중증질환 진단과 치료의 중추를 담당하는 핵의학이 10년 넘게 이어진 인력난과 비현실적인 건강보험 급여 기준으로 인해 한계에 직면했다는 현장의 호소가 이어졌다. 전공의 확보율은...",
+   "link": "http://www.newsmp.com/news/articleView.html?idxno=259156",
+   "originallink": "http://www.newsmp.com/news/articleView.html?idxno=259156",
+   "pubDate": "2026-11-07T06:04:00+09:00",
+   "matched_keywords": [
+    "가뭄"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "EBS 극한직업, 피자 설기 앙버터 찹쌀떡~퓨전 떡집과 '난각번호 1번' 프...",
+   "description": "공장에서 생산한 일반 사료 대신 약 30가지 재료를 직접 배합하고 발효해 수제 사료를 만든다. 여기에 천연... 2년 전 발생한 대형 화재로 농장 대부분이 전소되면서 파산 직전까지 내몰렸다. 그러나 평소 농장의 달걀을...",
+   "link": "https://www.lecturernews.com/news/articleView.html?idxno=213348",
+   "originallink": "https://www.lecturernews.com/news/articleView.html?idxno=213348",
+   "pubDate": "2026-11-07T06:10:00+09:00",
+   "matched_keywords": [
+    "공장화재",
+    "대형화재"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "온수관 파열에 신호등 쓰러져…8,965세대 난방 중단",
+   "description": "어젯밤(6일) 서울 강서구의 한 아파트 단지에서 온수관이 파열되면서, 인근 8천900여 세대에 난방과 온수... 이 화재로 숙박객 2명이 경상을 입었고, 다른 숙박객과 주인 등 17명이 대피했습니다. 소방당국은 정확한 화재...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401300?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834866&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T06:14:00+09:00",
+   "matched_keywords": [
+    "아파트화재",
+    "차량화재",
+    "감전사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울"
+   ],
+   "casualty_hints": {
+    "injured": 2,
+    "evacuated": 17
+   }
+  },
+  {
+   "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
+   "description": "[구급대원 : \"아가야 좀 살자.\"] 구급대원들은 즉시 심폐소생술에 나섰고, 차에서 내려 병원으로 옮기면서도 응급처치를 이어갔습니다. 의료진에게 인계하기 직전, 마침내 아기가 첫 울음을 터뜨렸습니다. [구급대원 : \"운다...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289246?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706569&ref=A",
+   "pubDate": "2026-11-07T06:44:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "새벽을 뒤흔든 가족의 비극… '그것이 알고 싶다', 송파 장모 살해·아내...",
+   "description": "김성우가 운전한 차량은 이동 중 두 차례 교통사고를 낸 것으로 알려졌으며, 서울에서 약 200km 떨어진 강원도 양양의 한 야산까지 이동했다. 차량에 갇혀 있던 아내는 약 5시간이 지난 뒤 가까스로 탈출했고, 용의자는 사건...",
+   "link": "https://www.jemin.com/news/articleView.html?idxno=846376",
+   "originallink": "https://www.jemin.com/news/articleView.html?idxno=846376",
+   "pubDate": "2026-11-07T07:02:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "강원",
+    "서울",
+    "양양"
+   ]
+  },
+  {
+   "title": "아파트 앞 온수관 파열...9천 세대 온수·난방 '뚝'",
+   "description": "한밤중 도로는 전면 통제됐고, 굴착기에 크레인까지 동원됐습니다. 어제저녁 8시 20분쯤, 서울 마곡동에 있는... 무서웠습니다.] 사고 여파로 인근 8천9백여 세대에 열 공급이 멈췄습니다. 난방과 온수 모두 끊긴 상황....",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429537?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0103_202611070710490648",
+   "pubDate": "2026-11-07T07:10:00+09:00",
+   "matched_keywords": [
+    "크레인사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "최준희, ‘외모강박’ 솔직 고백",
+   "description": "그는 \"지인을 통해 알게 된 진짜 싼 병원에 가서 100만 원인가, 110만 원인가 주고 인라인으로 그냥 매몰로 집었다\"고 당시 수술 과정을 전했다. 이어 \"거기 수술도 지금 알아보니 너무 못하는 병원이고 부작용과 사고 이력도...",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611070024",
+   "originallink": "https://www.bntnews.co.kr/article/view/bnt202611070024",
+   "pubDate": "2026-11-07T07:48:00+09:00",
+   "matched_keywords": [
+    "매몰사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "독감 다시 확산세…입원환자 전년 2배 넘어 “접종 서둘러야”",
+   "description": "◆양성 사망 신고 21건…“사망원인 통계와는 달라” 질병관리청은 11월부터 ‘감염병 표본감시... 호흡기감염병 예방수칙을 준수해달라”고 당부했다. 이어 “이번 달부터 제공되는 사망감시 정보는...",
+   "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978317",
+   "originallink": "https://medicalworldnews.co.kr/news/view.php?idx=1510978317",
+   "pubDate": "2026-11-07T08:00:00+09:00",
+   "matched_keywords": [
+    "감염병"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[여경 코멘토] 10월 마지막 주 5명 활동···46건 지적·제언 무슨 내용...",
+   "description": "실리콘밸리가 GPU와 HBM을 더 사고 발전소까지 짓는 동안 국내 기업 하이퍼엑셀은 스마트폰에 쓰이는 저전력... 필요한 항공권, 숙소, 입국 신청 등의 구체적인 준비사항을 어떻게 준비하는지 자세히 제시되어 있어 실제...",
+   "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260812",
+   "originallink": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260812",
+   "pubDate": "2026-11-07T08:00:00+09:00",
+   "matched_keywords": [
+    "항공사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[NC박스오피스] '최종면접' 하루 만에 1위 탈환...주말 극장가 '박빙'",
+   "description": "'하트 오브 비스트'는 비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 '제임스'(브래드 피트)와 그의 은퇴한 군견 '오딘'이 매 순간 닥쳐오는 죽음의 위협 속에서 오직 서로에게만 의지한 채...",
+   "link": "https://www.nc.press/news/articleView.html?idxno=630443",
+   "originallink": "https://www.nc.press/news/articleView.html?idxno=630443",
+   "pubDate": "2026-11-07T08:21:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "비트코인 훔쳤다가 내 코인까지 잃는다? 양자 해커 겨냥한 '역공 전략' ...",
+   "description": "필즈는 해당 구상을 확정된 개선안이 아닌 사고 실험(thought experiments)으로 규정하면서도, 소프트포크(soft... 반면 온체인 분석가 제임스 체크(James Check)는 올해 초 양자컴퓨팅으로 인한 비트코인 시장 붕괴 가능성이...",
+   "link": "http://coinreaders.com/268226",
+   "originallink": "http://coinreaders.com/268226",
+   "pubDate": "2026-11-07T08:22:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "‘파이널 테이블’ 안효섭, 장영남에 복수",
+   "description": "아버지 강산(지승현 분)이 사망한 사고의 배후에 평연그룹과 문해선이 있다는 정황을 알게 되면서 깊은 원한을 품게 된 것. 영업 마감 직전 파밀리아를 찾아온 문해선에게도 분노를 감추지 못했다. 그러나 강한은...",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611070056",
+   "originallink": "https://www.bntnews.co.kr/article/view/bnt202611070056",
+   "pubDate": "2026-11-07T08:34:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "‘볼리비아 사고사’ 진쓰레블 유족, 생전 마지막 영상 공개하기로",
+   "description": "볼리비아 여행 중 교통사고로 사망한 유튜버 진쓰레블(33·조진우)의 마지막 영상이 공개될 예정이다. 진쓰레블의 친형이라고 밝힌 A씨는 지난 6일 고인의 유튜브 채널 게시판에 “저희 진우가 많은 성원을 보내주셨던...",
+   "link": "https://n.news.naver.com/mnews/article/009/0005760318?sid=103",
+   "originallink": "https://www.mk.co.kr/article/12201378",
+   "pubDate": "2026-11-07T08:35:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "'파이널 테이블' 안효섭·장영남, 디너 코스로 드러나는 악연의 실마리",
+   "description": "아버지 강산(지승현)이 사망한 사고의 배후에 평연그룹과 문해선이 있다는 정황 때문이다. 문해선이 영업 마감 직전 파밀리아의 음식을 맛보고 싶다며 찾아오자 강한은 분노 섞인 눈빛을 보냈다. 강한은 사장 최송이...",
+   "link": "https://www.slist.kr/news/articleView.html?idxno=779731",
+   "originallink": "https://www.slist.kr/news/articleView.html?idxno=779731",
+   "pubDate": "2026-11-07T08:36:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "파이널 테이블 안효섭·장영남, 특별 디너가 불러낸 과거의 기억",
+   "description": "아버지 강산(지승현 분)이 사망한 사고의 배후에 평연그룹과 문해선이 있다는 정황이 있어 그에 대한 악감정을 품고 있기 때문이다. 영업 마감 직전에 음식을 맛보겠다며 파밀리아를 찾은 문해선에게 강한은 분노 섞인...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270518",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270518",
+   "pubDate": "2026-11-07T08:38:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "위스콘신서 홍역으로 영아 사망… 1990년 이후 처음",
+   "description": "위스콘신주 보건부는 5일 주 남서부 지역 홍역 집단 감염과 관련해 영아 1명이 사망했다고 발표했다. 위스콘신주에서 홍역 사망자가 나온 것은 1990년 이후 처음이다. 사망한 아기의 신원과 구체적인 정보는 공개되지...",
+   "link": "https://www.koreadaily.com/article/20261106153858483",
+   "originallink": "https://www.koreadaily.com/article/20261106153858483",
+   "pubDate": "2026-11-07T08:40:00+09:00",
+   "matched_keywords": [
+    "집단감염"
+   ],
+   "event_score": 3,
+   "regions": [],
+   "casualty_hints": {
+    "dead": 1
+   }
+  },
+  {
+   "title": "[신간] 27년 만에 피해자 목소리로 다시 쓴 인현동화재참사 백서 발간",
+   "description": "인천투데이=김윤정·인투아이(INTO-AI) 기자│1999년 인천 중구 인현동 상가 화재로 숨진 청소년들과 남은 이들의 목소리를 담은 백서가 나왔다. 4·16재단은 지난달 23일 생명안전 피해자 백서 세 번째 기록 '다시 쓰는 참사...",
+   "link": "https://www.incheontoday.com/news/articleView.html?idxno=325855",
+   "originallink": "https://www.incheontoday.com/news/articleView.html?idxno=325855",
+   "pubDate": "2026-11-07T09:00:00+09:00",
+   "matched_keywords": [
+    "상가화재"
+   ],
+   "event_score": 3,
+   "regions": [
+    "인천"
+   ]
+  },
+  {
+   "title": "“사람이 먼저? 로봇이 먼저?”…배송 로봇과 부딪히면 누가 배상하나",
+   "description": "시설물 파손 사고도 이어졌다. 지난 3월 미국 시카고에서는 서브로보틱스와 코코로보틱스의 배송 로봇이 며칠 간격으로 버스 정류장 유리 벽을 들이받았다. 인명 피해는 없었고 두 업체는 수리비를 부담하기로 했다. 지난...",
+   "link": "https://n.news.naver.com/mnews/article/023/0004008317?sid=105",
+   "originallink": "https://www.chosun.com/economy/tech_it/2026/11/08/SSKOG35IXFDQXPMCEAWJMZVVWM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "pubDate": "2026-11-07T09:01:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "테슬라, 사이버트럭 생산 2027년 중반 축소…머스크 \"사이버캡 생산 확...",
+   "description": "2024년 11월 캘리포니아주 피드몬트에서 발생한 차량 화재 사고로 사망한 청년 2명의 부모도 테슬라를 상대로 법적 대응에 나섰다. 유족 측은 자녀들이 사고 차량에서 필사적으로 탈출하려 했다고 주장했다. 부검...",
+   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=397260",
+   "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=397260",
+   "pubDate": "2026-11-07T09:16:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "질식사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "최대호 시장, SCEWC 2026 UN 파빌리온 무대서 안양 AI 도시 알려",
+   "description": "발표에서는 AI 기반 실종자 수색, 고령자 스마트 안심 서비스, 스마트 스쿨존 등 시민 생활과 맞닿은 서비스가 사례로 제시됐다. 시 관계자는 이들 서비스에 참석자들의 문의가 많았다고 전했다. 최 시장은 4일...",
+   "link": "https://www.thepublic.kr/news/articleView.html?idxno=325389",
+   "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325389",
+   "pubDate": "2026-11-07T09:36:00+09:00",
+   "matched_keywords": [
+    "실종자수색"
+   ],
+   "event_score": 3,
+   "regions": [
+    "고령"
+   ]
+  },
+  {
+   "title": "난청 유전자 치료 시대 열렸다…기대감 속 장기 안전성·한계 경계 목소...",
+   "description": "또한 \"현재 FDA 승인은 가속 승인 상태이며 추적 관찰 기간도 2년 남짓으로, 10년 후의 안전성은 아무도 모른다\"며 \"해외에서 바이러스 벡터 관련 사망 사고도 보고된 만큼 철저한 안전 준비가 전제돼야 한다\"고 강조했다....",
+   "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044375",
+   "originallink": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044375",
+   "pubDate": "2026-11-07T09:44:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[기후·멸종 콕콕] \"삼성생명 석탄투자 언제 어떻게 그만둘지 밝히라\"",
+   "description": "\"삼성화재와 삼성생명은 국내 보험업계에서 차지하는 영향력이 큰 만큼, 좌초자산인 석탄에 대한 투자와... 아파트가 늘면서 도시가스 보급률은 전국 84%에 이르렀다. 보일러와 가스관은 한 번 설치하면 수십 년을 쓴다....",
+   "link": "https://www.newspenguin.com/news/articleView.html?idxno=22403",
+   "originallink": "https://www.newspenguin.com/news/articleView.html?idxno=22403",
+   "pubDate": "2026-11-07T10:00:00+09:00",
+   "matched_keywords": [
+    "아파트화재",
+    "주택화재",
+    "상가화재"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "'폭설' 김윤석X구교환 \"고립된 시골역 의문의 시신\" 18일 개봉 '영화가 ...",
+   "description": "'영화가 좋다'에서 폭설로 고립된 시골 기차역에서 의문의 시신을 발견한 두 남자의 이야기를 그린 신작 영화 '폭설'을 소개했다. 7일 KBS2 '영화가 좋다'에서는 '나를 충전해줘'(넷플릭스 시리즈), '옆에서 숨만 쉬어도 좋아...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270551",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270551",
+   "pubDate": "2026-11-07T10:06:00+09:00",
+   "matched_keywords": [
+    "폭설"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "용산구치과의사회 “불법 근절, 대국민 홍보 지속해야”",
+   "description": "특히 ◯◯플란트치과의 임플란트 시술 사망사고에 사회적 관심이 집중되고 있지만, 사고 자체보다 불법 저수가 덤핑진료의 구조적 문제에 주목해야 한다는 지적이 나왔다. 이번 사안이 개별 의료사고에 대한 논란으로만...",
+   "link": "https://www.dentalnews.or.kr/news/article.html?no=48669",
+   "originallink": "https://www.dentalnews.or.kr/news/article.html?no=48669",
+   "pubDate": "2026-11-07T10:08:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "“발목 절단된 경찰관, 의식 찾자 아내에게 한 첫마디”…동료들 울린 ...",
+   "description": "고속도로에서 교통사고 현장을 수습하다 화물차에 치여 발목이 절단되는 중상을 입은 경찰관이 의식을 되찾은 뒤 아내에게 처음 건넨 말은 \"미안하다\"였다. 김종철 경찰청장 직무대행은 병원에서 치료받고 있는 경찰관을...",
+   "link": "https://www.wikitree.co.kr/articles/1171886",
+   "originallink": "https://www.wikitree.co.kr/articles/1171886",
+   "pubDate": "2026-11-07T10:30:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고",
+    "중대재해"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "초겨울의 문턱, 바다의 안전을 준비할 때",
+   "description": "최근 5년간(2021~2025년) 동절기(11~2월) 군산해경 관할 해역에서 발생한 해양사고 선박 156척으로 전체 사고... 이어 좌초 30%, 화재 28.6%, 침수 23.7%, 충돌 19% 순으로 동절기 발생 비율이 높았다. 전체 해양사고 중 동절기...",
+   "link": "http://www.domin.co.kr/news/articleView.html?idxno=1574252",
+   "originallink": "http://www.domin.co.kr/news/articleView.html?idxno=1574252",
+   "pubDate": "2026-11-07T10:32:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고",
+    "어선전복",
+    "해상사고",
+    "조난"
+   ],
+   "event_score": 3,
+   "regions": [
+    "군산"
+   ]
+  },
+  {
+   "title": "이번 주 볼만한 영화 [인포그래픽]",
+   "description": "은퇴 후 함께 생활하던 '제임스'와 '오딘'은 비행기 추락사고로 '하트 오브 비스트'라 불리는 알래스카의... 9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 류소영은 '낙원의 아이들'이라는 AI 프로그램을 통해 어린...",
+   "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249193",
+   "originallink": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249193",
+   "pubDate": "2026-11-07T11:00:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "추락사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "미완의 불법 행위 책임 체계(Tort System)...한국 의료의 운명과 앞으로...",
+   "description": "‘의료사고 발생=개인의 과실·책임, 형사처벌’ 의료체계 붕괴 환자 안전도 보장 못 해 환자의 경제적 피해는 민사 배상과 책임보험 및 보상 제도를 통해 구제하고, 의료사고의 원인분석과 재발 방지는 환자 안전...",
+   "link": "https://www.medigatenews.com/news/2156376716",
+   "originallink": "https://www.medigatenews.com/news/2156376716",
+   "pubDate": "2026-11-07T11:08:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[집중분석] 비트코인, 2027년 다시 날아오를까?…과세 유예와 맞물린 '회...",
+   "description": "글로벌 1위 디지털자산 거래소 바이낸스에서 지난달 29일 약 63억 달러(8조 8000억원 상당) 규모의 해킹 사고... 시스템 붕괴나 극단적인 롱‧숏 포지션 청산으로 이어지지는 않았다. 그럼에도 글로벌 1위 디지털자산...",
+   "link": "https://www.thepublic.kr/news/articleView.html?idxno=325507",
+   "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325507",
+   "pubDate": "2026-11-07T11:12:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[구급차 출산 생명 구호] \"구급차서 태어난 31주 아기\"…119 대원들 신속...",
+   "description": "이에 구급대원들은 의료 지시에 따라 즉각 심폐소생술을 시행하고, 산모에게도 필요한 응급처치를 이어갔다. 아기는 병원에 도착해 의료진에게 인계되기 직전 자발호흡을 회복했고, 이후 신생아중환자실에서 약 50일간...",
+   "link": "https://www.cbci.co.kr/news/articleView.html?idxno=624084",
+   "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=624084",
+   "pubDate": "2026-11-07T11:16:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "결제도 카톡도 멈추면…‘재난 상황’ 어떻게 대처해야 하나",
+   "description": "한국은 일본에 비해 지진 피해가 드물지만 안심하기는 어렵다. 홍수와 산불 같은 자연재난에 더해... 지난달 28일 일본 방재청 호소노 고시 방재담당상도 지진·화산폭발 등 자연재해에 대비해 최소 3일분에서 최대...",
+   "link": "https://n.news.naver.com/mnews/article/662/0000107881?sid=103",
+   "originallink": "https://www.nongmin.com/article/20261104500044",
+   "pubDate": "2026-11-07T11:28:00+09:00",
+   "matched_keywords": [
+    "지진",
+    "가뭄",
+    "산불",
+    "자연재해",
+    "가스폭발"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "\"내 첫 책은 틀렸다\"...비트겐슈타인, 스스로 뒤집은 철학의 기록 ('부활...",
+   "description": "특히 철학을 항아리 안에 갇힌 파리에게 빠져나갈 길을 보여주는 작업에 비유한 설명을 통해, 언어와 사고의... AI가 임의로 대사를 만들어내는 대신 역사적 기록과 원전, 전문가 자문을 바탕으로 인간 작가가 대사를...",
+   "link": "https://www.nc.press/news/articleView.html?idxno=630457",
+   "originallink": "https://www.nc.press/news/articleView.html?idxno=630457",
+   "pubDate": "2026-11-07T11:56:00+09:00",
+   "matched_keywords": [
+    "원전사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "여주"
+   ]
+  },
+  {
+   "title": "독감 2주 연속 다시 증가세…“어린이·어르신 독감 예방접종 서둘러야...",
+   "description": "호흡기 감염병 예방 수칙을 준수해 달라\"라고 당부했다. / 뉴스1올해 9월 초부터 시작한 동절기 독감... 질병관리청은 이달부터 감염병 포털 내 '감염병 표본감시 주간소식지'를 통해 인플루엔자 양성 사망 신고 정보를...",
+   "link": "https://www.wikitree.co.kr/articles/1172651",
+   "originallink": "https://www.wikitree.co.kr/articles/1172651",
+   "pubDate": "2026-11-07T12:18:00+09:00",
+   "matched_keywords": [
+    "감염병"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[청년발언대] 군중 속의 영웅, CPR로 생명을 구하다",
+   "description": "질병관리청 통계에 따르면 병원 밖에서 심정지가 발생했을 때, 현장에 있던 일반인이 즉시 심폐소생술을 시행할 경우, 환자의 생존율은 시행하지 않았을 때보다 2.4배 이상 높았다. 뇌기능 회복률 또한 심폐소생술을...",
+   "link": "https://www.youthdaily.co.kr/news/article.html?no=229499",
+   "originallink": "https://www.youthdaily.co.kr/news/article.html?no=229499",
+   "pubDate": "2026-11-07T13:00:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[위클립] 11월 1주",
+   "description": "금속노조 광주전남지부가 노동부 목포지청 앞에서 기자회견을 열고 \"HD현대삼호에서 건조 중인 선박 내부 탱크 밀폐 공간에 작업하던 20대 청년노동자가 사망했다\"며 \"HD현대삼호에서 발생한 사망 사고는 4건으로 노동자...",
+   "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41779",
+   "originallink": "https://www.laborplus.co.kr/news/articleView.html?idxno=41779",
+   "pubDate": "2026-11-07T13:14:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "산업재해",
+    "중대재해",
+    "끼임사고",
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "광주",
+    "목포",
+    "전남"
+   ]
+  },
+  {
+   "title": "사고 현장 지키다 발목 잃은 경찰관...눈뜨자 아내에게 한 말은 \"미안하...",
+   "description": "A 경위는 지난달 24일 오전 4시께 경기 여주시 영동고속도로 인천 방향 여주휴게소 인근에서 교통사고 현장의 교통을 통제하고 있었다. 사고 현장을 지나가는 차량들을 살피던 그는 6.5t 화물차에 치여 발목 절단 등 중상을...",
+   "link": "https://www.insight.co.kr/news/581043",
+   "originallink": "https://www.insight.co.kr/news/581043",
+   "pubDate": "2026-11-07T13:30:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "화물차사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시",
+    "영동",
+    "인천"
+   ]
+  },
+  {
+   "title": "400년 넘게 잠겨 있던 자물쇠, CT 스캔으로 비번 풀었다",
+   "description": "소유한 선박이다. 앤 프랜시스호는 스페인에서 영국으로 돌아오던 1583년 12월 28일 저녁 거센 폭풍을 만났다. 항로를 이탈한 배는 결국 마르감 해변 인근에서 침몰했다. 당시 작성된 기록에는 난파 사고가 발생한 달에...",
+   "link": "https://n.news.naver.com/mnews/article/092/0002444316?sid=105",
+   "originallink": "https://zdnet.co.kr/view/?no=20261107052624",
+   "pubDate": "2026-11-07T13:46:00+09:00",
+   "matched_keywords": [
+    "선박사고",
+    "침몰사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "전공의 지원자 단 2명뿐…대 끊긴 소아청소년과[소아의료 위기②]",
+   "description": "소아청소년 전문 인력 부족으로 인한 소아청소년 의료체계 붕괴가 현실화하는 게 아니냐는 우려의 목소리가 커지고 있는 이유다. 전공의들이 소아청소년과에 지원하지 않으려 하는 이유는 의료 사고에 대한 사법 리스크...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307739?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261106_0003857672",
+   "pubDate": "2026-11-07T14:01:00+09:00",
+   "matched_keywords": [
+    "붕괴사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "'열수송관 파손' 40대 남성 중태…마곡 인근 온수·난방 중단",
+   "description": "당시 현장을 지나가던 A씨는 열수송관 파열로 인한 땅 꺼짐에 추락했다. A씨는 전신에 화상을 입어 현재 위중한 상태인 것으로 전해졌다. 서울에너지공사는 밤 사이 복구 작업을 벌여 이날 오전 8시 45분쯤 작업을...",
+   "link": "https://n.news.naver.com/mnews/article/079/0004207467?sid=102",
+   "originallink": "https://www.nocutnews.co.kr/news/6603564?utm_source=naver&utm_medium=article&utm_campaign=20261107141111",
+   "pubDate": "2026-11-07T14:12:00+09:00",
+   "matched_keywords": [
+    "땅꺼짐"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "취업난·부동산·불공정에 與에 등 돌리는 청년들 [배종찬의 민심풍향계...",
+   "description": "이는 집권여당 및 주요 정치인들과 관련한 도덕적 해이 논란과 잇따른 사건·사고들이 청년층에게 공정의... 완전한 붕괴'로 점철되어 있다. 삶의 현장에서는 '시급'과 '빚' '인력사무소'를 전전하며 생존의 벼랑 끝에...",
+   "link": "https://n.news.naver.com/mnews/article/586/0000141816?sid=100",
+   "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=393021",
+   "pubDate": "2026-11-07T15:00:00+09:00",
+   "matched_keywords": [
+    "붕괴사고",
+    "음주운전사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "최자 ‘오징어 먹뱉’ 전말…숨 못 쉬면 가장 먼저 해야 할 응급처치 [건...",
+   "description": "● 의식 잃으면 바로 심폐소생술…빠진 뒤에도 증상 남으면 진료 기도가 막힌 사람이 의식을 잃고 정상적으로 숨을 쉬지 않는다면 즉시 심폐소생술을 시작해야 한다. 최신 지침은 의식을 잃은 기도폐쇄 환자에게 지체...",
+   "link": "https://n.news.naver.com/mnews/article/020/0003760799?sid=103",
+   "originallink": "https://www.donga.com/news/Health/article/all/20261106/134977681/2",
+   "pubDate": "2026-11-07T16:01:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "월드 뉴스 브리프 (기준일시: 2026년 11월 07일 토요일 10:00)",
+   "description": "운반선에서 폭발이 발생해 선원 한 명이 사망한 것으로 전해졌다. 원유시장에서는 중동지역의 수송 차질이... 특히 유럽 주식형 펀드의 순유입 규모는 지난 8월 12일 이후 최대 수준으로 국제유가와 천연가스 가격...",
+   "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=globalnewsfocus&wr_id=522",
+   "originallink": "http://www.ifs.or.kr/bbs/board.php?bo_table=globalnewsfocus&wr_id=522",
+   "pubDate": "2026-11-07T16:36:00+09:00",
+   "matched_keywords": [
+    "가스폭발"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "'그것이 알고 싶다' 장모 살해하고 아내 납치한 사위...김성우의 치밀했...",
+   "description": "범인은 차량을 몰고 현장을 벗어났고, 두 차례 교통사고를 내면서도 도주를 이어갔다. 서울에서 약 200km 떨어진 강원도 양양의 야산까지 이동한 뒤에야 차량은 멈춰 섰다. 민지 씨는 차량에 갇혀 약 5시간 동안 공포에...",
+   "link": "https://www.nc.press/news/articleView.html?idxno=630480",
+   "originallink": "https://www.nc.press/news/articleView.html?idxno=630480",
+   "pubDate": "2026-11-07T16:41:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "강원",
+    "서울",
+    "양양"
+   ]
+  },
+  {
+   "title": "남울주소방서, 온양체육공원서 119안전체험 한마당",
+   "description": "주요 프로그램은 빛 소화기를 활용한 소화기 사용법 교육, 어린이 방화복 및 헬멧 착용 체험, 소방차 탑승 및 기념촬영, 심폐소생술(CPR) 체험과 응급처치 교육 등이다. 특히 겨울철 화재 예방을 위해 '우리집 안전시설 알기...",
+   "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071825",
+   "originallink": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071825",
+   "pubDate": "2026-11-07T16:46:00+09:00",
+   "matched_keywords": [
+    "방화",
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "[극한직업] 문전성시 퓨전 떡",
+   "description": "공장에서 생산하는 사료가 아닌 약 30가지 재료를 직접 배합하여 발효시킨 수제 사료를 먹이고, 15가지... 2년 전 일어난 대형 화재로 농장의 대부분이 전소되어 파산 직전까지 몰렸던 작업자. 하지만 평소 이곳 달걀을...",
+   "link": "http://www.queen.co.kr/news/articleView.html?idxno=465837",
+   "originallink": "http://www.queen.co.kr/news/articleView.html?idxno=465837",
+   "pubDate": "2026-11-07T17:30:00+09:00",
+   "matched_keywords": [
+    "공장화재",
+    "대형화재"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "브래드 피트 '하트 오브 비스트', 30만 돌파…관객 평점→쿠키 유무?",
+   "description": "지난 10월 28일 개봉한 '하트 오브 비스트'는 비행기 추락 사고로 알래스카 오지에 고립된 전직 육군 특수부대원 '제임스'(브래드 피트)와 그의 은퇴한 군견 '오딘'이 매 순간 닥쳐오는 죽음의 위협 속에서 오직...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270707",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270707",
+   "pubDate": "2026-11-07T17:30:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "수주잔고 200조인데 인력은 반토막…K-조선 호황의 이면",
+   "description": "한국 조선업은 저임금 이주 노동자 의존도가 높고 산업재해 발생률도 심각한 수준으로, 조선업은 매년 수십 명이 목숨을 잃는 국내 최대 위험 산업 중 하나다. 이재명 대통령은 국무회의에서 \"월 220만 원 수준의...",
+   "link": "https://n.news.naver.com/mnews/article/088/0001038961?sid=101",
+   "originallink": "https://www.imaeil.com/page/view/2026110717482202215",
+   "pubDate": "2026-11-07T17:51:00+09:00",
+   "matched_keywords": [
+    "산업재해"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "최대호 안양시장, 유엔 파빌리온서 ‘안양형 AI 도시 모델’ 세계에 소...",
+   "description": "시민의 질문에 도시가 답하는 체계를 목표로 하며, AI 기반 실종자 수색과 고령자 스마트 안심 서비스, 스마트 스쿨존 등 시민 체감형 서비스가 현장에서 관심을 모았다. 최 시장은 이어 4일 열린 ‘U4SSC 10주년...",
+   "link": "https://www.globalepic.co.kr/view.php?ud=2026110615033036805f69d33b22_29",
+   "originallink": "https://www.globalepic.co.kr/view.php?ud=2026110615033036805f69d33b22_29",
+   "pubDate": "2026-11-07T18:08:00+09:00",
+   "matched_keywords": [
+    "실종자수색"
+   ],
+   "event_score": 3,
+   "regions": [
+    "고령"
+   ]
+  },
+  {
+   "title": "온수관 파열로 9천 세대 ‘덜덜’…행인 1명 중태",
+   "description": "파손된 온수관의 누수가 이어지면서 마치 싱크홀처럼 구덩이가 생겼습니다. 통제선을 넘어 인근을 지나던 남성이 구덩이에 빠져 전신 화상을 입고 병원으로 이송됐고, 사고를 수습하던 서울시에너지공사 직원 1명도 발을...",
+   "link": "https://n.news.naver.com/mnews/article/449/0000366746?sid=102",
+   "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558884",
+   "pubDate": "2026-11-07T18:57:00+09:00",
+   "matched_keywords": [
+    "싱크홀",
+    "싱크홀사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "“전통이면 사람 죽어도 돼?” 韓서도 보도됐는데…“외부인 참견 말라...",
+   "description": "이날 아이하라는 최근 사망 사고로 안전 대책 요구가 커진 오사카의 전통 축제 ‘단지리 마쓰리’를 언급했다. 아이하라는 ‘단지리 마쓰리’의 본고장인 오사카 기시와다 출신으로 알려졌다. 그는 축제 중단을 요구하는...",
+   "link": "https://n.news.naver.com/mnews/article/081/0003696825?sid=104",
+   "originallink": "https://www.seoul.co.kr/news/international/2026/11/05/20261105500245?wlog_tag3=naver",
+   "pubDate": "2026-11-07T19:20:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "승용차 충돌한 SUV, 식당 돌진…온수관 파열로 8900세대 난방 끊겨",
+   "description": "제주시 추자면 상추자항 입구 해상에서 선원 10명을 태운 46톤급 어선이 암초에 걸렸습니다. 사고 직후 배가 오른쪽으로 10도가량 기울었지만, 승선원 모두 구명조끼를 착용하고 있어 다친 사람은 없었습니다. 해경은...",
+   "link": "https://n.news.naver.com/mnews/article/057/0001977168?sid=102",
+   "originallink": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229606",
+   "pubDate": "2026-11-07T20:01:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "제주",
+    "제주시"
+   ]
+  },
+  {
+   "title": "[Opinion] 생(生)하기 위해 당하는 생(牲)에 대하여 [드라마/예능]",
+   "description": "지난 22년, 평택 SPL 제빵공장 직원의 기계끼임 사망 사고를 비롯한, SPC 기업의 노동자 사망사고이다. '필요한 희생'이라는 사장의 말은 드라마 속 대사로만 남지 않는다. 2022년 10월 15일, 평택 SPL 제빵공장에서 20대 노동자가...",
+   "link": "https://www.artinsight.co.kr/news/view.php?no=83199",
+   "originallink": "https://www.artinsight.co.kr/news/view.php?no=83199",
+   "pubDate": "2026-11-07T21:00:00+09:00",
+   "matched_keywords": [
+    "끼임사고",
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": [
+    "평택"
+   ]
+  },
+  {
+   "title": "“골든타임을 잡아라”…계명문화대 ‘댕댕이’ 응급처치 교육",
+   "description": "반려동물보건과 교수진과 재학생들은 ‘2026 달서 반려가족 희망나눔 축제’에서 어린이와 시민을 위한 반려동물 응급처치·심폐소생술(CPR) 체험 부스를 운영했다. 참가자들은 동물 모형으로 심정지와 호흡 곤란 등 위급...",
+   "link": "https://www.kukinews.com/article/view/kuk202611070033",
+   "originallink": "https://www.kukinews.com/article/view/kuk202611070033",
+   "pubDate": "2026-11-07T21:38:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "계명문화대학교, 반려동물 응급처치 체험 부스 운영...시민 실습 교육",
+   "description": "체험 부스 운영모습(사진제공=계명문화대학교) 계명문화대학교 반려동물보건과는 최근 열린 '2026 달서 반려가족 희망나눔 축제'에 참가해 반려동물 응급처치 및 심폐소생술(CPR) 체험 부스를 운영했다. 이번 축제는 올바른...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745167",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745167",
+   "pubDate": "2026-11-07T21:38:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "‘파이널 테이블’ 안효섭vs장영남→홍화연과 재료 확보",
+   "description": "앞서 강한은 아버지 강산(지승현 분)의 의문스러운 사망 사고 배후로 지목된 평연그룹 회장 문해선을 향해 깊은 적대감을 드러낸 바 있다. 마감 직전 레스토랑을 찾아온 문해선을 향해 팀원들의 반대에도 불구하고 강한은...",
+   "link": "https://enter.etoday.co.kr/news/view/304901",
+   "originallink": "https://enter.etoday.co.kr/news/view/304901",
+   "pubDate": "2026-11-07T22:30:00+09:00",
+   "matched_keywords": [
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "사용한 용매 증류 회수는 성분 분석부터",
+   "description": "안전보건공단이 공개한 화학사고 사례에는 용매가 분출된 뒤 증기에 불이 붙어 폭발한 사고가 담겼다. 따라서 회수 공정의 운전 조건과 안전장치는 용매 조성과 설비 특성에 맞춰 검토해야 하며, 가정용 장비나 임의의...",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=401909",
+   "originallink": "https://www.vegannews.co.kr/news/article.html?no=401909",
+   "pubDate": "2026-11-07T23:20:00+09:00",
+   "matched_keywords": [
+    "폭발사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "'알바노 4쿼터 13점 폭발' DB, 삼성 원정 8연승 신기록 저지… LG 굿윈은...",
+   "description": "수원에서는 홈팀 수원 kt가 대구 한국가스공사를 92-81로 완파하고 3연승 신바람을 탔다. 승리를 거둔 kt(6승 6패)는 한국가스공사(6승 7패)를 제치고 5위로 도약했다. kt는 프로 2년 차 가드 강성욱의 안정적인 경기 리딩...",
+   "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435260",
+   "originallink": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435260",
+   "pubDate": "2026-11-07T23:20:00+09:00",
+   "matched_keywords": [
+    "가스폭발"
+   ],
+   "event_score": 3,
+   "regions": [
+    "경기",
+    "대구",
+    "수원"
+   ]
+  },
+  {
+   "title": "9개월 만에 또 대참사…EU, '보조금 유용' 의혹 수사 착수",
+   "description": "철도 인프라 관리회사, 국가철도안전청 등 상대로 조사 진행 스페인에서 지난달 열차 추돌 사고로 대규모 사망자가 나오는 참사가 재발하자 유럽연합(EU) 검찰이 스페인 철도 당국을 상대로 추가 수사에 착수했습니다....",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923858?sid=104",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261107234510gdn",
+   "pubDate": "2026-11-07T23:46:00+09:00",
+   "matched_keywords": [
+    "열차사고",
+    "사망사고"
+   ],
+   "event_score": 3,
+   "regions": []
+  },
+  {
+   "title": "강릉 왕산면 주택서 난 불 야산으로 번져…58분 만에 진화(종합)",
+   "description": "같은 날 오후 11시 기준 현장에는 초속 2.3m의 남서풍이 불었고 습도는 37%였다. 주택 안에 있던 3명은 소방대 도착 전 모두 대피해 인명 피해는 없었다. 당국은 정확한 화재 원인과 피해 규모를 조사 중이다.",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275519?sid=102",
+   "originallink": "https://www.news1.kr/local/kangwon/6346256",
+   "pubDate": "2026-11-07T00:26:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강릉"
+   ]
+  },
+  {
+   "title": "\"펑 소리와 함께 불길 치솟아\"…세종시 카페 화재로 9276만 원 피해",
+   "description": "화재는 카페 관계자가 차량을 타고 현장에 도착하던 중 건물 내부에서 '펑' 하는 소리와 함께 불꽃이 발생하는 것을 목격하고 119에 신고하면서 알려졌다. 경찰과 소방당국은 카페 관계자의 진술을 토대로, 전기적...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744872",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744872",
+   "pubDate": "2026-11-07T00:26:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "세종",
+    "세종시"
+   ]
+  },
+  {
+   "title": "나랏빚 감축안 모두 삭제… 누더기된 佛 예산, 찬성 0표로 부결",
+   "description": "소방관 메디 뒤몽트로티(45)는 “우리 임금은 물가 상승률을 따라가지 못하고 있다”며 “올해 여름 상황(산불 확산)을 보면 위기에 대응할 더 많은 자원이 필요하다는 우리의 요구는 옳다”고 했다. 프랑스에서 시작된...",
+   "link": "https://n.news.naver.com/mnews/article/023/0004008286?sid=104",
+   "originallink": "https://www.chosun.com/international/international_general/2026/11/07/2UAXA6GPZBDP7DOHR3S2D7UTDI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "pubDate": "2026-11-07T00:37:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "예산"
+   ]
+  },
+  {
+   "title": "강릉 왕산면 주택서 불…인근 임야로 번져",
+   "description": "불은 인근 임야로 번졌지만 산불로 확산하지는 않았습니다. 화재 당시 주택 안에 있던 3명은 대피해 인명 피해가 없었습니다. 소방·산림당국은 인력 66명과 장비 24대를 투입해 밤 11시 34분쯤 큰불을 잡았습니다....",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401297?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834837&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T00:43:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재",
+    "창고화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강릉"
+   ],
+   "casualty_hints": {
+    "evacuated": 3
+   }
+  },
+  {
+   "title": "오늘 '입동' 서울 첫 영하권…내륙 한파특보",
+   "description": "한기를 품은 강풍이 부는 곳이 많아, 주말 야외 활동 시 안전사고가 없도록 조심해야 합니다. 기상청은 다음 주초까지 이번 추위가 이어질 것으로 전망합니다. 연합뉴스TV 김동혁입니다. [영상취재 김태현 전천호] [영상편집...",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923687?sid=103",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107004339KZJ",
+   "pubDate": "2026-11-07T00:44:00+09:00",
+   "matched_keywords": [
+    "강풍"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "서울국유림관리소, 양주 산림유역관리사업 완료…사방댐 4개소 설치",
+   "description": "북부지방산림청 서울국유림관리소는 산사태 재해 예방을 위해 경기도 양주시 백석읍 기산리 산103-1... 산사태 및 토석류 발생을 차단하고 재해에 강하면서 생태적으로 건강한 산림을 조성하는 것을 목표로 시행됐다....",
+   "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92408",
+   "originallink": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92408",
+   "pubDate": "2026-11-07T00:54:00+09:00",
+   "matched_keywords": [
+    "산사태"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "서울",
+    "양주시"
+   ]
+  },
+  {
+   "title": "인제 민통선 인근 국유림서 산불…0.12ha 태우고 2시간 반 만에 진화",
+   "description": "6일 강원소방본부에 따르면 이날 오전 6시 35분께 인제군 서화면 서화리 민간인통제선(민통선) 인근 국유림에서 산불이 발생했다. 신고를 접수한 소방과 산림 당국은 장비와 인력을 투입해 진화 작업에 나섰으며, 불은...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744892",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744892",
+   "pubDate": "2026-11-07T00:56:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "인제",
+    "인제군"
+   ]
+  },
+  {
+   "title": "산림청, 부산 소나무재선충병 청정지역 전환 논의…피해목 3,614그루",
+   "description": "특히 수영구와 연제구는 최근 2년 이상 감염목이 발생하지 않은 지역으로, 청정지역 전환 가능성이 높은... 지역별 피해 발생 특성과 방제 여건에 따라 경미지역 청정전환, 집단 피해지역 집중 예찰, 국가방제벨트 관리 등...",
+   "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92409",
+   "originallink": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92409",
+   "pubDate": "2026-11-07T00:56:00+09:00",
+   "matched_keywords": [
+    "집단감염"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "“아기야 좀 살자” 구급대원 외침에…끝내 울음 터뜨린 미숙아",
+   "description": "아기 울어요.” 병원으로 향하던 구급차 안에서 임신 31주 만에 태어난 아기가 숨을 제대로 쉬지 못하자 119구급대원들이 심폐소생술에 나섰다. 병원에 도착해 의료진에게 인계되기 직전 울음을 터뜨리며 스스로 숨을...",
+   "link": "https://n.news.naver.com/mnews/article/025/0003563447?sid=102",
+   "originallink": "https://www.joongang.co.kr/article/25476524",
+   "pubDate": "2026-11-07T01:12:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "과일 하루 1~2개, 채소 매 끼니…권장량 채우는 사람 38→24%",
+   "description": "식중독 위험도 줄어든다. 2024년 미국을 덮친 햄버거 식중독 파동은 ‘덜 익힌’ 패티가 아니라 ‘안 익힌’ 양파에 묻은 대장균이 원인이었다. 경기도 고양시의 이재민(78)씨. 식당에서 식후 서비스로 나온 과일을...",
+   "link": "https://n.news.naver.com/mnews/article/353/0000057172?sid=102",
+   "originallink": "https://www.joongang.co.kr/article/25476528",
+   "pubDate": "2026-11-07T01:30:00+09:00",
+   "matched_keywords": [
+    "식중독",
+    "이재민"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "고양"
+   ]
+  },
+  {
+   "title": "KT, 부산불꽃축제 통신망 특별 관리…'5G SA'로 인파 안전관제 지원",
+   "description": "활용해 통신 부하를 분산·최적화할 계획이다. 현장에는 네트워크 전문 인력을 배치해 서비스 이상 징후를 신속하게 파악하고 장애 발생 시 즉각 대응할 수 있도록 했다. 예기치 않은 전원 공급 문제에 대비한 비상...",
+   "link": "https://www.apnews.kr/news/articleView.html?idxno=3052903",
+   "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3052903",
+   "pubDate": "2026-11-07T02:08:00+09:00",
+   "matched_keywords": [
+    "통신장애"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "고령화에 응급실도 비상?…“‘낙상환자 방문율’ 2040년엔 최대 4배로...",
+   "description": "그러나 질병관리청이 올 8월 발표한 ‘2025년 손상 유형과 원인 통계’에 따르면, 지난해 추락이나 낙상으로 응급실을 찾는 경우(40%)가 교통사고(15.5%)보다 많았다. 국립중앙의료원 연구팀이 최근 9년간 고령층이...",
+   "link": "https://n.news.naver.com/mnews/article/662/0000107874?sid=103",
+   "originallink": "https://www.nongmin.com/article/20261103500170",
+   "pubDate": "2026-11-07T04:23:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "낙상사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "고령"
+   ]
+  },
+  {
+   "title": "[딜로이트 글로벌 경제 리뷰] COP31과 '초과 온난화' 경로",
+   "description": "1.5°C를 넘어서는 기온 상승은 폭염, 산불, 가뭄, 홍수 등 극한 기상 현상이 사람과 생태계에 미치는 영향이 더욱 심화되고, 시간이 지날수록 아마존 열대우림의 고사, 영구 동토층의 해빙, 빙하 붕괴 등 돌이킬 수...",
+   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285268",
+   "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=285268",
+   "pubDate": "2026-11-07T05:00:00+09:00",
+   "matched_keywords": [
+    "가뭄",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "겨울의 시작 ‘입동’에 찾아온 영하권 추위…아침 기온 ‘뚝’ [오늘의...",
+   "description": "강원 고성·인제 산지에는 초속 25m 이상의 강풍이 예상된다. 중부지방과 전북 동부, 경상권 내륙에는 얼음이 얼거나 서리가 내리는 곳도 있겠다. 해상에서도 강한 바람이 불면서 먼바다를 중심으로 물결이 매우...",
+   "link": "https://n.news.naver.com/mnews/article/011/0004679656?sid=102",
+   "originallink": "https://www.sedaily.com/article/20111378?ref=naver",
+   "pubDate": "2026-11-07T05:01:00+09:00",
+   "matched_keywords": [
+    "강풍",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "고성",
+    "인제",
+    "전북"
+   ]
+  },
+  {
+   "title": "하찮은 돌멩이 속에 흐르는 지구의 시간",
+   "description": "화산 폭발과 지진, 산사태를 예측하고 빙하 소실과 대기 중 이산화탄소 농도 등 기후 변화의 양상을 연구하는 데 중요한 역할을 하기 때문이다. 저자는 물리학과 화학, 생물학 등 여러 학문을 아우르는 지질학의 범위와...",
+   "link": "https://www.readersnews.com/news/articleView.html?idxno=200827",
+   "originallink": "https://www.readersnews.com/news/articleView.html?idxno=200827",
+   "pubDate": "2026-11-07T06:00:00+09:00",
+   "matched_keywords": [
+    "지진",
+    "산사태"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "“생으로 먹지 말고 데쳐라”…채소·과일 똑똑하게 먹는 법",
+   "description": "식중독 위험도 줄어든다. 2024년 미국을 덮친 햄버거 식중독 파동은 ‘덜 익힌’ 패티가 아니라 ‘안 익힌’ 양파에 묻은 대장균이 원인이었다. 경기도 고양시의 이재민(78)씨. 식당에서 식후 서비스로 나온 과일을...",
+   "link": "https://n.news.naver.com/mnews/article/025/0003563454?sid=102",
+   "originallink": "https://www.joongang.co.kr/article/25476547",
+   "pubDate": "2026-11-07T06:00:00+09:00",
+   "matched_keywords": [
+    "식중독",
+    "이재민"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "고양"
+   ]
+  },
+  {
+   "title": "\"딸이 전화를 안 받아요\" 꿈 많던 20대 승무원 날개 꺾은 팬데믹[뉴스속...",
+   "description": "A씨가 사망한 지 약 10개월이 지난 2021년 9월 근로복지공단 업무상질병판정위원회(질병판정위)는 A씨 유족 측에 '산업재해를 인정한다'는 심의 결과를 통보했다. 공단은 \"A씨의 극단적 선택이 업무상 과도한 스트레스...",
+   "link": "https://n.news.naver.com/mnews/article/008/0005437890?sid=102",
+   "originallink": "https://www.mt.co.kr/society/2026/11/07/2026110609085245012",
+   "pubDate": "2026-11-07T06:03:00+09:00",
+   "matched_keywords": [
+    "산업재해"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "'입동' 강원 대체로 맑고 추워…동해안 풍랑·너울 주의",
+   "description": "동해안을 중심으로 풍랑과 너울이 일겠으니 해상 안전사고에 유의해야 한다. 낮 기온은 내륙 8∼9도, 산지 7∼8도, 동해안 12∼13도로 예보됐다. 미세먼지 농도는 원활한 대기 확산에 따라 영동에서 '좋음', 영서에서...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427597?sid=103",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107009100062?input=1195m",
+   "pubDate": "2026-11-07T06:30:00+09:00",
+   "matched_keywords": [
+    "풍랑",
+    "해상사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "동해",
+    "영동"
+   ]
+  },
+  {
+   "title": "'입동' 전북 밤사이 서리·얼음…낮 9~13도 '맑음'",
+   "description": "대기 확산이 원활해 (초)미세먼지 농도는 '좋음' 수준이며, 자외선 지수는 '보통', 식중독 예측지수는 발생 가능성이 낮은 '관심(23.8)' 단계다. 군산항(오식도동) 물때는 무릎사리로 간조는 오전 8시9분(87㎝)과 오후...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307487?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858727",
+   "pubDate": "2026-11-07T06:49:00+09:00",
+   "matched_keywords": [
+    "식중독"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "\"58만원 없어 서울대 포기할 뻔했는데\"…39년 전 소년은 지금",
+   "description": "아버지는 10년 전 사고로 세상을 떠났고, 어머니는 식당에서 일하며 한 달에 15만원을 벌어 생계를... 조중건 당시 대한항공 사장은 신 부사장에게 대학 4년간의 등록금과 유학비를 지원하겠다고 약속한 것이다....",
+   "link": "https://n.news.naver.com/mnews/article/031/0001073070?sid=101",
+   "originallink": "http://www.inews24.com/view/2023652",
+   "pubDate": "2026-11-07T07:01:00+09:00",
+   "matched_keywords": [
+    "항공사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "\"아기야 살자!\" 심정지 아기 살린 구급대원들",
+   "description": "병실에 도착할 때까지 구급대원들의 심폐소생술이 간절하게 이어집니다. [아…아기야…아기야 좀 살자!] 울음을 터트리는가 싶더니, [운다, 운다, 울어, 울어! 운다, 살았다, 아기 울어요.] 그러나 다시 숨을 쉬지 못하고...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401313?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834872&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T07:13:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "조지아서 구리·통신선 절도 급증…AT&T, 1만달러 현상금",
+   "description": "구리 케이블을 절단하는 과정에서 함께 설치된 광섬유 케이블까지 끊어지는 경우가 많아 인터넷과 휴대전화, 일반 전화 등 통신망 전체에 장애가 발생할 수 있다. AT&T 측은 구리선 절도가 언뜻 피해자가 없는 범죄처럼...",
+   "link": "https://www.koreadaily.com/article/20261106142117077",
+   "originallink": "https://www.koreadaily.com/article/20261106142117077",
+   "pubDate": "2026-11-07T07:22:00+09:00",
+   "matched_keywords": [
+    "통신장애"
+   ],
+   "event_score": 2,
+   "regions": [
+    "구리",
+    "대전"
+   ]
+  },
+  {
+   "title": "오늘 겨울의 시작 '입동' 서울 첫 영하권…곳곳 한파주의보[오늘아침]",
+   "description": "충돌해 화재가 발생했다고 밝혔다고 로이터와 AFP 통신이 이란 국영 언론을 인용해 전했습니다. 이란 언론은... 여의도권에서는 오늘 오전 8시부터 '마라톤'이 열려 서강대교 북단~남단 차량 통행이 오전 7시 50분부터 9시...",
+   "link": "https://n.news.naver.com/mnews/article/079/0004207441?sid=102",
+   "originallink": "https://www.nocutnews.co.kr/news/6603537?utm_source=naver&utm_medium=article&utm_campaign=20261107090908",
+   "pubDate": "2026-11-07T07:38:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울",
+    "파주"
+   ]
+  },
+  {
+   "title": "경남 특사경, 9일부터 목욕장업 기획단속…화재·감염병 차단",
+   "description": "경남도 특별사법경찰(이하 특사경)은 동절기 찜질·사우나시설 이용이 증가하는 것에 맞춰 목욕장업을 대상으로 9일부터 27일까지 화재·감염병 위험 요인을 중심으로 특별 기획단속을 한다고 7일 밝혔다. 힐링카페', '저온...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427653?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261106076500052?input=1195m",
+   "pubDate": "2026-11-07T08:05:00+09:00",
+   "matched_keywords": [
+    "감염병"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경남"
+   ]
+  },
+  {
+   "title": "순천대 의과대학 신설…'2032년 개원 목표' 부속병원 어디에",
+   "description": "여수시는 의대 확정 소식에 환영하면서도 여수국가산단과 인접해 산업재해 응급환자를 신속하게 이송할 수 있는 율촌 권역이 대학병원 적지라고 강조하고 있다. 광양시에서는 폐교된 광양보건대 부지를 활용하는...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275616?sid=102",
+   "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6345848",
+   "pubDate": "2026-11-07T08:10:00+09:00",
+   "matched_keywords": [
+    "산업재해"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광양",
+    "순천",
+    "여수"
+   ]
+  },
+  {
+   "title": "블랙스톤, 87억달러 에너지 전환 펀드 모집 마감",
+   "description": "펀드의 가스 투자 비중과 개별 발전시설의 메탄 누출량, 실제로 대체되는 발전원이 확인돼야 투자 규모와 배출 효과를 구체적으로 대조할 수 있다. 제31차 유엔기후변화협약 당사국총회(COP31)는 11월 9일부터...",
+   "link": "https://www.tokenpost.kr/news/economy/434317",
+   "originallink": "https://www.tokenpost.kr/news/economy/434317",
+   "pubDate": "2026-11-07T08:22:00+09:00",
+   "matched_keywords": [
+    "가스누출"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "겨울철 맞아 서울 노후주택 2000가구에 자동확산소화기 설치",
+   "description": "서울시가 겨울철 화재에 대비해 취약주택 소방시설 보급, 고위험시설 안전점검, 소방차 출동로 확보 등 안전관리를 강화한다. 노후주택 2000가구에 자동확산소화기를 보급하고 다중이용시설 2771곳을 집중 점검하는 등...",
+   "link": "https://n.news.naver.com/mnews/article/016/0002720174?sid=102",
+   "originallink": "https://biz.heraldcorp.com/article/10925571?ref=naver",
+   "pubDate": "2026-11-07T08:26:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "공장화재",
+    "창고화재",
+    "방화"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "용인특례시, 재난취약계층 안전지원 강화 나선다",
+   "description": "이날 용인소방서는 주택화재 안심보험, 화재피해 주민 지원사업, 119안심콜, 실버 세이퍼 등 4개 주요 정책을 소개했다. 주택화재 안심보험은 기초생활보장수급자와 차상위계층이 별도 신청 없이 화재 피해를 보상받을 수...",
+   "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236822",
+   "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=236822",
+   "pubDate": "2026-11-07T08:40:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "통신장애"
+   ],
+   "event_score": 2,
+   "regions": [
+    "용인"
+   ]
+  },
+  {
+   "title": "경기도, 조류인플루엔자 확산 차단 총력",
+   "description": "경기도가 연천 산란계농장에서 발생한 고병원성 조류인플루엔자(AI)의 추가 확산을 막기 위해 도내 18개 시군과 긴급 방역체계를 가동하고, 철새도래지와 가금농장 등 고위험지역에 대한 집중 관리에 나섰다. 도는 6일...",
+   "link": "https://www.job-post.co.kr/news/articleView.html?idxno=237050",
+   "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=237050",
+   "pubDate": "2026-11-07T08:40:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "연천"
+   ]
+  },
+  {
+   "title": "강남구민회관서 '통합돌봄 1년' 행사…400여 명 참석 예정",
+   "description": "이재민 강남복지재단 상임이사는 올해 3월 통합돌봄 지원법 시행과 함께 재단이 통합돌봄지원부를 개설해 강남구 돌봄 활성화에 힘써왔다고 밝혔다. 그는 이번 행사를 계기로 더욱 튼튼하고 체계적인 돌봄서비스...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744922",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744922",
+   "pubDate": "2026-11-07T08:48:00+09:00",
+   "matched_keywords": [
+    "이재민"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강남구"
+   ]
+  },
+  {
+   "title": "[정읍소식]시, 농작물재해보험료 최대 90% 지원 등",
+   "description": "전북 정읍시가 자연재해로 인해 농작물 피해가 발생했을 때 농가의 손실을 최소화하는 '농작물재해보험'의 보험료를 최대 90%까지 지원한다고 7일 밝혔다. 대상 작목은 포도, 복숭아 등 과수와 보리, 밀 등으로 과수는 오는...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307550?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261106_0003858353",
+   "pubDate": "2026-11-07T09:00:00+09:00",
+   "matched_keywords": [
+    "자연재해"
+   ],
+   "event_score": 2,
+   "regions": [
+    "전북",
+    "정읍"
+   ]
+  },
+  {
+   "title": "부산불꽃축제, 끝난 뒤가 고비…100만명 귀갓길 비상",
+   "description": "부산교통공사는 이날 도시철도 1~3호선 열차를 212회 추가 운행한다. 행사 종료 후인 오후 8~10시에는... 실제 통제 범위는 현장 상황에 따라 달라질 수 있다.부산불꽃축제는 대형 인명사고 없이 끝난 해에도 크고 작은...",
+   "link": "https://news.mtn.co.kr/article/2026110619320594266",
+   "originallink": "https://news.mtn.co.kr/article/2026110619320594266",
+   "pubDate": "2026-11-07T09:02:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "전국 한파주의보 해제…경기·강원 등 5개 도 오전 9시부터",
+   "description": "한편 울릉도·독도에는 강풍주의보가, 동해와 남해 일부 먼바다 및 제주도 남쪽 해상에는 풍랑주의보가 유지된다. 강원 속초·고성·양양 평지에는 건조주의보가 발효돼 있어 강풍과 높은 파도, 산불 등 화재 예방에도...",
+   "link": "https://n.news.naver.com/mnews/article/018/0006405465?sid=103",
+   "originallink": "https://www.edaily.co.kr/News/Read?newsId=02204166645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "pubDate": "2026-11-07T09:29:00+09:00",
+   "matched_keywords": [
+    "강풍",
+    "풍랑",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "경기",
+    "고성",
+    "남해",
+    "동해",
+    "속초",
+    "양양",
+    "제주",
+    "파주"
+   ]
+  },
+  {
+   "title": "[박치현의 기후과학] 가을장마 시대가 오는가",
+   "description": "특히 산림 토양층의 유효 공기 간극이 수분으로 차단되면 대사 작용을 위한 산소 공급이 중단돼 뿌리가 괴사하고 포화된 표토층은 산사태와 사면 유실 위험으로 이어진다. 과거 주요 주산지에서는 벼 도복과...",
+   "link": "https://www.newspenguin.com/news/articleView.html?idxno=22400",
+   "originallink": "https://www.newspenguin.com/news/articleView.html?idxno=22400",
+   "pubDate": "2026-11-07T09:30:00+09:00",
+   "matched_keywords": [
+    "산사태",
+    "태풍",
+    "가뭄"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "천안시 양계장 화재…닭 1만 2000여 마리 폐사",
+   "description": "신고를 받고 출동한 소방당국은 진화 작업을 벌여 약 1시간 20분 만에 불을 모두 껐다. 소방당국은 창고동에서 불이 시작된 것으로 보고 정확한 화재 원인과 피해 규모를 조사하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/629/0000549651?sid=102",
+   "originallink": "https://news.tf.co.kr/read/national/2386026.htm",
+   "pubDate": "2026-11-07T09:45:00+09:00",
+   "matched_keywords": [
+    "창고화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "천안",
+    "천안시"
+   ]
+  },
+  {
+   "title": "美 홍역 확진 사례 5000건 넘어…35년 만에 가장 많아",
+   "description": "감염병 전문 소아과 의사 애덤 래트너는 AFP에 이 같은 사망이 \"비극적이고 완전히 예방할 수 있는 일\"이라고 말했다. 홍역은 전염성이 매우 강하지만 예방이 쉬운 질병으로, 미국은 백신 접종 덕분에 2000년 홍역 퇴치를...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275666?sid=104",
+   "originallink": "https://www.news1.kr/world/usa-canada/6346319",
+   "pubDate": "2026-11-07T09:46:00+09:00",
+   "matched_keywords": [
+    "감염병"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "단풍 나들이에 고속도로 곳곳 정체…서울→부산 6시간20분",
+   "description": "일요일 서울 방향 최대 예상 소요시간은 부산에서 6시간20분, 강릉에서 4시간, 대전에서 3시간30분이다. 도로공사는 11월 단풍철 나들이 차량 증가와 졸음운전 등에 따른 교통사고에 주의해야 한다고 당부했다.",
+   "link": "https://www.newspim.com/news/view/20261107000028",
+   "originallink": "https://www.newspim.com/news/view/20261107000028",
+   "pubDate": "2026-11-07T09:52:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강릉",
+    "대전",
+    "부산",
+    "서울"
+   ]
+  },
+  {
+   "title": "경기남부경찰청, 수장 공석 장기화…지역 치안 위기 심화",
+   "description": "예를 들어, 2025년 기준 외국인 운전자 교통사고는 전체의 32.9%를 차지했다. 이처럼 치안 문제가 지속적으로 발생하고 있지만, 경찰 인력은 이를 감당하기에 부족한 실정이다. 경찰관 1인당 담당 인구는 534명으로 전국 최고...",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=884570",
+   "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=884570",
+   "pubDate": "2026-11-07T10:06:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기"
+   ]
+  },
+  {
+   "title": "장흥 오리농장서 고병원성 AI 확진…올겨울 가금농장 두 번째",
+   "description": "전남 장흥군의 오리농장에서 고병원성 조류인플루엔자(AI)가 발생했다. 지난 3일 경기 연천의 산란계 농장에 이어 올겨울 국내 가금농장에서 확인된 두 번째 사례로, 오리농장에서는 처음이다. 7일 고병원성...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307599?sid=101",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858800",
+   "pubDate": "2026-11-07T10:10:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "연천",
+    "장흥",
+    "전남"
+   ]
+  },
+  {
+   "title": "농식품부, 경기 여주 산란계 농장서 H5형 AI 항원 확인",
+   "description": "경기 여주시의 한 산란계 농장에서 H5형 조류인플루엔자(AI) 항원이 확인됐습니다. 고병원성 조류인플루엔자 중앙사고수습본부는 6일 여주시의 산란계 농장에서 H5형 항원이 검출됐다고 밝혔습니다. 해당 농장에서는 닭...",
+   "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117219",
+   "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117219",
+   "pubDate": "2026-11-07T10:12:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주"
+   ]
+  },
+  {
+   "title": "경기도 농정통합 17일만에 '독립성 유지'…추미애 넉 달, 정하고 고치기...",
+   "description": "4일 연천의 산란계 농장에서 H5N9형 고병원성 조류인플루엔자가 발생했다. 추 지사는 방역 강화를 지시하며 \"가축전염병 담당 부서의 전문성, 현장 대응력을 강화하는 방향으로 민선9기 조직개편을 추진할 것\"을...",
+   "link": "https://www.etoday.co.kr/news/view/2645287",
+   "originallink": "https://www.etoday.co.kr/news/view/2645287",
+   "pubDate": "2026-11-07T10:20:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자",
+    "구제역"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "연천"
+   ]
+  },
+  {
+   "title": "경주 감포 앞바다서 80대 해녀 심정지…동료들이 구조",
+   "description": "7일 소방당국에 따르면 사고는 전날 오전 10시53분쯤 경주시 감포읍 오류리 방파제 인근 해상에서 발생했다. 당시 바다에서 미역 작업을 하던 80대 여성 해녀가 심정지 상태에 빠졌으며, 함께 작업하던 동료들이 이를...",
+   "link": "https://n.news.naver.com/mnews/article/629/0000549653?sid=102",
+   "originallink": "https://news.tf.co.kr/read/national/2386027.htm",
+   "pubDate": "2026-11-07T10:23:00+09:00",
+   "matched_keywords": [
+    "해상사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경주",
+    "경주시"
+   ]
+  },
+  {
+   "title": "전북경찰, 비보호좌회전 교차로 739곳 안전 점검…\"신호체계 개선\"",
+   "description": "이번 점검은 최근 일부 교차로에서 발생한 교통사고를 계기로 운전자의 전방주시 태만과 무리한 좌회전 등 사고 위험 요인을 줄이기 위해 마련됐다. 경찰은 대향차로 수와 제한속도, 시야 거리 확보 여부 등을 살펴...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275684?sid=102",
+   "originallink": "https://www.news1.kr/local/jeonbuk/6346330",
+   "pubDate": "2026-11-07T10:25:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "전북"
+   ]
+  },
+  {
+   "title": "장흥 육용오리농장 조류인플루엔자 확진…방역 관리 강화",
+   "description": "장흥군 부산면의 육용오리 농장에서 검출된 조류인플루엔자 항원이 검사결과 고병원성인 H5N9형으로 확진됐습니다. 농식품부 중앙사고수습본부는 오는 13일까지 장흥군의 모든 오리농장과 발생 계열사의 전국 계약...",
+   "link": "https://n.news.naver.com/mnews/article/660/0000120798?sid=102",
+   "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070010",
+   "pubDate": "2026-11-07T10:31:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산",
+    "장흥",
+    "장흥군"
+   ]
+  },
+  {
+   "title": "[황윤주의 외식 비즈니스 컨설팅] 초보 창업자가 알아야할 생존전략",
+   "description": "전기·가스 요금, 세금(부가세·원천세), 소모품비와 초기 수리·폐기비용을 아우르는 '3~6개월치 기본 운영... 마지막으로 직원은 적게 쓰되 매출이 폭발하는 피크타임에 정확히 배치해야 한다. 근무 교대 시 '3분 인수인계'를...",
+   "link": "https://www.lecturernews.com/news/articleView.html?idxno=213339",
+   "originallink": "https://www.lecturernews.com/news/articleView.html?idxno=213339",
+   "pubDate": "2026-11-07T10:36:00+09:00",
+   "matched_keywords": [
+    "가스폭발",
+    "붕괴사고",
+    "매몰사고"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "전남광주 폐기물 업체서 외국인 근로자 추락…심정지 이송",
+   "description": "7일 오전 8시 55분쯤 전남광주 북구 월출동의 한 폐기물 처리업체에서 40대 중국인 근로자 A 씨가 3m 아래로 추락하는 사고가 발생했다. 심정지 상태의 A 씨는 출동한 소방 당국에 의해 병원으로 옮겨졌다. A 씨는 폐기물...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275696?sid=102",
+   "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6346336",
+   "pubDate": "2026-11-07T10:40:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주",
+    "전남"
+   ]
+  },
+  {
+   "title": "中유니트리로봇, 유전·정유공장으로…국영 석유·AI기업과 합작",
+   "description": "석유·가스 산업 현장은 폭발 위험이 있는 대기 환경과 고온, 유독물질 등으로 인해 자율 순찰 로봇에 대한 수요가 높은 분야로 꼽힌다. 유니트리는 이미 이러한 환경에 활용할 수 있는 방폭형 사족보행 로봇 'B2-Ex'를...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016427730?sid=104",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107026300083?input=1195m",
+   "pubDate": "2026-11-07T10:50:00+09:00",
+   "matched_keywords": [
+    "가스폭발"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "지하철 준사고 또 보고 누락...서울교통공사에 과징금 2억 4000만 원",
+   "description": "선로에 장애가 있는 상태에서 진행신호가 표시되면 열차가 위험 구간으로 진입할 수 있다. 철도안전법은 이처럼 실제 사고로 이어질 위험이 있는 상황을 철도 준사고로 규정하고 있다. 서울교통공사의 준사고 보고...",
+   "link": "https://www.abcn.kr/news/articleView.html?idxno=94190",
+   "originallink": "https://www.abcn.kr/news/articleView.html?idxno=94190",
+   "pubDate": "2026-11-07T10:50:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "군산항 1부두 정박 선박 3척 불, 113분간 활활…사상없어",
+   "description": "항포구 부두는 여러 선박이 좁은 간격으로 나란히 묶여 있어 한 척에서 불이 나면 강풍을 타고 연쇄 화재로 확산할 위험이 크다. 해경은 경비함정과 방제정 등 4척을 투입해 소방당국과 합동 진화에 나섰고 신고...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014307645?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003858822",
+   "pubDate": "2026-11-07T10:54:00+09:00",
+   "matched_keywords": [
+    "강풍",
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산",
+    "항포구"
+   ]
+  },
+  {
+   "title": "군산항 정박 선박서 불…3척 불타고 2시간 만에 진화",
+   "description": "관계 당국은 해양오염 등 추가 피해에 대비해 사고 선박 주변에 오일펜스를 설치했습니다. 해경과 소방은 정확한 화재 경위와 원인을 조사할 계획입니다. #군산항 #정박 #선박화재 #군산해경 #전북소방",
+   "link": "https://n.news.naver.com/mnews/article/422/0000923760?sid=102",
+   "originallink": "http://www.yonhapnewstv.co.kr/news/AKR202611071104117ob",
+   "pubDate": "2026-11-07T11:05:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "31주 만에 세상으로… 구급대원들 노력에 산모도 아기도 지켰다",
+   "description": "분만 직후 신생아의 자발호흡과 자극 반응이 미약한 것을 확인한 구급대원들은 의료지도에 따라 심폐소생술을 시행했다. 또한 산모에게도 정맥로를 확보하는 등 필요한 처치를 시행하며 산모와 신생아를 병원으로...",
+   "link": "https://n.news.naver.com/mnews/article/022/0004173233?sid=102",
+   "originallink": "https://www.segye.com/newsView/20261106510120?OutUrl=naver",
+   "pubDate": "2026-11-07T11:13:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "여주 산란계 26만마리 농장서 AI 항원…경기·강원·충북 24시간 이동중...",
+   "description": "경기 여주시의 산란계 26만여마리 사육 농장에서 H5형 조류인플루엔자(AI) 항원이 검출됐다. 전남광주 장흥의 육용오리 농장에서 고병원성 AI가 확진된 데 이어 추가 의심 사례가 나오면서 방역당국이 경기·강원·충북...",
+   "link": "https://n.news.naver.com/mnews/article/016/0002720201?sid=101",
+   "originallink": "https://biz.heraldcorp.com/article/10929140?ref=naver",
+   "pubDate": "2026-11-07T11:20:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "경기",
+    "광주",
+    "여주",
+    "장흥",
+    "전남",
+    "충북"
+   ]
+  },
+  {
+   "title": "'비렁길' 여행계획 세웠다면, 이 물음에 답해주세요",
+   "description": "산불의 징후를 발견하고, 해안에 밀려온 쓰레기를 치우고, 태풍에 길이 무너지거나 시설이 파손되면 가장 먼저 현장을 살피는 사람들 가운데에는 그곳에 살아가는 주민들이 있습니다. 매일 산과 바다를 오가며 날씨의...",
+   "link": "https://n.news.naver.com/mnews/article/047/0002534963?sid=102",
+   "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281562&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "pubDate": "2026-11-07T11:21:00+09:00",
+   "matched_keywords": [
+    "태풍",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "부산 남구 용호동 교차로서 오토바이와 승용차 충돌 교통사고",
+   "description": "11월 7일 오전 1시 40분경 부산 남구 용호동 소재 OO베이 앞 교차로에서 교통사고가 발생했다. A씨(30대·남)운전의 오토바이가 도시가스교차로->이기대방향으로 직진하던 중 좌회전 하던 B씨(20대·남)운전의...",
+   "link": "https://www.lawissue.co.kr/view.php?ud=2026110711263253029a8c8bf58f_12",
+   "originallink": "https://www.lawissue.co.kr/view.php?ud=2026110711263253029a8c8bf58f_12",
+   "pubDate": "2026-11-07T11:32:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "갓세븐 진영, 첫 단독 투어 'CODE#' 앞두고 서울 리허설 현장 공개",
+   "description": "진영은 집중호우·산불 피해 지원을 위한 기부로 희망브리지 아너스클럽 회원으로 위촉됐고, 튀르키예·시리아 지진 피해 아동 지원을 위한 후원으로 세이브더칠드런 아너스클럽에도 이름을 올렸다....",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16270590",
+   "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16270590",
+   "pubDate": "2026-11-07T11:36:00+09:00",
+   "matched_keywords": [
+    "지진",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "전남광주 폐기물 처리장서 작업자 추락해 심정지",
+   "description": "▲ 119 구급차 오늘(7일) 오전 8시 55분쯤 전남광주 북구 월출동 폐기물 처리업체 작업장에서 40대 작업자가 추락하는 사고가 있었습니다. 중국 국적 남성 A 씨는 약 3m 높이에서 떨어져 심정지 상태로 병원으로...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401334?sid=102",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835125&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T11:37:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주",
+    "전남"
+   ]
+  },
+  {
+   "title": "군산항 정박 선박 화재...바람 타고 번져 3척 불타",
+   "description": "연료 유출로 인한 2차 해양오염을 막기 위해 사고 선박 주변에 오일펜스를 설치했습니다. 당국은 최초 불이 난 선박이 비어 있던 상태였던 점을 토대로 전기적 요인 등 정확한 화재 원인과 피해 규모를 조사하고 있습니다.",
+   "link": "https://n.news.naver.com/mnews/article/052/0002429582?sid=102",
+   "originallink": "https://www.ytn.co.kr/_ln/0115_202611071139165750",
+   "pubDate": "2026-11-07T11:39:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산"
+   ]
+  },
+  {
+   "title": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
+   "description": "해당 구간은 인도가 없어 학생들 보행 동선과 차량-오토바이 통행 동선이 겹쳐 안전사고가 우려되는 곳이다.... 추진 과제는 △서울 3-6-8-9호선 연장 및 GTX 등 철도망 혁신과 도로망 확충 △시민체감형 버스노선 개편...",
+   "link": "https://www.ekn.kr/web/view.php?key=20261107027166666",
+   "originallink": "https://www.ekn.kr/web/view.php?key=20261107027166666",
+   "pubDate": "2026-11-07T11:44:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "구리",
+    "구리시",
+    "남양주",
+    "서울",
+    "양평",
+    "양평군",
+    "포천",
+    "포천시",
+    "하남",
+    "하남시"
+   ]
+  },
+  {
+   "title": "단풍 절정 주말 고속도로 600만대 몰려…서울 방향 오후 5~6시 정체 절정",
+   "description": "최대 소요시간은 부산 6시간20분, 광주·목포 5시간10분, 강릉 4시간, 대전 3시간30분 수준이다. 도로공사는 단풍철 나들이 차량이 늘어나는 만큼 졸음운전 등으로 인한 교통사고에 각별히 주의해 달라고 당부했다.",
+   "link": "http://www.metroseoul.co.kr/article/20261107500020",
+   "originallink": "http://www.metroseoul.co.kr/article/20261107500020",
+   "pubDate": "2026-11-07T11:50:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강릉",
+    "광주",
+    "대전",
+    "목포",
+    "부산",
+    "서울"
+   ]
+  },
+  {
+   "title": "군산 오식도동 아파트 16층서 화재…30여분 만에 진화",
+   "description": "▲ 전북 군산시 오식도동의 한 아파트 16층에서 불이 났다.(사진= 전북소방본부 제공) 6일 오후 6시 51분께 전북 군산시 오식도동의 한 아파트 16층에서 불이 났다. 화재 신고를 받고 출동한 소방 당국은 인력과 장비를...",
+   "link": "https://idsn.co.kr/news/view/1065581385950410",
+   "originallink": "https://idsn.co.kr/news/view/1065581385950410",
+   "pubDate": "2026-11-07T11:52:00+09:00",
+   "matched_keywords": [
+    "아파트화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산",
+    "군산시",
+    "전북"
+   ]
+  },
+  {
+   "title": "‘입동’ 절기 찬 바람에 한낮에도 서울 8도, 체감온도 뚝",
+   "description": "먼바다와 남해 동부 먼바다, 제주 남쪽 먼바다에서 2에서 4미터로 높게 일겠습니다. 건조특보가 발효된 동해안을 중심으로 바람이 강하게 불 것으로 보여 산불 등 화재 예방에 주의가 필요합니다. [사진 출처 : 연합뉴스]",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289301?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706654&ref=A",
+   "pubDate": "2026-11-07T12:00:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "남해",
+    "동해",
+    "서울",
+    "제주"
+   ]
+  },
+  {
+   "title": "청양군, 도로명판 확충으로 길 찾기 쉬워진다",
+   "description": "(사진제공=청양군) 충남 청양군은 6일 위치 확인이 어려운 구간과 차량·보행자 통행이 많은 구역에 도로명판... 특히, 사고나 화재 등 긴급 상황이 발생했을 때 도로명판에 표기된 도로명으로 정확한 위치를 신고할 수...",
+   "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919368",
+   "originallink": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919368",
+   "pubDate": "2026-11-07T12:02:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "청양군",
+    "충남"
+   ]
+  },
+  {
+   "title": "순천대 의대…순천시, 환영 넘어 구체적 지원계획 서둘러야",
+   "description": "이에 따라 지역 간 의료협력체계를 구축하고 산업재해와 중증·응급환자, 도서지역 의료 취약 문제에 공동 대응하는 노력도 필요하다. 여수시가 율촌권역 대학병원 건립 필요성을 제기한 것도 이러한 지역 의료 수요와...",
+   "link": "https://www.newswhoplus.com/news/articleView.html?idxno=73725",
+   "originallink": "https://www.newswhoplus.com/news/articleView.html?idxno=73725",
+   "pubDate": "2026-11-07T12:16:00+09:00",
+   "matched_keywords": [
+    "산업재해"
+   ],
+   "event_score": 2,
+   "regions": [
+    "순천",
+    "순천시",
+    "여수"
+   ]
+  },
+  {
+   "title": "'입동 추위' 서울 첫얼음…설악산 영하 10도 육박",
+   "description": "산불 등 화재가 발생하지 않도록 불조심하시기 바랍니다. 자세한 낮 기온 확인해 보시면 서울이 8도, 춘천 9도, 대구 11도, 광주 13도에 그치면서 평년보다 기온이 5도가량 낮겠고 어제보다도 2도~7도가량 기온이 낮아 종일...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401339?sid=103",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835137&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T12:25:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주",
+    "대구",
+    "서울",
+    "춘천"
+   ]
+  },
+  {
+   "title": "폭우에 강풍까지... 페리 무더기 결항, 정전·침수 우려",
+   "description": "밴쿠버 아일랜드 북부와 서부, 중부 해안 일부 지역에는 최대 130㎜, 고지대에는 최대 175㎜의 비가 예상돼 산사태와 도로 유실에도 주의가 필요하다. BC주 하천예보센터는 남부와 중부 해안, 밴쿠버 아일랜드 북부·서부...",
+   "link": "https://www.koreadaily.com/article/20261106194023726",
+   "originallink": "https://www.koreadaily.com/article/20261106194023726",
+   "pubDate": "2026-11-07T12:42:00+09:00",
+   "matched_keywords": [
+    "산사태",
+    "도로침수",
+    "하천범람",
+    "강풍"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "여주시, 고병원성 조류인플루엔자 발생…긴급 방역 총력",
+   "description": "여주=비욘드포스트 송인호 기자 여주시가 7일 관내 농장에서 고병원성 조류인플루엔자(AI)가 발생함에 따라 추가 확산을 막기 위한 긴급 방역에 나섰다고 밝혔다. 시는 해당 농장에서 AI 의심축이 확인되자 초동방역팀을...",
+   "link": "http://www.beyondpost.co.kr/view.php?ud=2026110712331710514c878f8fa1_30",
+   "originallink": "http://www.beyondpost.co.kr/view.php?ud=2026110712331710514c878f8fa1_30",
+   "pubDate": "2026-11-07T12:42:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "여주 AI 방역망 뚫렸다…2년 만에 또 터진 ‘흥천 산란계 농장’ 26만 마...",
+   "description": "전남 장흥 육용오리 농장의 고병원성 조류인플루엔자(AI) 확진에 이어 여주시 흥천면의 대형 산란계 농장에서 H5형 AI 항원이 추가 검출되며 방역망이 뚫렸다. 7일 여주시와 고병원성 조류인플루엔자 중앙사고수습본부...",
+   "link": "https://n.news.naver.com/mnews/article/666/0000131003?sid=102",
+   "originallink": "https://www.kyeonggi.com/article/20261107580068",
+   "pubDate": "2026-11-07T12:52:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "여주",
+    "여주시",
+    "장흥",
+    "전남"
+   ]
+  },
+  {
+   "title": "여주시, 고병원성 AI 발생···확산 차단 총력",
+   "description": "경기 여주시가 관내 고병원성 조류인플루엔자(AI) 발생에 따라 추가 확산 방지와 조기 종식을 위한 긴급 방역에 나섰다. 7일 시에 따르면 AI 의심축이 확인된 농장에 초동방역팀을 투입하고 출입통제와 이동제한 조치를...",
+   "link": "https://www.seoulfn.com/news/articleView.html?idxno=642191",
+   "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=642191",
+   "pubDate": "2026-11-07T13:30:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "광주 폐기물 처리업체서 40대 근로자 3m 아래 추락…심정지 이송",
+   "description": "A씨는 사고 직후 심정지 상태로 소방 당국에 의해 병원으로 옮겨졌다. 경찰은 작업 과정에서 추락 사고가 발생한 구체적인 경위와 당시 현장 상황 등을 조사하고 있다.",
+   "link": "https://idsn.co.kr/news/view/1065588612429212",
+   "originallink": "https://idsn.co.kr/news/view/1065588612429212",
+   "pubDate": "2026-11-07T13:52:00+09:00",
+   "matched_keywords": [
+    "추락사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주"
+   ]
+  },
+  {
+   "title": "강릉 왕산면 주택서 화재…인근 임야로 번졌다 진화",
+   "description": "불은 인근 임야로 번졌으나 산불로 확산하지는 않았다. 화재 당시 주택 안에 있던 3명은 대피해 인명 피해가 없었다. 경찰과 소방 당국은 목격자 등을 상대로 정확한 화재 원인과 피해 규모를 조사 중이다.",
+   "link": "https://n.news.naver.com/mnews/article/448/0000649602?sid=102",
+   "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790055.html",
+   "pubDate": "2026-11-07T13:53:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강릉"
+   ],
+   "casualty_hints": {
+    "evacuated": 3
+   }
+  },
+  {
+   "title": "청양군, 도로명판 확충·정비로 주민 길 찾기 편의 높인다",
+   "description": "파악하고, 차량과 보행자 통행이 많은 지역을 중심으로 정비사업을 추진했다고... 특히 교통사고나 화재 등 긴급상황 발생 시 도로명판을 활용하면 정확한 위치를...",
+   "link": "http://www.breaknews.com/1249109",
+   "originallink": "http://www.breaknews.com/1249109",
+   "pubDate": "2026-11-07T13:58:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "청양군"
+   ]
+  },
+  {
+   "title": "옥천군, 공무용 차량 전담 운전자 및 담당자 50여 명 대상 안전관리 강...",
+   "description": "이번 교육은 공무용 차량 운행 중 일어날 수 있는 교통사고를 선제적으로 예방하고 운전자의 안전의식을 고취해 신뢰받는 차량 운행 문화를 다지기 위해 기획됐다....",
+   "link": "http://www.breaknews.com/1249082",
+   "originallink": "http://www.breaknews.com/1249082",
+   "pubDate": "2026-11-07T14:00:00+09:00",
+   "matched_keywords": [
+    "교통사고",
+    "음주운전사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "옥천",
+    "옥천군"
+   ]
+  },
+  {
+   "title": "추울수록 창문 더 열어야 할 이유… “심부전 일으키는 라돈 주의”",
+   "description": "라돈은 토양과 암석에서 우라늄이 붕괴돼 생성되는 무색·무취 방사성 가스로 토양 가스에 침투하며... 부족하면 건물 하부에 배출관과 환기팬을 설치하는 저감 설비를 고려할 수 있다. 한편, 이 연구 결과는 국제...",
+   "link": "https://n.news.naver.com/mnews/article/346/0000118536?sid=103",
+   "originallink": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602249.html",
+   "pubDate": "2026-11-07T14:01:00+09:00",
+   "matched_keywords": [
+    "건물붕괴"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "\"밀성초등학교 -밀양경찰서, \"아이들 안전 지킨다\"",
+   "description": "경찰은 축제 현장에 홍보 부스를 마련하고 어린이와 학부모를 대상으로 교통사고 예방 활동을 펼쳤다. 주요 교육 내용은 횡단보도 보행 안전 수칙과 자전거 및 킥보드 이용 시 주의 사항이다. \"참바른빛 진로 축제\"에...",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880871",
+   "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880871",
+   "pubDate": "2026-11-07T14:08:00+09:00",
+   "matched_keywords": [
+    "교통사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "밀양"
+   ]
+  },
+  {
+   "title": "여주시 가금농장서 고병원성 AI 발생…방역 강화",
+   "description": "경기 여주시의 한 가금농장에서 고병원성 조류인플루엔자(AI)가 발생하면서 지역 내 추가 감염을 차단하기 위한 방역 조치가 시행되고 있다. 여주시는 해당 농장의 출입과 이동을 제한하고 관내 축산시설과 가금농장에...",
+   "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1106088",
+   "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1106088",
+   "pubDate": "2026-11-07T14:26:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "여주시, 고병원성 AI 발생…긴급 방역 총력",
+   "description": "여주시는 관내에서 고병원성 조류인플루엔자(AI)가 발생함에 따라 추가 확산 방지와 조기 종식을 위해 긴급 방역 대응에 나섰다고 밝혔다. 시는 해당 농장에서 AI 의심축이 확인되자 즉시 초동방역팀을 투입하고, 농장에...",
+   "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67288",
+   "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=67288",
+   "pubDate": "2026-11-07T14:26:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "여주시, 고병원성 조류인플루엔자 발생 총력 대응",
+   "description": "해당 농장 주변 통제소 설치 여주시 흥천면 소재 양계 농장에서 고병원성 조류인플루엔자(AI)가 발생함에 따라 추가 확산방지와 조기 종식을 위해 긴급 방역 대응에 나섰다고 7일 밝혔다. 여주시는 해당농장에서 AI 의심축이...",
+   "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309341",
+   "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309341",
+   "pubDate": "2026-11-07T14:30:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "건조특보 확대…화목보일러 화재 등 강원 곳곳서 불",
+   "description": "전날 오전 11시 32분쯤에는 삼척시 하장면 갈전리 하장휴게소 인근의 목조 단독주택에서 화재가 발생했다. 불은 낮 12시 25분쯤 진화됐으나 54㎡ 규모의 주택 1동이 모두 타 소방서 추산 237만 원의 재산 피해가 났다. 인명...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275881?sid=102",
+   "originallink": "https://www.news1.kr/local/kangwon/6346406",
+   "pubDate": "2026-11-07T14:56:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "공장화재",
+    "창고화재",
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "삼척",
+    "삼척시"
+   ]
+  },
+  {
+   "title": "대구도시철도 3호선 또 고장…닷새 만에 운행 차질 '반복'",
+   "description": "현재 공사는 정확한 차량 고장 원인을 조사하고 있다. 대구도시철도 3호선에서는 최근에도 운행 장애가... 앞서 9월 7일 오후에도 수성구민운동장역부터 용지역 사이에 설치된 피뢰 시설에서 화재가 발생해 전력 공급에...",
+   "link": "https://n.news.naver.com/mnews/article/088/0001038941?sid=102",
+   "originallink": "https://www.imaeil.com/page/view/2026110715120068238",
+   "pubDate": "2026-11-07T15:13:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "〈패스오브엑자일2〉 12월 12일 출시···무료화·액트 5·6 개방",
+   "description": "얼음 함정과 가시 함정을 겹쳐 던져 얼음 가시를 터뜨리거나 독가스와 불 함정에 바람 함정을 더해 폭발 반경을 키우는 등 함정 간 연계 콤보 시스템이 도입됐다. 여기에 본체 대신 공격을 흡수하고 밀리 어택을...",
+   "link": "https://www.globale.co.kr/news/articleView.html?idxno=41495",
+   "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=41495",
+   "pubDate": "2026-11-07T15:20:00+09:00",
+   "matched_keywords": [
+    "가스폭발"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "대구 도시철도 3호선 또 운행 차질···전 구간 30여 분간 지연",
+   "description": "최근 잦은 운행 사고를 일으킨 대구 도시철도 3호선이 열차 고장으로 한때 전 구간 운행이 지연됐습니다. 대구교통공사에 따르면, 11월 7일 토요일 오후 2시 24분쯤 대구 도시철도 3호선 지산역~범물역 구간에서 차량...",
+   "link": "https://n.news.naver.com/mnews/article/657/0000057195?sid=102",
+   "originallink": "https://dgmbc.com/NewsArticle/872036",
+   "pubDate": "2026-11-07T15:31:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "[속보] 대구 3호선 지산~범물 차량 고장으로 전구간 지연 …36분 만에 정...",
+   "description": "오늘(7일) 오후 2시 24분쯤 대구 도시철도 3호선 지산~범물역간 차량 고장으로 전구간 열차 운행이 지연되는 사고가 발생했습니다. 이후 교통공사는 30여 분만에 차량 고장 조치를 완료하고 오후 3시부터 다시 전구간...",
+   "link": "https://news.skbroadband.com/news/articleView.html?idxno=242578",
+   "originallink": "https://news.skbroadband.com/news/articleView.html?idxno=242578",
+   "pubDate": "2026-11-07T15:40:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "군위군 산림재난대응단 33인 현장 투입",
+   "description": "산림재난대응단,발대식,산불예방수칙 군위군이 산불재난대응단 발대식을 갖고 본격적인 활동에 들어갔다. 군위군 대구 군위군이 본격적인 가을·겨울철 산불조심기간을 맞아 산림 피해 최소화와 신속한 초동 진화 체계...",
+   "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081822",
+   "originallink": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081822",
+   "pubDate": "2026-11-07T15:54:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "등산사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군위군",
+    "대구"
+   ]
+  },
+  {
+   "title": "정해웅 충남세종농협 본부장·오주현 농협은행 본부장, '명예소방관' 위...",
+   "description": "이들은 농촌 화재 예방 캠페인과 자연재해 피해 농가의 복구 지원 등에 기여한 공로를 인정받았으며, 향후 1년간 화재 예방 홍보와 안전 문화 확산 캠페인 등에 참여할 예정이다. 충남소방본부는 앞으로도 다양한 분야의...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009275981?sid=102",
+   "originallink": "https://www.news1.kr/local/daejeon-chungnam/6346433",
+   "pubDate": "2026-11-07T15:58:00+09:00",
+   "matched_keywords": [
+    "자연재해"
+   ],
+   "event_score": 2,
+   "regions": [
+    "세종",
+    "충남"
+   ]
+  },
+  {
+   "title": "북부지방산림청, 양구 소나무재선충병 신규발생 긴급 중앙방제대책회의",
+   "description": "북부지방산림청은 서울·인천·경기·강원 영서의 74개 시군을 관할하는 산림청 소속 기관으로, 국유림 관리와 산불 예방·산림병해충 방제, 조림·숲가꾸기, 임업직불제 등을 담당하고 있다.",
+   "link": "https://n.news.naver.com/mnews/article/002/0002464763?sid=102",
+   "originallink": "https://www.pressian.com/pages/articles/2026110715133587365?utm_source=naver&utm_medium=search",
+   "pubDate": "2026-11-07T15:59:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "경기",
+    "서울",
+    "양구",
+    "인천"
+   ]
+  },
+  {
+   "title": "경북산불공대위 세종서 집회… \"사각지대 없는 복구안 내놔라\"",
+   "description": "정부와 경북 산불 재건위원회가 피해 분야별 지원책을 담은 핵심 용역결과 발표를 미루고 회의 참관까지 막아서자, 피해 지역 주민들이 세종시 정부청사 앞 투쟁에 나섰다. 경북산불공동대책위원회(이하 공대위)는 지난...",
+   "link": "https://n.news.naver.com/mnews/article/088/0001038946?sid=102",
+   "originallink": "https://www.imaeil.com/page/view/2026110716430444463",
+   "pubDate": "2026-11-07T16:47:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북",
+    "세종",
+    "세종시"
+   ]
+  },
+  {
+   "title": "대구도시철도 3호선 잇단 운행장애로 시민 불안 가중",
+   "description": "더구나 이날 열차 고장은 대구교통공사 측이 대구시 교통국과 함께 지난 5일부터 6일 새벽까지 합동 특별안전 점검을 한 지 하루 만에 발생해 관할 기관의 사고·장애 예방 활동을 무색하게 했다. 대구교통공사 관계자는...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428187?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107043400053?input=1195m",
+   "pubDate": "2026-11-07T17:00:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구",
+    "대구시"
+   ]
+  },
+  {
+   "title": "대구도시철도 3호선 또 운행 차질…차량 고장에 30분간 지연",
+   "description": "대구도시철도 3호선에서 차량 고장으로 열차 운행이 지연되는 사고가 발생했다. 지난 2일 선로전환기... 앞서 9월 7일에도 수성구민운동장역과 용지역 사이 피뢰시설에서 화재가 발생하면서 전력 공급에 장애가 생겼다....",
+   "link": "https://n.news.naver.com/mnews/article/018/0006405610?sid=102",
+   "originallink": "https://www.edaily.co.kr/News/Read?newsId=02699446645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "pubDate": "2026-11-07T17:08:00+09:00",
+   "matched_keywords": [
+    "차량화재",
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "전공의 모집 앞 '압수수색 파장'…전남광주 소아의료 불안",
+   "description": "소아과 기피 배경으로 저출생과 수익성, 업무 부담 등이 거론되는 가운데 최근에는 의료사고에 따른 법적... 보성군민 김모씨는 \"인근 장흥 소아청소년과까지 자가용으로 약 30분이 걸리지만 버스를 이용하면 2시간...",
+   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000080468",
+   "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000080468",
+   "pubDate": "2026-11-07T17:09:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주",
+    "보성",
+    "장흥",
+    "전남"
+   ]
+  },
+  {
+   "title": "창고·음식점 등 강원 곳곳 화재…건조특보 확대 주의(종합)",
+   "description": "인명 피해는 없었으며 소방 당국은 정확한 화재 원인과 재산 피해 규모를 조사하고 있다. 앞서 오후 1시 11분쯤에는 인제군 북면 용대1리의 한 주택 창고에서 불이 났다. 불은 오후 1시 29분쯤 진화됐으나 창고 1동이...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276151?sid=102",
+   "originallink": "https://www.news1.kr/local/kangwon/6346463",
+   "pubDate": "2026-11-07T17:22:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "창고화재",
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "인제",
+    "인제군"
+   ]
+  },
+  {
+   "title": "영덕군, 산불감시원 120명 배치해 산불 예방 강화",
+   "description": "영덕군은 2025년 3월 경북 의성군에서 시작된 대형산불이 강풍을 타고 영덕군까지 확산하면서 막대한 인명·재산 피해가 발생한 만큼 산불 예방과 초기 진화에 행정력을 집중할 방침이다.이를 위해 내년 5월까지...",
+   "link": "https://www.kbsm.net/news/view.php?idx=540704",
+   "originallink": "https://www.kbsm.net/news/view.php?idx=540704",
+   "pubDate": "2026-11-07T17:28:00+09:00",
+   "matched_keywords": [
+    "강풍",
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북",
+    "영덕",
+    "영덕군",
+    "의성"
+   ]
+  },
+  {
+   "title": "전북 군산항 정박 중인 선박 화재로 3척 타 천7백여만 원 피해",
+   "description": "이 불로 선박 3척이 타, 천7백여만 원의 재산 피해가 났고 인명 피해는 없었습니다. 해경과 소방은 정확한 화재 원인을 조사하고 있습니다. [사진 출처: 전북소방본부]",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289338?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706705&ref=A",
+   "pubDate": "2026-11-07T17:44:00+09:00",
+   "matched_keywords": [
+    "선박화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "군산",
+    "전북"
+   ]
+  },
+  {
+   "title": "\"소방 전문 인력 자체 양성\"…전북소방교육훈련센터 개청",
+   "description": "향후 2027년 생활관 완공을 통해 신임 소방공무원 교육과정을 자체 운영하고, 산불 진압 전문훈련장도 구축할 계획이다. 진형민 전북특별자치도 소방본부장은 \"전북소방교육훈련센터 개청은 다른 지역 시설을 빌려...",
+   "link": "https://n.news.naver.com/mnews/article/277/0005839438?sid=102",
+   "originallink": "https://view.asiae.co.kr/article/2026110712142842979",
+   "pubDate": "2026-11-07T17:49:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "아파트화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "전북"
+   ]
+  },
+  {
+   "title": "대구 도시철도 3호선 열차 고장…전 구간 30여 분 운행 지연",
+   "description": "해당 사고로 3호선 전 구간에서 열차 운행이 지연됐다. 이후 공사 측의 조치로 약 30분 만인 오후 3시께 정상 운행이 재개됐다. 대구교통공사는 재난문자를 통해 열차 고장으로 인한 운행 지연 상황을 시민들에게...",
+   "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089926",
+   "originallink": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089926",
+   "pubDate": "2026-11-07T17:54:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "[AFTER 8NEWS] \"TV 보다 갑자기\" SBS 취재진도 당했다…'단 4초 만에' 2500...",
+   "description": "특히 일본에선 최근 들어서 요즘 거의 매일 같이 개인정보 유출 사고가 일어나고 있는데요. 누구나 알만한 큰 기업들도 줄줄이 당하고 있습니다. 일본 항공, 무인양품, 규동체인 마츠야, 아사히신문, 소니 생명 등...",
+   "link": "https://n.news.naver.com/mnews/article/055/0001401373?sid=104",
+   "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832760&plink=ORI&cooper=NAVER",
+   "pubDate": "2026-11-07T18:00:00+09:00",
+   "matched_keywords": [
+    "항공사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "진도"
+   ]
+  },
+  {
+   "title": "명화산업, 대구염색공단 이전 마무리…본격 가동 돌입",
+   "description": "명화산업은 지난 8월 발생한 화재로 공장 대부분이 소실되는 큰 피해를 입으면서 공장 가동을 중단하는 어려움을 겪었다. 사업을 지속하기조차 쉽지 않은 상황이었지만, 대구염색공단에 새로운 공장을 마련하고 기존...",
+   "link": "http://okfashion.co.kr/detail.php?number=64356&thread=81r47r02",
+   "originallink": "http://okfashion.co.kr/detail.php?number=64356&thread=81r47r02",
+   "pubDate": "2026-11-07T18:02:00+09:00",
+   "matched_keywords": [
+    "공장화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "경기도, AI 확산 차단 총력…18개 시군 긴급방역 점검",
+   "description": "경기도가 도내 가금농장에서 고병원성 조류인플루엔자(AI)가 잇따라 발생하자 18개 시군과 긴급방역대책 점검에 나선다. 도는 6일 오후 손임성 행정2부지사 주재로 도내 18개 시군 부단체장 등이 참석한 가운데...",
+   "link": "https://www.globalepic.co.kr/view.php?ud=2026110613250310275f69d33b22_29",
+   "originallink": "https://www.globalepic.co.kr/view.php?ud=2026110613250310275f69d33b22_29",
+   "pubDate": "2026-11-07T18:02:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기"
+   ]
+  },
+  {
+   "title": "전주시, 가온전선·전주공고와 취약계층 주거 안전 개선",
+   "description": "기업·학교 기술인력 연계…노후주택 화재 위험 줄인다 이번 작업에서는 화재 위험이 있는 전선과 차단기, 콘센트를 새것으로 교체하고 이동 경로에 보안등을 설치했다. 난방기구 사용이 증가하는 겨울철을 앞두고 전기...",
+   "link": "https://www.betanews.net/article/view/beta202611070009",
+   "originallink": "https://www.betanews.net/article/view/beta202611070009",
+   "pubDate": "2026-11-07T18:08:00+09:00",
+   "matched_keywords": [
+    "주택화재",
+    "공장화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "전주",
+    "전주시"
+   ]
+  },
+  {
+   "title": "서울성모병원, 질병청과 日 보건당국에 칸디다 오리스 감염관리 사례 공...",
+   "description": "▲서울성모병원 회의실에서 한·일 양국 감염병 전문가들이 원내 감염관리 현황 및 칸디다 오리스 대응... 양국은 의료기관 내 감염 예방과 진단·격리·치료 체계에 관한 경험을 교류하고, 국경 간 감염병 확산에...",
+   "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212944",
+   "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212944",
+   "pubDate": "2026-11-07T18:22:00+09:00",
+   "matched_keywords": [
+    "감염병",
+    "집단감염"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "\"계속 이동해주세요\"…'100만 예상' 부산불꽃축제, 안전 관리 총력",
+   "description": "청주에서 커플 여행차 부산을 찾은 20대 한 씨는 \"압사 사고 등이 있었다는 점을 감안해 통제가 강하게 이뤄지면 좋겠는데 그런 모습이 보이지 않았다\"고 말했다. 대구에서 가족과 함께 축제장을 찾은 61세 최 모 씨는...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276199?sid=102",
+   "originallink": "https://www.news1.kr/local/busan-gyeongnam/6346488",
+   "pubDate": "2026-11-07T18:25:00+09:00",
+   "matched_keywords": [
+    "압사사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구",
+    "동해",
+    "부산",
+    "청주"
+   ]
+  },
+  {
+   "title": "대구도시철도 3호선 '지산~범물' 고장…30여분만에 정상화",
+   "description": "해당 사고로 3호선 전 구간에서 열차 운행이 지연됐다. 공사는 고장 차량에 대한 조치를 진행해 약 30분이 지난 오후 3시께 전 구간 열차 운행을 정상화했다.또 재난문자를 통해 열차 고장에 따른 운행 지연과 정상화...",
+   "link": "https://www.kbsm.net/news/view.php?idx=540717",
+   "originallink": "https://www.kbsm.net/news/view.php?idx=540717",
+   "pubDate": "2026-11-07T18:26:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "낙상 관련 고령층 응급실 방문, 2040년엔 얼마나 증가할까?…최근 발표...",
+   "description": "(고령층에게 낙상 사고가 특히 위험한 이유)고령층에게 낙상 사고가 특히 위험한 이유는 노화로 인해 근력과 균형 감각이 저하되고 뼈가 약해지기 때문이다. 젊은 사람에게는 가벼운 충격으로 끝날 수 있는 넘어짐도...",
+   "link": "https://www.wikitree.co.kr/articles/1171303",
+   "originallink": "https://www.wikitree.co.kr/articles/1171303",
+   "pubDate": "2026-11-07T18:30:00+09:00",
+   "matched_keywords": [
+    "낙상사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "고령"
+   ]
+  },
+  {
+   "title": "[단독]100억 부실 논란 '포항 형산강 마리나', 감사원 이어 경찰도 들여...",
+   "description": "당초 계획된 개장을 앞둔 2023년 8월 해양전문가들 사이에서는 \"내수면인 형산강 마리나는 태풍에 취약하고 수심이 얕으며 유속이 빨라 요트 운항이 어렵다\"는 지적이 잇따랐다. 태풍 때 상류에서 떠내려오는 대량의...",
+   "link": "https://www.hidomin.com/news/articleView.html?idxno=728307",
+   "originallink": "https://www.hidomin.com/news/articleView.html?idxno=728307",
+   "pubDate": "2026-11-07T19:02:00+09:00",
+   "matched_keywords": [
+    "태풍"
+   ],
+   "event_score": 2,
+   "regions": [
+    "포항"
+   ]
+  },
+  {
+   "title": "여주 26만마리 산란계 농장서 고병원성 AI…전국 검사 2주마다",
+   "description": "경기 여주시의 26만여 마리 규모 산란계 농장에서 고병원성 조류인플루엔자(AI)가 확진됐다. 경기 연천과 장흥에 이어 올겨울 국내 가금농장 세 번째 발생이다. 방역당국은 전국 산란계 농장의 정밀검사 주기를 분기...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308077?sid=101",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003859010",
+   "pubDate": "2026-11-07T19:02:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "연천",
+    "장흥"
+   ]
+  },
+  {
+   "title": "경기 여주 산란계 농장서 고병원성 AI…이번 주 3건 확진",
+   "description": "경기 여주시의 산란계 농장에서 고병원성 조류인플루엔자(AI)가 확진됐습니다. 고병원성 AI 중앙사고수습본부는 산란계 26만여 마리를 키우는 여주시의 농장에서 오늘(7일) H5N1형 고병원성 AI가 확진됐다고 밝혔습니다....",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289344?sid=101",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706716&ref=A",
+   "pubDate": "2026-11-07T19:03:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주"
+   ]
+  },
+  {
+   "title": "여주 산란계 농장서 고병원성 AI 확진…이달 들어 3번째 사례",
+   "description": "산란계 농장 검사 2주 1회로 단축…17일까지 전국 일제 소독 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 7일 경기 여주시의 산란계 농장(26만여 마리 사육)에서 H5N1형 고병원성 AI가 확진됐다고 밝혔다. 이달...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428309?sid=101",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107048500030?input=1195m",
+   "pubDate": "2026-11-07T19:03:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주"
+   ]
+  },
+  {
+   "title": "입동 지나 초겨울…강원 내륙·산지 비 또는 눈",
+   "description": "강원영동은 대기가 건조한 상태가 이어질 수 있어 산불 등 화재 예방에도 주의가 필요하다. 월요일인 9일은 강원지역을 비롯한 전국이 대체로 흐리다가 오전부터 맑아지겠다. 아침 최저기온은 영하 1도~영상 10도, 낮...",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308078?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003859021",
+   "pubDate": "2026-11-07T19:11:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "강원",
+    "영동"
+   ]
+  },
+  {
+   "title": "“살려주세요”…나 살자고 전우 판 러 군인",
+   "description": "작업하던 인부는 폭발과 함께 큰 화를 당했습니다. == 인도 벵갈루루의 한 가정집에 가스 배달원이 빨간 LPG통을 현관 앞에 내려놓습니다. 가스통을 옮기려는 찰나, 불길이 남성의 얼굴을 그대로 덮칩니다. 불이 옮겨붙은...",
+   "link": "https://n.news.naver.com/mnews/article/449/0000366753?sid=104",
+   "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558891",
+   "pubDate": "2026-11-07T19:11:00+09:00",
+   "matched_keywords": [
+    "가스폭발"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "11월 두번째 휴일 경북내륙 아침 영하권....'큰 일교차 '건강 유의'",
+   "description": "산불 등 각종 화재 발생에 각별히 유의해야 한다. 막바지 단풍으로 물드는 경북 울진 북면 중당마을..2026.... 산불 등 각종 화재 발생에 각별히 유의해야 한다. 이튿날인 9일 오후(12~18시)부터 경북 권남부를 중심으로...",
+   "link": "https://www.newspim.com/news/view/20261107000120",
+   "originallink": "https://www.newspim.com/news/view/20261107000120",
+   "pubDate": "2026-11-07T19:19:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북"
+   ]
+  },
+  {
+   "title": "대구교통공사, 도시철도 장애 재발 방지 특별점검",
+   "description": "TF는 사고 예방 대책과 대응 매뉴얼 개선 등을 담당하며 이번 특별점검을 첫 실행 과제로 진행했다.6일 오전에는 월배차량기지에서 열차 장애 상황을 가정한 구원운전 훈련도 실시했다. 직원들의 초동 조치와 비상 대응...",
+   "link": "https://www.kbsm.net/news/view.php?idx=540721",
+   "originallink": "https://www.kbsm.net/news/view.php?idx=540721",
+   "pubDate": "2026-11-07T19:20:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "경기 여주 산란계 농장서 고병원성AI 확진…올겨울 3번째",
+   "description": "고병원성 조류인플루엔자(AI) 중앙사고수습본부는 7일 경기 여주시 소재 산란계 농장에서 고병원성 AI가 H5N1형으로 확진됐다고 발표했다. 이번 발생은 경기도 여주 산란계 농장에서 농장주가 닭 폐사 증가로 여주시에...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276233?sid=102",
+   "originallink": "https://www.news1.kr/economy/agri-food/6346521",
+   "pubDate": "2026-11-07T19:45:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "여주 산란계 농장 고병원성 조류인플루엔자…이달 세 번째",
+   "description": "경기 여주시의 산란계 농장에서 고병원성 조류인플루엔자(AI)가 확진됐다. 이달 들어 가금 농장에서 확인된 세 번째 사례다. 고병원성 조류인플루엔자 중앙사고수습본부(중수본)는 7일 26만여 마리를 사육하는 여주시...",
+   "link": "https://n.news.naver.com/mnews/article/011/0004679762?sid=102",
+   "originallink": "https://www.sedaily.com/article/20111475?ref=naver",
+   "pubDate": "2026-11-07T19:45:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "올해도 찾아온 '겨울 불청객' 조류인플루엔자…계란값 자극하나",
+   "description": "지난 겨울 조류인플루엔자로 1100만 마리에 달하는 닭을 살처분하면서 올해초 계란값이 크게 뛰었었죠. 이 불청객이 올해도 찾아왔습니다. 아직은 극히 일부라곤 하지만, 모처럼 안정을 찾은 계란값이 다시 자극받을까...",
+   "link": "https://n.news.naver.com/mnews/article/057/0001977172?sid=101",
+   "originallink": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229608",
+   "pubDate": "2026-11-07T20:11:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "100만 인파 몰렸다‥부산불꽃축제",
+   "description": "'부산의 꿈'을 주제로 한 이번 행사에서는 최대 500미터 높이까지 치솟는 초대형 불꽃부터, 축제의 상징인... 배치해 화재나 응급환자 발생에 대비하고 있습니다. 지금까지 광안리 해수욕장에서 MBC뉴스 이승엽입니다....",
+   "link": "https://n.news.naver.com/mnews/article/214/0001534138?sid=102",
+   "originallink": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863938_37004.html",
+   "pubDate": "2026-11-07T20:14:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "부산불꽃축제 개막… 광안리 밤하늘 수놓은 화려한 불꽃",
+   "description": "본행사에 앞서 공군 블랙이글스 에어쇼와 부산지역 인디밴드 버스킹, 시민 참여형 체험 프로그램 등도... 불꽃 발사 바지선 주변의 무단 접근을 통제하고 선박 충돌과 해상 추락 등 사고를 예방하기 위한 조치다. 또...",
+   "link": "https://www.newscj.com/news/articleView.html?idxno=3446802",
+   "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446802",
+   "pubDate": "2026-11-07T20:20:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "선박사고",
+    "해상사고",
+    "추락사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "장흥 오리농장 고병원성 AI 확진…방역 강화",
+   "description": "장흥의 한 오리농장에서 고병원성 조류인플루엔자가 확진돼 방역당국이 확산 차단에 나섰습니다. 농림축산식품부는 오는 13일까지 장흥지역 모든 오리농장과 발생 농장 계열사의 전국 계약농장을 대상으로 일제 검사를...",
+   "link": "https://kjmbc.co.kr/NewsArticle/1544617",
+   "originallink": "https://kjmbc.co.kr/NewsArticle/1544617",
+   "pubDate": "2026-11-07T20:25:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "장흥"
+   ]
+  },
+  {
+   "title": "[리포트]\"나이는 숫자에 불과\" 위급한 순간 빛난 '백발 영웅'",
+   "description": "최근 예산에서는, 70대 주민이 쓰러진 치매 노인을 구하는 등 어르신들의 활약이 화제가 됐는데, 어르신들이 심폐소생술을 배우는 현장에 이혜현 기자가 다녀왔습니다. ◀ 리포트 ▶ 살을 에는 추위가 계속되던 지난 2월...",
+   "link": "https://tjmbc.co.kr/NewsArticle/872044",
+   "originallink": "https://tjmbc.co.kr/NewsArticle/872044",
+   "pubDate": "2026-11-07T20:35:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 2,
+   "regions": [
+    "예산"
+   ]
+  },
+  {
+   "title": "[뉴스1 PICK] 부산 광안리 밤하늘 물들인 형형색색의 불꽃",
+   "description": "25인치 초대형 불꽃과 나이아가라 불꽃 등 약 8만 발의 불꽃이 밤하늘을 수놓아 관람객들의 환호성이... 경찰은 기동대 등 2200여 명, 소방당국도 600여 명을 배치해 화재나 응급환자 발생에 대비했다. 한편...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276279?sid=102",
+   "originallink": "https://www.news1.kr/society/general-society/6346545",
+   "pubDate": "2026-11-07T20:43:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "경기 여주 산란계 농장서 고병원성 AI 확진…26만 마리 사육",
+   "description": "경기 여주시의 산란계 농장에서 고병원성 조류인플루엔자, AI가 확진돼 방역 당국이 긴급 방역에 나섰습니다. 고병원성 AI 중앙사고수습본부는 오늘(7일) 여주시의 산란계 농장에서 H5N1형 고병원성 AI가 확인됐다고...",
+   "link": "https://n.news.naver.com/mnews/article/660/0000120824?sid=102",
+   "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070047",
+   "pubDate": "2026-11-07T20:46:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주"
+   ]
+  },
+  {
+   "title": "여주 산란계농장 고병원성 AI 확진…올겨울 가금농장 3번째 사례",
+   "description": "경기 여주의 산란계농장에서 고병원성 조류인플루엔자(AI)가 발생하면서 방역당국이 전국 산란계농장 정밀검사 주기를 2주 1회로 단축하는 등 방역강화에 나섰다. 고병원성 AI 중앙사고수습본부는 7일 여주의 한...",
+   "link": "https://n.news.naver.com/mnews/article/662/0000107889?sid=101",
+   "originallink": "https://www.nongmin.com/article/20261107500044",
+   "pubDate": "2026-11-07T20:51:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주"
+   ]
+  },
+  {
+   "title": "“현장 대응력 강화”…전북소방교육훈련센터 장수에 개청",
+   "description": "산불 대응 전문교육을 위한 전국 최초 ‘산불 화재 진압 교육장’도 구축할 방침이다. 2030년에는 다목적 교육관을 마련해 장기적으로 소방학교 승격을 추진한다. 진형민 전북도소방본부장은 “전북소방교육훈련센터...",
+   "link": "https://n.news.naver.com/mnews/article/022/0004173280?sid=102",
+   "originallink": "https://www.segye.com/newsView/20261106511050?OutUrl=naver",
+   "pubDate": "2026-11-07T20:56:00+09:00",
+   "matched_keywords": [
+    "산불",
+    "아파트화재",
+    "공장화재",
+    "가스폭발"
+   ],
+   "event_score": 2,
+   "regions": [
+    "전북"
+   ]
+  },
+  {
+   "title": "부산불꽃축제에 100만 인파..이 시각 광안리",
+   "description": "′부산의 꿈′을 주제로 한 이번 행사에선, 최대 500미터 높이까지 치솟는 초대형 불꽃부터, 축제의 상징인... 경찰도 기동대 등 모두 2천200여 명의 경력을 투입해 인파 집중 관리에 나섰고, 소방인력 600여 명도 화재와...",
+   "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290808",
+   "originallink": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290808",
+   "pubDate": "2026-11-07T21:00:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "'극한직업' 청주 난각번호 1번 유정란 속 남다른 노력",
+   "description": "2년 전 일어난 대형 화재로 농장이 파산 직전까지 몰렸던 작업자는 평소 달걀을 애용하던 회원들이 미리 지급한 금액을 돌려받는 대신 농장을 재건하고 재기할 때까지 응원과 지지를 보내주어 다시 일어설 수 있었다고...",
+   "link": "https://enter.etoday.co.kr/news/view/304890",
+   "originallink": "https://enter.etoday.co.kr/news/view/304890",
+   "pubDate": "2026-11-07T21:02:00+09:00",
+   "matched_keywords": [
+    "대형화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "청주"
+   ]
+  },
+  {
+   "title": "장흥 육용오리농장 H5N9 확진…전국 검사 강화",
+   "description": "장흥군 오리농장과 계열사 계약농장 13일까지 검사 전남광주 장흥군의 육용오리 농장에서 고병원성 조류인플루엔자(AI) H5N9형이 확진됐다. 농림축산식품부 중앙사고수습본부는 장흥군 내 오리농장과 발생 계열사의...",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=401841",
+   "originallink": "https://www.vegannews.co.kr/news/article.html?no=401841",
+   "pubDate": "2026-11-07T21:02:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "광주",
+    "장흥",
+    "장흥군",
+    "전남"
+   ]
+  },
+  {
+   "title": "'극한직업' 퓨전 떡집 앙버터 피자·초코 설기·청주 계란 편",
+   "description": "공장에서 생산한 사료를 그대로 사용하는 대신 여러 재료를 직접 배합한다. 계란을 생산하기 전, 닭이 무엇을... 2년 전 대형 화재가 발생해 농장 대부분이 불에 탔다. 삶을 걸고 일궈온 터전을 잃은 작업자는 파산 직전까지...",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611070113",
+   "originallink": "https://www.bntnews.co.kr/article/view/bnt202611070113",
+   "pubDate": "2026-11-07T21:04:00+09:00",
+   "matched_keywords": [
+    "공장화재",
+    "대형화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "청주"
+   ]
+  },
+  {
+   "title": "굳이 행사를 당진시청 안에서 해야 하나요…민원도 많은데",
+   "description": "또한 많은 차량이 몰리며 주차 공간 부족에 불법 주차로 시비가 잦다고 의회측은 전했다. 평소에도 산하기관 직원들의 연락처 미기재로 업무에 지장이 많다고 호소했다. 잔디로 조성된 광장이 방문객의 담뱃불로 화재에...",
+   "link": "https://www.kukinews.com/article/view/kuk202611070032",
+   "originallink": "https://www.kukinews.com/article/view/kuk202611070032",
+   "pubDate": "2026-11-07T21:08:00+09:00",
+   "matched_keywords": [
+    "차량화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "당진"
+   ]
+  },
+  {
+   "title": "여주시, 고병원성 조류인플루엔자 발생에 긴급 방역체계 가동…확산 차...",
+   "description": "여주시가 관내 농장에서 고병원성 조류인플루엔자(AI)가 발생함에 따라 추가 확산을 막기 위한 긴급 방역체계를 가동하고 지역 내 가금농장에 대한 방역 관리를 강화하고 있다. 시는 해당 농장에서 AI 의심축이 확인되자...",
+   "link": "https://www.tournews21.com/news/articleView.html?idxno=147774",
+   "originallink": "https://www.tournews21.com/news/articleView.html?idxno=147774",
+   "pubDate": "2026-11-07T21:10:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "연명의료 중단 시점·대리결정 주체, 시민 300명이 숙의",
+   "description": "연명의료는 심폐소생술, 혈액 투석, 항암제 투여, 인공호흡기 착용 등 치료 효과 없이 임종과정의 기간만 연장하는 의학적 시술을 말한다. 임종과정은 사망이 임박한 상태(통상 수일 내)를, 말기환자는 수개월 이내 사망이...",
+   "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978320",
+   "originallink": "https://medicalworldnews.co.kr/news/view.php?idx=1510978320",
+   "pubDate": "2026-11-07T21:10:00+09:00",
+   "matched_keywords": [
+    "심폐소생술"
+   ],
+   "event_score": 2,
+   "regions": []
+  },
+  {
+   "title": "장흥 오리농장 고병원성 조류인플루엔자 확진",
+   "description": "장흥의 한 육용오리 농장에서 고병원성 조류인플루엔자, AI가 확진돼 방역 당국이 방역 강화에 나섰습니다. 농림축산식품부는 육용오리 2만 2,000여 마리를 사육하는 장흥의 한 농장에서 H5형 조류인플루엔자 항원이...",
+   "link": "https://n.news.naver.com/mnews/article/660/0000120829?sid=102",
+   "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070046",
+   "pubDate": "2026-11-07T21:11:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "장흥"
+   ]
+  },
+  {
+   "title": "\"와!\" 탄성 터진 부산불꽃축제…광안리 밤하늘 수놓은 불꽃",
+   "description": "경북 안동에서 온 우성준(10대)씨는 \"점심쯤 친한 형들과 고속버스를 타고 부산에 왔다\"며 \"불꽃축제를 직접... 총 212회 증편했으며, 행사 전후로 배차 간격을 단축 운영했다. 안전사고 예방을 위한 인력 1341명도 투입했다.",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308160?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003859011",
+   "pubDate": "2026-11-07T21:13:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북",
+    "부산",
+    "안동"
+   ]
+  },
+  {
+   "title": "120만 명 탄성 터진 광안리…부산불꽃축제 뒤 광안리 인파 '북적'(종합)",
+   "description": "120만 명이나 되는 방문객이 몰린 만큼 지하철역이나 버스정류장 등 귀가하는 관람객들로 광안리... 지자체, 경찰, 소방 해경 등은 안전사고 방지를 위해 인원과 장비를 투입해 안전관리에 나섰다. 경찰은...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276313?sid=102",
+   "originallink": "https://www.news1.kr/local/busan-gyeongnam/6346552",
+   "pubDate": "2026-11-07T21:27:00+09:00",
+   "matched_keywords": [
+    "버스사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "대구도시철도 3호선 차량 고장...36분 동안 운행 중단",
+   "description": "인해 열차가 멈춰 서면서 전 구간 운행이 36분 동안 중단됐습니다. 오후 2시 54분 뒤늦게 재난문자가 발송됐지만, 일부 승객들이 불편을 겪었습니다. 대구교통공사는 정확한 사고 원인을 조사하고 있습니다....",
+   "link": "https://www.tbc.co.kr/news/view?pno=20261107152801AE08142&id=213049",
+   "originallink": "https://www.tbc.co.kr/news/view?pno=20261107152801AE08142&id=213049",
+   "pubDate": "2026-11-07T21:30:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "광안리 하늘 반짝인 '부산 불꽃축제'[뉴시스Pic]",
+   "description": "경북 안동에서 온 우성준(10대)씨는 \"점심쯤 친한 형들과 고속버스를 타고 부산에 왔다\"며 \"불꽃축제를 직접... 총 212회 증편했으며, 행사 전후로 배차 간격을 단축 운영했다. 안전사고 예방을 위한 인력 1341명도 투입했다.",
+   "link": "https://n.news.naver.com/mnews/article/003/0014308165?sid=102",
+   "originallink": "https://www.newsis.com/view/NISX20261107_0003859051",
+   "pubDate": "2026-11-07T21:34:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북",
+    "부산",
+    "안동"
+   ]
+  },
+  {
+   "title": "대구 3호선 열차 고장…전 구간 운행 지연",
+   "description": "대구교통공사는 사고 30여 분만인 오늘 오후 3시쯤 열차 고장 문제를 해결하고 전 구간 정상 운행을 재개했다고 밝혔습니다. 대구도시철도 3호선 운행이 고장으로 지연되거나 중단된 건, 지난 9월과 지난 2일에 이어...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289396?sid=101",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706781&ref=A",
+   "pubDate": "2026-11-07T21:34:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "대구"
+   ]
+  },
+  {
+   "title": "장흥 오리농장 반경 10km 내 농가 정밀검사 진행",
+   "description": "장흥 오리 농장에서 고병원성 조류인플루엔자가 확진된 가운데 발생농장 반경 10km 내 가금농장 23곳에 대해 정밀검사가 진행되고 있습니다. 또 오는 13일까지 장흥군 모든 오리농장 등에 대해 일제검사를 하기로...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289399?sid=101",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706786&ref=A",
+   "pubDate": "2026-11-07T21:40:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "장흥",
+    "장흥군"
+   ]
+  },
+  {
+   "title": "김영훈 장관, 영암 대불산단 사고 원인 점검 지시",
+   "description": "영암 대불산단에서 산업재해가 반복되는데 대해 김영훈 고용노동부장관이 긴급 기관장 회의에서 \"원인이 시설 낙후 때문인지, 노사의 인식이나 노력이 부족한 것인지, 노동부 정성이 부족한 것인지 점검하라\"고...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289400?sid=100",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706787&ref=A",
+   "pubDate": "2026-11-07T21:41:00+09:00",
+   "matched_keywords": [
+    "산업재해"
+   ],
+   "event_score": 2,
+   "regions": [
+    "영암"
+   ]
+  },
+  {
+   "title": "고양이가 전기레인지 켰나…익산 원룸서 불, 681만원 피해",
+   "description": "7일 오후 5시 32분께 전북 익산시 신동의 한 다가구주택에서 불이 났다. 이 불로 원룸 내부와 가재도구 등이... 정확한 화재 원인을 조사하고 있다. 연기를 흡입한 고양이는 도내 한 대학의 수의대 응급실로 이송된...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276315?sid=102",
+   "originallink": "https://www.news1.kr/local/jeonbuk/6346554",
+   "pubDate": "2026-11-07T21:43:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "고양",
+    "익산",
+    "익산시",
+    "전북"
+   ]
+  },
+  {
+   "title": "\"혼자 있던 고양이가 낸 불?\".. 익산 다가구주택 화재",
+   "description": "집에 홀로 남겨진 고양이가 전기레인지를 작동시켜 불이 난 것으로 추정되는 화재가 발생했습니다. 오늘(7일) 오후 5시 반쯤 익산시 신동의 한 다가구주택에서 불이 나, 1개 호실 내부 10제곱미터를 태우는 등 680만 원의...",
+   "link": "https://n.news.naver.com/mnews/article/659/0000048513?sid=102",
+   "originallink": "http://www.jmbc.co.kr/news/view/69538",
+   "pubDate": "2026-11-07T21:47:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "고양",
+    "익산",
+    "익산시"
+   ]
+  },
+  {
+   "title": "경기 여주 산란계 농장서 고병원성 AI 확진… 동절기 누적 3건",
+   "description": "경기 여주시 산란계 농장에서 고병원성 조류인플루엔자(AI)가 발생하면서 정부가 전국 가금농장에 대한 방역 조치를 강화하고 나섰다. 고병원성 AI 중앙사고수습본부는 7일 여주시 소재 산란계 농장에서 H5N1형...",
+   "link": "https://www.newscj.com/news/articleView.html?idxno=3446814",
+   "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446814",
+   "pubDate": "2026-11-07T22:02:00+09:00",
+   "matched_keywords": [
+    "조류인플루엔자"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경기",
+    "여주",
+    "여주시"
+   ]
+  },
+  {
+   "title": "고양이가 전기레인지 스위치 밟았나···익산 원룸서 화재",
+   "description": "전북 익산의 한 다가구주택에서 고양이가 전기레인지 전원 스위치를 밟아 불이 난 것으로 추정되는 화재가 발생했다. 7일 익산소방서에 따르면 이날 오후 5시32분쯤 익산시 신동의 한 다가구주택 3층 원룸에서 불이 나 28분...",
+   "link": "https://n.news.naver.com/mnews/article/032/0003481263?sid=102",
+   "originallink": "https://www.khan.co.kr/article/202611072225001",
+   "pubDate": "2026-11-07T22:25:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "고양",
+    "익산",
+    "익산시",
+    "전북"
+   ]
+  },
+  {
+   "title": "서울교통공사, 철도준사고 보고 누락 시정명령 받고도 또 위반…과징금...",
+   "description": "서울교통공사는 그럼에도 올해 2월 지하철 2호선 서울대입구역에서 발생한 준사고를 보고하지 않았다. 당시 선로전환기가 비정상 상태였지만 신호담당자가 불법으로 회로를 변경해 진행신호가 표시되도록 했다. 열차...",
+   "link": "https://n.news.naver.com/mnews/article/022/0004173288?sid=101",
+   "originallink": "https://www.segye.com/newsView/20261106507505?OutUrl=naver",
+   "pubDate": "2026-11-07T22:28:00+09:00",
+   "matched_keywords": [
+    "열차사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "서울"
+   ]
+  },
+  {
+   "title": "[인천스타트업파크 CEO] 화물 운송 공급망의 데이터 인프라 연결하는 기...",
+   "description": "운송 건마다 화물 충격률과 화물차 사고를 판정하고, ISO 14083 국제표준에 따라 1차 데이터 기반 배출량을... 전기버스 운수사의 반응도 그렇습니다. 국내 버스 운수 그룹 한 곳과 전기버스 500대의 연간 감축량을 EAC로...",
+   "link": "https://magazine.hankyung.com/job-joy/article/202611072420d",
+   "originallink": "https://magazine.hankyung.com/job-joy/article/202611072420d",
+   "pubDate": "2026-11-07T22:32:00+09:00",
+   "matched_keywords": [
+    "버스사고",
+    "화물차사고",
+    "항공사고",
+    "해상사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "인천"
+   ]
+  },
+  {
+   "title": "부산 가을밤 화려하게 수놓은 불꽃 8만발…120만명 인파 환호(종합)",
+   "description": "부산소방본부와 경찰에 따르면 많은 인파가 몰렸음에도 축제는 큰 사고 없이 무사히 끝이 났다. 이날 오후... 부산교통공사는 축제 당일 도시철도 1∼3호선 열차를 총 212회 추가 운행하고 배차 간격도 단축했다. 한편...",
+   "link": "https://n.news.naver.com/mnews/article/001/0016428371?sid=102",
+   "originallink": "https://www.yna.co.kr/view/AKR20261107050251051?input=1195m",
+   "pubDate": "2026-11-07T22:47:00+09:00",
+   "matched_keywords": [
+    "열차사고",
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "전북 익산시 신동 다가구주택 3층서 불…인명 피해 없어",
+   "description": "이 불로 인명 피해는 없었지만, 주택 내부와 가재도구 등이 타, 소방서 추산 6백80여 만원의 재산 피해가 났습니다. 경찰과 소방 당국은 주방 조리기구에서 불이 시작한 것으로 보고 정확한 화재 원인을 조사하고...",
+   "link": "https://n.news.naver.com/mnews/article/056/0012289430?sid=102",
+   "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706828&ref=A",
+   "pubDate": "2026-11-07T22:59:00+09:00",
+   "matched_keywords": [
+    "주택화재"
+   ],
+   "event_score": 2,
+   "regions": [
+    "익산",
+    "익산시",
+    "전북"
+   ]
+  },
+  {
+   "title": "'120만명 운집' 부산불꽃축제…구급활동 111건·큰 사고 없이 마무리",
+   "description": "화재 등 다른 특이 상황은 발생하지 않았다. 부산경찰청은 이날 행사장 일대에서 미리 돗자리를 깔아... 부산시 집계 결과 이날 축제에는 선박 112척에 탑승한 4651명을 포함해 총 120만 5951명이 방문했다. 지난해...",
+   "link": "https://n.news.naver.com/mnews/article/421/0009276321?sid=102",
+   "originallink": "https://www.news1.kr/local/busan-gyeongnam/6346563",
+   "pubDate": "2026-11-07T23:09:00+09:00",
+   "matched_keywords": [
+    "선박화재",
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산",
+    "부산시"
+   ]
+  },
+  {
+   "title": "금복주, 대구·경북 고교생 279명에 장학금",
+   "description": "이 밖에도 대구세계육상선수권대회 지원금 50억원, 대구·경북 코로나19 극복 지원기금 20억원, 경북 산불 피해 복구 성금 5억원 등을 지원했다. 현재까지 지역사회 공익사업에 지원한 누적 금액은 약 267억원에 달한다.",
+   "link": "https://n.news.naver.com/mnews/article/088/0001038991?sid=004",
+   "originallink": "https://www.imaeil.com/page/view/2026110721350329680",
+   "pubDate": "2026-11-07T23:32:00+09:00",
+   "matched_keywords": [
+    "산불"
+   ],
+   "event_score": 2,
+   "regions": [
+    "경북",
+    "대구"
+   ]
+  },
+  {
+   "title": "[포착] 부산 밤바다 수놓은 8만발 불꽃…120만명 가을밤 만끽",
+   "description": "광안리 앞바다에서는 요트 등 선박 112척이 불꽃을 감상했다. 올해는 유료좌석을 1만7000여석으로 늘리고... 대규모 인파가 몰렸지만 축제는 큰 사고 없이 마무리됐다. 소방당국에 따르면 이날 오후 9시45분 기준 구급...",
+   "link": "https://n.news.naver.com/mnews/article/005/0001883617?sid=102",
+   "originallink": "https://www.kmib.co.kr/article/20261107500153",
+   "pubDate": "2026-11-07T23:40:00+09:00",
+   "matched_keywords": [
+    "선박사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "부산"
+   ]
+  },
+  {
+   "title": "[속보] 인천 월미도 해안서 익수 사고… 119 긴급 구조 중",
+   "description": "입동인 7일 오후께 인천광역시 제물포구 월미도 해안가에서 익수로 보이는 시민이 있어 신고를 받은 119 소방대에서 긴급구조활동을 벌이고 있다.",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745229",
+   "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3745229",
+   "pubDate": "2026-11-07T23:44:00+09:00",
+   "matched_keywords": [
+    "익수사고"
+   ],
+   "event_score": 2,
+   "regions": [
+    "인천"
+   ]
+  }
+ ]
+}
